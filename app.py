@@ -5,10 +5,10 @@ import streamlit as st
 st.set_page_config(page_title="YouTube Sentiment Trader", layout="wide")
 st.title("😀 Automated YouTube Sentiment Trader")
 
-# >>> CHANGE THIS to your real GitHub Pages URL once enabled (Step 4)
-FEED_URL = "https://<your-username>.github.io/Robotbeatsdad103/data/feed.json"
+# ✅ CHANGE THIS after Step 4 to your real GitHub Pages URL
+FEED_URL = "https://<YOUR_GITHUB_USERNAME>.github.io/<YOUR_REPO_NAME>/data/feed.json"
 
-@st.cache_data(ttl=900)  # cache 15 min
+@st.cache_data(ttl=900)  # 15 min cache
 def load_feed():
     r = requests.get(FEED_URL, timeout=20)
     r.raise_for_status()
@@ -28,7 +28,7 @@ st.caption(f"Last updated (UTC): {payload.get('last_updated','unknown')}")
 
 rows = payload.get("rows", [])
 if not rows:
-    st.warning("No data found. Run the local ingestor to generate feed.json and push it.")
+    st.warning("No data found yet. The GitHub Action will generate data/feed.json for you.")
 else:
     df = pd.DataFrame(rows)
     for _, row in df.iterrows():
@@ -36,11 +36,9 @@ else:
         st.markdown(f"**Video:** [{row['Video Title']}]({row['URL']})  |  **Published:** {row['Published']}")
         st.markdown(f"**Sentiment:** {row['Sentiment']}")
         st.markdown(f"**Summary:** {row['Summary']}")
-
         if row.get("TranscriptNote"):
             st.caption(row["TranscriptNote"])
 
-        # Key Points
         if row.get("KeyPoints"):
             st.markdown("**Key Points (trading):**")
             for p in row["KeyPoints"]:
