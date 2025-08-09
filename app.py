@@ -15,8 +15,8 @@ from youtube_transcript_api import (
 # ----------------------------
 # App & Page
 # ----------------------------
-st.set_page_config(page_title="YouTube Sentiment Trader", layout="wide")
-st.title("🤖 Automated YouTube Sentiment Trader (Daily Cached • No API Key)")
+st.set_page_config(page_title="Automated YouTube Sentiment Trader", layout="wide")
+st.title("😀 Automated YouTube Sentiment Trader")
 
 # ----------------------------
 # Fixed YouTuber Channel IDs
@@ -35,76 +35,153 @@ YOUTUBERS = {
 USER_AGENT = {"User-Agent": "yt-daily-cache/1.0"}
 
 # ----------------------------
+# Trading heuristics (tweak as you like)
+# ----------------------------
+CRYPTO = {"BTC","ETH","SOL","ADA","XRP","DOT","LINK","AVAX","MATIC","DOGE","ARB","OP","ATOM","BNB"}
+MACRO_TERMS = {
+    "cpi","inflation","jobs","nonfarm","payrolls","pce","core","fomc","fed","rate","hike","cut",
+    "ecb","boe","gdp","recession","etf","halving","halvening","treasury","yields","bond"
+}
+ACTIONS = {"buy","sell","accumulate","take profit","tp","stop","stop loss","short","long","hedge","entry","target"}
+LEVEL_WORDS = {"support","resistance","target","entry","stop","stoploss","stop-loss"}
+
+TICKER_DOLLAR = re.compile(r"\$[A-Z]{1,5}\b")  # $TSLA style
+PLAIN_TICKER = re.compile(r"\b[A-Z]{2,5}\b")   # crude fallback (we'll filter)
+PCT = re.compile(r"\b-?\d+(?:\.\d+)?%")
+PRICE = re.compile(r"(?:\$|£|€)\s?\d{1,3}(?:,\d{3})*(?:\.\d+)?")
+LEVEL_NEAR = re.compile(r"(support|resistance|target|entry|stop)[^.\n]{0,80}", re.I)
+
+def split_sentences(text: str):
+    # Simple sentence splitter
+    return re.split(r"(?<=[.!?])\s+", re.sub(r"\s+", " ", text).strip())
+
+def score_sentence(s: str) -> int:
+    s_low = s.lower()
+    score = 0
+    score += 3 * len(TICKER_DOLLAR.findall(s))
+    score += 2 * len(PCT.findall(s))
+    score += 2 * len(PRICE.findall(s))
+    if any(w in s_low for w in LEVEL_WORDS): score += 2
+    if any(w in s_low for w in ACTIONS): score += 2
+    if any(w in s_low for w in MACRO_TERMS): score += 1
+    # Crypto/asset mentions
+    score += sum(1 for c in CRYPTO if c in s)
+    return score
+
+def extract_entities(text: str):
+    tickers = set(x[1:] for x in TICKER_DOLLAR.findall(text))  # strip leading $
+    # Add crypto symbols that appear plainly
+    for sym in CRYPTO:
+        if re.search(rf"\b{sym}\b", text):
+            tickers.add(sym)
+    # Very conservative plain-ticker capture (avoid full caps normal words)
+    for m in PLAIN_TICKER.findall(text):
+        if m in CRYPTO: tickers.add(m)
+    macro = sorted({w for w in MACRO_TERMS if re.search(rf"\b{w}\b", text.lower())})
+    actions = sorted({w for w in ACTIONS if re.search(rf"\b{w}\b", text.lower())})
+    levels = []
+    for sent in split_sentences(text):
+        if re.search(LEVEL_NEAR, sent):
+            price_hits = PRICE.findall(sent)
+            pieces = []
+            if price_hits: pieces.append(" ".join(price_hits[:3]))
+            pct_hits = PCT.findall(sent)
+            if pct_hits: pieces.append(" ".join(pct_hits[:3]))
+            if pieces:
+                levels.append(f"{sent.strip()}  ➜ {', '.join(pieces)}")
+            else:
+                levels.append(sent.strip())
+    return {
+        "tickers": sorted(tickers),
+        "macro": macro,
+        "actions": actions,
+        "levels": levels[:5]
+    }
+
+def pick_key_points(text: str, k: int = 5):
+    sents = split_sentences(text)
+    scored = sorted(((score_sentence(s), s) for s in sents if len(s) > 30), reverse=True)
+    points = []
+    used = set()
+    for _, s in scored:
+        s_norm = s.strip()
+        if s_norm.lower() in used: 
+            continue
+        used.add(s_norm.lower())
+        points.append(s_norm)
+        if len(points) >= k: break
+    return points
+
+# ----------------------------
 # Helpers
 # ----------------------------
 def rss_latest_video(channel_id: str):
-    """Return (video_id, title, link, published_date) for the most recent upload via RSS."""
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     r = requests.get(url, timeout=20, headers=USER_AGENT)
     r.raise_for_status()
     feed = xmltodict.parse(r.text)
     entry = feed.get("feed", {}).get("entry")
-
-    # If there are multiple entries, the first is the latest
     if isinstance(entry, list):
         entry = entry[0]
     if not entry:
         raise RuntimeError("No entries found in RSS feed")
-
     video_id = entry.get("yt:videoId")
     title = entry.get("title", "Untitled")
     link = entry.get("link", {})
     link_href = link.get("@href") if isinstance(link, dict) else f"https://www.youtube.com/watch?v={video_id}"
     published = entry.get("published", "")
-
-    # Normalize date to YYYY-MM-DD if available
     published_date = published[:10] if published else ""
-
     return video_id, title, link_href, published_date
 
-
 def tidy_text(text: str) -> str:
-    text = re.sub(r"\s+", " ", text or "").strip()
-    return text
-
+    return re.sub(r"\s+", " ", text or "").strip()
 
 def quick_summary(text: str, max_sentences: int = 5) -> str:
     text = tidy_text(text)
     if not text:
         return ""
-    parts = re.split(r"(?<=[.!?])\s+", text)
+    parts = split_sentences(text)
     summary = " ".join(parts[:max_sentences])
     return summary if summary.endswith((".", "!", "?")) else (summary + ".")
 
-
 def label_to_icon(label: str) -> str:
-    if label == "POSITIVE":
-        return "🟢 Bullish"
-    if label == "NEGATIVE":
-        return "🔴 Bearish"
+    if label == "POSITIVE": return "🟢 Bullish"
+    if label == "NEGATIVE": return "🔴 Bearish"
     return "🟡 Neutral"
 
+def fetch_transcript_text(video_id: str):
+    """Prefer human English transcript; fall back to auto-generated English."""
+    langs = ["en","en-US","en-GB"]
+    try:
+        transcripts = YouTubeTranscriptApi.list_transcripts(video_id)
+        try:
+            t = transcripts.find_transcript(langs)      # human
+        except NoTranscriptFound:
+            t = transcripts.find_generated_transcript(langs)  # auto
+        segments = t.fetch()
+        return " ".join(seg.get("text","") for seg in segments if seg.get("text"))
+    except (NoTranscriptFound, TranscriptsDisabled, CouldNotRetrieveTranscript):
+        return None
 
 # ----------------------------
 # Cached resources (Model)
 # ----------------------------
 @st.cache_resource
 def get_sentiment_pipeline():
-    # Load once per session, not every call
     from transformers import pipeline
     return pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english")
-
 
 # ----------------------------
 # Daily cached fetch + analysis
 # ----------------------------
-@st.cache_data(ttl=86400)  # 24 hours
+@st.cache_data(ttl=86400)  # 24h cache
 def fetch_and_analyze_daily():
     """
     For each channel:
       - Get latest video via RSS (no API key)
-      - Try transcripts
-      - Single short sentiment pass (no chunking)
+      - Try transcript via youtube-transcript-api
+      - Single, short sentiment pass
+      - Extract trading key points/entities
     Returns: (DataFrame, last_updated_iso)
     """
     sentiment = get_sentiment_pipeline()
@@ -113,99 +190,38 @@ def fetch_and_analyze_daily():
     for channel_id, name in YOUTUBERS.items():
         try:
             video_id, video_title, video_url, published = rss_latest_video(channel_id)
+            tx = fetch_transcript_text(video_id)
 
-            # Try transcript (graceful error handling)
-            transcript_text = None
-            try:
-                transcript = YouTubeTranscriptApi.get_transcript(video_id)
-                transcript_text = " ".join(seg.get("text", "") for seg in transcript if seg.get("text"))
-                transcript_text = tidy_text(transcript_text)
-            except NoTranscriptFound:
-                transcript_text = None
-                summary = "Transcript unavailable (not provided by channel)."
-            except TranscriptsDisabled:
-                transcript_text = None
-                summary = "Transcript disabled by uploader."
-            except CouldNotRetrieveTranscript:
-                transcript_text = None
-                summary = "Transcript could not be retrieved."
-            except Exception as e:
-                transcript_text = None
-                summary = f"Transcript error: {e}"
-
-            # Sentiment (single short pass; avoid heavy inference)
-            if transcript_text:
-                sample = transcript_text[:1024]           # sample text to limit work
-                result = sentiment(sample[:512])[0]        # single pass
+            if tx:
+                full = tidy_text(tx)
+                sample = full[:1024]                  # quick compute
+                result = sentiment(sample[:512])[0]   # one pass
                 sentiment_icon = label_to_icon(result["label"])
                 summary = quick_summary(sample)
-            else:
-                sentiment_icon = "⚪️ Unknown"
 
-            rows.append(
-                {
-                    "Name": name,
-                    "Video Title": video_title,
-                    "Published": published,
-                    "URL": video_url,
-                    "Summary": summary,
-                    "Sentiment": sentiment_icon,
-                }
-            )
+                ents = extract_entities(full)
+                bullets = pick_key_points(full, k=5)
+            else:
+                sentiment_icon = "🟣 Unknown"
+                summary = "Transcript unavailable."
+                ents = {"tickers": [], "macro": [], "actions": [], "levels": []}
+                bullets = []
+
+            rows.append({
+                "Name": name,
+                "Video Title": video_title,
+                "Published": published,
+                "URL": video_url,
+                "Summary": summary,
+                "Sentiment": sentiment_icon,
+                "KeyPoints": bullets,
+                "Entities": ents
+            })
 
         except Exception as e:
-            # RSS or other failure: keep the channel row visible with a clear message
-            rows.append(
-                {
-                    "Name": name,
-                    "Video Title": "Unavailable",
-                    "Published": "",
-                    "URL": "",
-                    "Summary": f"Error fetching latest video: {e}",
-                    "Sentiment": "⚪️ Unknown",
-                }
-            )
-            # brief polite backoff so we don't hammer RSS if there are many errors
-            time.sleep(0.5)
-
-    df = pd.DataFrame(rows)
-    last_updated = datetime.now(timezone.utc).isoformat()
-    return df, last_updated
-
-
-# ----------------------------
-# UI: Refresh + Display
-# ----------------------------
-col1, col2 = st.columns([1, 2])
-with col1:
-    if st.button("🔄 Refresh now (clear daily cache)"):
-        fetch_and_analyze_daily.clear()
-        st.success("Cache cleared. Re-running…")
-        st.rerun()
-
-with st.spinner("🚀 Fetching daily-cached sentiments…"):
-    df, last_updated_iso = fetch_and_analyze_daily()
-
-st.subheader("🎥 Latest YouTuber Sentiment Dashboard")
-st.caption(f"Last updated (UTC): {last_updated_iso}")
-
-if df.empty:
-    st.warning("No data found.")
-else:
-    for _, row in df.iterrows():
-        with st.container():
-            st.markdown(f"### {row['Name']}")
-            st.markdown(
-                f"**Video:** [{row['Video Title']}]({row['URL']}) &nbsp; | &nbsp; **Published:** {row['Published']}"
-            )
-            st.markdown(f"**Sentiment:** {row['Sentiment']}")
-            st.markdown(f"**Summary:** {row['Summary']}")
-            st.markdown("---")
-
-st.markdown(
-    """
-    This page **fetches the most recent video from each preset channel via RSS**, then **tries to read transcripts** for a quick
-    **one-pass sentiment** and **brief summary**.  
-    Data is cached for **24 hours**. Use **Refresh** to update immediately.
-    """
-)
+            rows.append({
+                "Name": name,
+                "Video Title": "Unavailable",
+                "Published": "",
+                "URL": "",
+                "Summary"
