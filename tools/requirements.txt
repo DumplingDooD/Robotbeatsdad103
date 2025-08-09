@@ -1,0 +1,4 @@
+requests
+xmltodict
+youtube-transcript-api==0.6.2
+yt-dlp==2024.08.06
