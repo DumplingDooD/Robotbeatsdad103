@@ -1,0 +1,7 @@
+streamlit
+requests
+xmltodict
+youtube-transcript-api
+transformers
+torch
+pandas
