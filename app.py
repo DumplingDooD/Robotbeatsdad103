@@ -118,7 +118,7 @@ def pick_key_points(text: str, k: int = 5):
     return points
 
 # ----------------------------
-# Helpers
+# RSS helper
 # ----------------------------
 def rss_latest_video(channel_id: str):
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
@@ -154,18 +154,31 @@ def label_to_icon(label: str) -> str:
     if label == "NEGATIVE": return "🔴 Bearish"
     return "🟡 Neutral"
 
+# ----------------------------
+# Transcript helper (works on old/new versions)
+# ----------------------------
 def fetch_transcript_text(video_id: str):
-    """Prefer human English transcript; fall back to auto-generated English."""
+    """Prefer human English transcript; fall back to auto-generated English.
+       Works with both old (get_transcript) and newer (list_transcripts) versions."""
     langs = ["en", "en-US", "en-GB"]
     try:
-        transcripts = YouTubeTranscriptApi.list_transcripts(video_id)
-        try:
-            t = transcripts.find_transcript(langs)  # human
-        except NoTranscriptFound:
-            t = transcripts.find_generated_transcript(langs)  # auto
-        segments = t.fetch()
+        if hasattr(YouTubeTranscriptApi, "list_transcripts"):
+            transcripts = YouTubeTranscriptApi.list_transcripts(video_id)
+            try:
+                t = transcripts.find_transcript(langs)          # human
+            except NoTranscriptFound:
+                t = transcripts.find_generated_transcript(langs) # auto
+            segments = t.fetch()
+        elif hasattr(YouTubeTranscriptApi, "get_transcript"):
+            segments = YouTubeTranscriptApi.get_transcript(video_id, languages=langs)
+        else:
+            return None
+
         return " ".join(seg.get("text", "") for seg in segments if seg.get("text"))
+
     except (NoTranscriptFound, TranscriptsDisabled, CouldNotRetrieveTranscript):
+        return None
+    except Exception:
         return None
 
 # ----------------------------
