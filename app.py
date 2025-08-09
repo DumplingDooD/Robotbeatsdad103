@@ -35,24 +35,30 @@ YOUTUBERS = {
 USER_AGENT = {"User-Agent": "yt-daily-cache/1.0"}
 
 # ----------------------------
-# Trading heuristics (tweak as you like)
+# Trading heuristics
 # ----------------------------
-CRYPTO = {"BTC","ETH","SOL","ADA","XRP","DOT","LINK","AVAX","MATIC","DOGE","ARB","OP","ATOM","BNB"}
-MACRO_TERMS = {
-    "cpi","inflation","jobs","nonfarm","payrolls","pce","core","fomc","fed","rate","hike","cut",
-    "ecb","boe","gdp","recession","etf","halving","halvening","treasury","yields","bond"
+CRYPTO = {
+    "BTC", "ETH", "SOL", "ADA", "XRP", "DOT", "LINK", "AVAX",
+    "MATIC", "DOGE", "ARB", "OP", "ATOM", "BNB"
 }
-ACTIONS = {"buy","sell","accumulate","take profit","tp","stop","stop loss","short","long","hedge","entry","target"}
+MACRO_TERMS = {
+    "cpi","inflation","jobs","nonfarm","payrolls","pce","core","fomc","fed",
+    "rate","hike","cut","ecb","boe","gdp","recession","etf","halving",
+    "halvening","treasury","yields","bond"
+}
+ACTIONS = {
+    "buy","sell","accumulate","take profit","tp","stop","stop loss",
+    "short","long","hedge","entry","target"
+}
 LEVEL_WORDS = {"support","resistance","target","entry","stop","stoploss","stop-loss"}
 
-TICKER_DOLLAR = re.compile(r"\$[A-Z]{1,5}\b")  # $TSLA style
-PLAIN_TICKER = re.compile(r"\b[A-Z]{2,5}\b")   # crude fallback (we'll filter)
+TICKER_DOLLAR = re.compile(r"\$[A-Z]{1,5}\b")  # $TSLA
+PLAIN_TICKER = re.compile(r"\b[A-Z]{2,5}\b")
 PCT = re.compile(r"\b-?\d+(?:\.\d+)?%")
 PRICE = re.compile(r"(?:\$|£|€)\s?\d{1,3}(?:,\d{3})*(?:\.\d+)?")
 LEVEL_NEAR = re.compile(r"(support|resistance|target|entry|stop)[^.\n]{0,80}", re.I)
 
 def split_sentences(text: str):
-    # Simple sentence splitter
     return re.split(r"(?<=[.!?])\s+", re.sub(r"\s+", " ", text).strip())
 
 def score_sentence(s: str) -> int:
@@ -64,19 +70,17 @@ def score_sentence(s: str) -> int:
     if any(w in s_low for w in LEVEL_WORDS): score += 2
     if any(w in s_low for w in ACTIONS): score += 2
     if any(w in s_low for w in MACRO_TERMS): score += 1
-    # Crypto/asset mentions
     score += sum(1 for c in CRYPTO if c in s)
     return score
 
 def extract_entities(text: str):
-    tickers = set(x[1:] for x in TICKER_DOLLAR.findall(text))  # strip leading $
-    # Add crypto symbols that appear plainly
+    tickers = set(x[1:] for x in TICKER_DOLLAR.findall(text))
     for sym in CRYPTO:
         if re.search(rf"\b{sym}\b", text):
             tickers.add(sym)
-    # Very conservative plain-ticker capture (avoid full caps normal words)
     for m in PLAIN_TICKER.findall(text):
-        if m in CRYPTO: tickers.add(m)
+        if m in CRYPTO:
+            tickers.add(m)
     macro = sorted({w for w in MACRO_TERMS if re.search(rf"\b{w}\b", text.lower())})
     actions = sorted({w for w in ACTIONS if re.search(rf"\b{w}\b", text.lower())})
     levels = []
@@ -105,11 +109,12 @@ def pick_key_points(text: str, k: int = 5):
     used = set()
     for _, s in scored:
         s_norm = s.strip()
-        if s_norm.lower() in used: 
+        if s_norm.lower() in used:
             continue
         used.add(s_norm.lower())
         points.append(s_norm)
-        if len(points) >= k: break
+        if len(points) >= k:
+            break
     return points
 
 # ----------------------------
@@ -151,15 +156,15 @@ def label_to_icon(label: str) -> str:
 
 def fetch_transcript_text(video_id: str):
     """Prefer human English transcript; fall back to auto-generated English."""
-    langs = ["en","en-US","en-GB"]
+    langs = ["en", "en-US", "en-GB"]
     try:
         transcripts = YouTubeTranscriptApi.list_transcripts(video_id)
         try:
-            t = transcripts.find_transcript(langs)      # human
+            t = transcripts.find_transcript(langs)  # human
         except NoTranscriptFound:
             t = transcripts.find_generated_transcript(langs)  # auto
         segments = t.fetch()
-        return " ".join(seg.get("text","") for seg in segments if seg.get("text"))
+        return " ".join(seg.get("text", "") for seg in segments if seg.get("text"))
     except (NoTranscriptFound, TranscriptsDisabled, CouldNotRetrieveTranscript):
         return None
 
@@ -198,7 +203,6 @@ def fetch_and_analyze_daily():
                 result = sentiment(sample[:512])[0]   # one pass
                 sentiment_icon = label_to_icon(result["label"])
                 summary = quick_summary(sample)
-
                 ents = extract_entities(full)
                 bullets = pick_key_points(full, k=5)
             else:
@@ -224,5 +228,57 @@ def fetch_and_analyze_daily():
                 "Video Title": "Unavailable",
                 "Published": "",
                 "URL": "",
-                "Summary"
-           })
+                "Summary": f"Error fetching latest video: {e}",
+                "Sentiment": "🟣 Unknown",
+                "KeyPoints": [],
+                "Entities": {"tickers": [], "macro": [], "actions": [], "levels": []}
+            })
+            time.sleep(0.4)
+
+    df = pd.DataFrame(rows)
+    last_updated = datetime.now(timezone.utc).isoformat()
+    return df, last_updated
+
+# ----------------------------
+# UI
+# ----------------------------
+col1, _ = st.columns([1, 2])
+with col1:
+    if st.button("🔁 Refresh now (clear daily cache)"):
+        fetch_and_analyze_daily.clear()
+        st.success("Cache cleared — reloading…")
+        st.rerun()
+
+st.subheader("🎥 Latest YouTuber Sentiment Dashboard")
+with st.spinner("Fetching…"):
+    df, last_updated_iso = fetch_and_analyze_daily()
+
+st.caption(f"Last updated (UTC): {last_updated_iso}")
+
+if df.empty:
+    st.warning("No data found.")
+else:
+    for _, row in df.iterrows():
+        st.markdown(f"## {row['Name']}")
+        st.markdown(f"**Video:** [{row['Video Title']}]({row['URL']})  |  **Published:** {row['Published']}")
+        st.markdown(f"**Sentiment:** {row['Sentiment']}")
+        st.markdown(f"**Summary:** {row['Summary']}")
+
+        # Key Points
+        if row["KeyPoints"]:
+            st.markdown("**Key Points (trading):**")
+            for p in row["KeyPoints"]:
+                st.markdown(f"- {p}")
+
+        # Entities
+        ents = row["Entities"]
+        chips = []
+        if ents["tickers"]: chips.append("**Tickers:** " + ", ".join(ents["tickers"]))
+        if ents["macro"]:   chips.append("**Macro:** " + ", ".join(ents["macro"]))
+        if ents["actions"]: chips.append("**Actions:** " + ", ".join(ents["actions"]))
+        if ents["levels"]:
+            chips.append("**Levels/Calls:** " + " | ".join(ents["levels"]))
+        if chips:
+            st.markdown(" <br/> ".join(chips), unsafe_allow_html=True)
+
+        st.markdown("---")
