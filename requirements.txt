@@ -1,7 +1,7 @@
 streamlit
 requests
 xmltodict
-youtube-transcript-api>=0.6.2
+youtube-transcript-api==0.6.2
 transformers
 torch
 pandas
