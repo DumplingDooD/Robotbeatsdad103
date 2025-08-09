@@ -225,3 +225,4 @@ def fetch_and_analyze_daily():
                 "Published": "",
                 "URL": "",
                 "Summary"
+           })
