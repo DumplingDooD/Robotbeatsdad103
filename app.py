@@ -6,7 +6,7 @@ st.set_page_config(page_title="YouTube Sentiment Trader", layout="wide")
 st.title("😀 Automated YouTube Sentiment Trader")
 
 # ✅ CHANGE THIS after Step 4 to your real GitHub Pages URL
-FEED_URL = "https://<YOUR_GITHUB_USERNAME>.github.io/<YOUR_REPO_NAME>/data/feed.json"
+FEED_URL = "https://dumplingdood.github.io/robotbeatsdad103/data/feed.json"
 
 @st.cache_data(ttl=900)  # 15 min cache
 def load_feed():
