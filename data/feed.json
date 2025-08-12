@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-11T18:39:43.209235+00:00",
+  "last_updated": "2025-08-12T02:04:25.113812+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Microstrategy will reach $16,000 per share... here's how I know",
-      "Published": "2025-08-09",
-      "URL": "https://www.youtube.com/watch?v=4xcauTXEWRU",
+      "Video Title": "This is a forever game. Earn, buy and build.",
+      "Published": "2025-08-11",
+      "URL": "https://www.youtube.com/shorts/7rfzP6YjKSI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "4xcauTXEWRU"
+      "VideoID": "7rfzP6YjKSI"
     },
     {
       "Name": "CTO Larsson",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Bull Market Support Band",
+      "Video Title": "Bitcoin Movement",
       "Published": "2025-08-11",
-      "URL": "https://www.youtube.com/watch?v=TApg7Rem69g",
+      "URL": "https://www.youtube.com/shorts/SDNKAsKIBkY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "TApg7Rem69g"
+      "VideoID": "SDNKAsKIBkY"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "LIVE: Lummis Bitcoin Mortgage Bill, Bitcoin in 401(k)s | Capitol Gains Ep. 2",
-      "Published": "2025-08-09",
-      "URL": "https://www.youtube.com/watch?v=qe77iYxbPhs",
+      "Video Title": "Mark Moss: \"Bitcoin is a Cheat Code\" | Bitcoin Backstage",
+      "Published": "2025-08-11",
+      "URL": "https://www.youtube.com/watch?v=ahj_lDwR1Vk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "qe77iYxbPhs"
+      "VideoID": "ahj_lDwR1Vk"
     },
     {
       "Name": "George Gammon",
