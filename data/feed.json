@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-12T06:39:00.947600+00:00",
+  "last_updated": "2025-08-12T12:54:45.394366+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "DCA Live: Here we go!",
-      "Published": "2025-08-11",
-      "URL": "https://www.youtube.com/watch?v=P1p3wh7WhMI",
+      "Video Title": "Don't Celebrate Yet",
+      "Published": "2025-08-12",
+      "URL": "https://www.youtube.com/watch?v=GU5Cz5U89JE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "P1p3wh7WhMI"
+      "VideoID": "GU5Cz5U89JE"
     },
     {
       "Name": "Benjamin Cowen",
