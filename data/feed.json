@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-12T12:54:45.394366+00:00",
+  "last_updated": "2025-08-12T18:38:47.958227+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "URGENT: Bitcoin & ETH Next Stop, XRP, ADA, SUI Price Predictions",
-      "Published": "2025-08-11",
-      "URL": "https://www.youtube.com/watch?v=Q5u7H5RG2NM",
+      "Video Title": "This Hidden Crisis Could Wipe Out Your Retirement Savings",
+      "Published": "2025-08-12",
+      "URL": "https://www.youtube.com/watch?v=6-pbaJLJ_7Q",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,13 +33,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Q5u7H5RG2NM"
+      "VideoID": "6-pbaJLJ_7Q"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "This is a forever game. Earn, buy and build.",
-      "Published": "2025-08-11",
-      "URL": "https://www.youtube.com/shorts/7rfzP6YjKSI",
+      "Video Title": "The difference between broke and rich is simple... help others more often.",
+      "Published": "2025-08-12",
+      "URL": "https://www.youtube.com/shorts/2CtQQWUpME4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "7rfzP6YjKSI"
+      "VideoID": "2CtQQWUpME4"
     },
     {
       "Name": "CTO Larsson",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "askARK What Are The Differences Between Bitcoin And Ethereum?",
-      "Published": "2025-08-11",
-      "URL": "https://www.youtube.com/shorts/1eKzvBINLpM",
+      "Video Title": "A Recovery Defined By Innovation",
+      "Published": "2025-08-12",
+      "URL": "https://www.youtube.com/shorts/Vq56J5mWp_w",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "1eKzvBINLpM"
+      "VideoID": "Vq56J5mWp_w"
     }
   ]
 }
