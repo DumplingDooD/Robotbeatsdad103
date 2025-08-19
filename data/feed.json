@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-18T18:38:30.137189+00:00",
+  "last_updated": "2025-08-19T02:00:20.053287+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Jeff Park: Bitcoin Treasury, Tether & Japan’s Role in the New Monetary Order | Bitcoin Backstage",
-      "Published": "2025-08-16",
-      "URL": "https://www.youtube.com/watch?v=dRVlGxNDCZw",
+      "Video Title": "How the Company Securing $100B in Bitcoin Protects It | Bitcoin for Corporations Ep. 12",
+      "Published": "2025-08-18",
+      "URL": "https://www.youtube.com/watch?v=e2dRkc_oWXA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "dRVlGxNDCZw"
+      "VideoID": "e2dRkc_oWXA"
     },
     {
       "Name": "George Gammon",
