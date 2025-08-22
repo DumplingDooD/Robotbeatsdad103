@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-08-21T18:33:49.297527+00:00",
+  "last_updated": "2025-08-22T01:57:42.921197+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "🐂 Where’s the Bull Market? Did It Even Happen Yet? 🤔",
-      "Published": "2025-08-20",
-      "URL": "https://www.youtube.com/watch?v=sbviM3wxEaw",
+      "Video Title": "💰Money vs AI🤖: BTC vs Tesla — Who Wins the Next Decade? 🚀",
+      "Published": "2025-08-21",
+      "URL": "https://www.youtube.com/watch?v=OFAJIAffjyI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "sbviM3wxEaw"
+      "VideoID": "OFAJIAffjyI"
     },
     {
       "Name": "Coin Bureau",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Coming tomorrow.",
-      "Published": "2025-08-20",
-      "URL": "https://www.youtube.com/shorts/nw0kH5fu25Y",
+      "Video Title": "ARK Tests Tesla Robotaxi",
+      "Published": "2025-08-21",
+      "URL": "https://www.youtube.com/watch?v=RnrgVkoj334",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "nw0kH5fu25Y"
+      "VideoID": "RnrgVkoj334"
     }
   ]
 }
