@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-22T01:57:42.921197+00:00",
+  "last_updated": "2025-08-22T06:37:20.976641+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "ETH / BTC",
-      "Published": "2025-08-20",
-      "URL": "https://www.youtube.com/watch?v=dWW3QcU1KjI",
+      "Video Title": "Bitcoin Market Cycles",
+      "Published": "2025-08-22",
+      "URL": "https://www.youtube.com/watch?v=NA2_o6QIuUg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "dWW3QcU1KjI"
+      "VideoID": "NA2_o6QIuUg"
     },
     {
       "Name": "Bitcoin Magazine",
