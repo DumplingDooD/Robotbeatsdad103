@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-26T01:58:45.158438+00:00",
+  "last_updated": "2025-08-26T06:38:05.622316+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "What Fed Chair Powell's Jackson Hole Speech Means for Bitcoin's Price | Capitol Gains Ep. 5",
-      "Published": "2025-08-23",
-      "URL": "https://www.youtube.com/watch?v=toOXIYl6DME",
+      "Video Title": "Jeff Booth: One System Must Die for Bitcoin to Win | Bitcoin Politics Ep. 7",
+      "Published": "2025-08-25",
+      "URL": "https://www.youtube.com/watch?v=ikLjCUyLIjA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "toOXIYl6DME"
+      "VideoID": "ikLjCUyLIjA"
     },
     {
       "Name": "George Gammon",
