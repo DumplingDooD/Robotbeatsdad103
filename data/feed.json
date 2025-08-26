@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-26T12:54:37.267919+00:00",
+  "last_updated": "2025-08-26T18:34:38.773221+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "URGENT: Crypto's Crashing, BTC & ETH's Next Move & What We Hate in Crypto!",
-      "Published": "2025-08-25",
-      "URL": "https://www.youtube.com/watch?v=BaG3tp-S2Rc",
+      "Video Title": "WARNING: Ethereum Could Be In Trouble Here! Top 5 Concerns",
+      "Published": "2025-08-26",
+      "URL": "https://www.youtube.com/watch?v=W8IT1knGQfc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "BaG3tp-S2Rc"
+      "VideoID": "W8IT1knGQfc"
     },
     {
       "Name": "Mark Moss",
@@ -89,7 +89,7 @@
     {
       "Name": "Bitcoin Magazine",
       "Video Title": "Jeff Booth: One System Must Die for Bitcoin to Win | Bitcoin Politics Ep. 7",
-      "Published": "2025-08-25",
+      "Published": "2025-08-26",
       "URL": "https://www.youtube.com/watch?v=ikLjCUyLIjA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "ARK Tests Tesla Robotaxi",
-      "Published": "2025-08-25",
-      "URL": "https://www.youtube.com/shorts/M5TgHWpWqjo",
+      "Video Title": "askARK What Are Digital Asset Treasuries (DATs)?",
+      "Published": "2025-08-26",
+      "URL": "https://www.youtube.com/shorts/k-JiNZMwo0c",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "M5TgHWpWqjo"
+      "VideoID": "k-JiNZMwo0c"
     }
   ]
 }
