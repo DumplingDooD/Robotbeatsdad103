@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-27T12:51:04.093242+00:00",
+  "last_updated": "2025-08-27T18:33:23.192274+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Biggest Risks To Ethereum In 2025 - ETH Holders Beware!",
-      "Published": "2025-08-26",
-      "URL": "https://www.youtube.com/watch?v=W8IT1knGQfc",
+      "Video Title": "Trump’s Crypto Empire: What The Insiders Hold",
+      "Published": "2025-08-27",
+      "URL": "https://www.youtube.com/watch?v=qclEBBniVVY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "W8IT1knGQfc"
+      "VideoID": "qclEBBniVVY"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "askARK What Are Digital Asset Treasuries (DATs)?",
-      "Published": "2025-08-26",
-      "URL": "https://www.youtube.com/shorts/k-JiNZMwo0c",
+      "Video Title": "Meet The Team - Tom Staudt",
+      "Published": "2025-08-27",
+      "URL": "https://www.youtube.com/shorts/ug4P27uMsUk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "k-JiNZMwo0c"
+      "VideoID": "ug4P27uMsUk"
     }
   ]
 }
