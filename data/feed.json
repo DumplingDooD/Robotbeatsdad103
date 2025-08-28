@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-28T06:36:37.675052+00:00",
+  "last_updated": "2025-08-28T12:51:00.909599+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "BTS at Bitcoin Asia 2025 👀",
+      "Video Title": "Bitcoin Asia 2025 | Day 1 Livestream",
       "Published": "2025-08-28",
-      "URL": "https://www.youtube.com/shorts/09-3OXXcBTU",
+      "URL": "https://www.youtube.com/watch?v=03pPjKqRUzY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "09-3OXXcBTU"
+      "VideoID": "03pPjKqRUzY"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Prediction Markets Are Revolutionizing Sports Betting | The Brainstorm EP 99",
-      "Published": "2025-08-27",
-      "URL": "https://www.youtube.com/watch?v=oi_D-TnzW4Y",
+      "Video Title": "Robinhood’s Super App With CEO Vlad Tenev",
+      "Published": "2025-08-28",
+      "URL": "https://www.youtube.com/watch?v=EO0hMsBPh1w",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "oi_D-TnzW4Y"
+      "VideoID": "EO0hMsBPh1w"
     }
   ]
 }
