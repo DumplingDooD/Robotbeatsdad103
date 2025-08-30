@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-30T06:32:05.064324+00:00",
+  "last_updated": "2025-08-30T12:44:50.848317+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Trump and CZ Talk Bitcoin Policy In Hong Kong | Capitol Gains Ep. 6",
+      "Video Title": "Damus Announcement w/ Will Casarin",
       "Published": "2025-08-30",
-      "URL": "https://www.youtube.com/watch?v=-L-hMa31DrY",
+      "URL": "https://www.youtube.com/watch?v=yPa8T5YNR_w",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "-L-hMa31DrY"
+      "VideoID": "yPa8T5YNR_w"
     },
     {
       "Name": "George Gammon",
