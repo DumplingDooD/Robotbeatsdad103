@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-30T12:44:50.848317+00:00",
+  "last_updated": "2025-08-30T18:30:56.284920+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Ethereum's Biggest Threat Is Here: What It Means For ETH!",
-      "Published": "2025-08-29",
-      "URL": "https://www.youtube.com/watch?v=dJ_l0qudZrg",
+      "Video Title": "Coinbase vs Robinhood: Which One Has More Potential?",
+      "Published": "2025-08-30",
+      "URL": "https://www.youtube.com/watch?v=Hnpg1cpgMJ4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "dJ_l0qudZrg"
+      "VideoID": "Hnpg1cpgMJ4"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Ethereum: Dubious Speculation",
-      "Published": "2025-08-29",
-      "URL": "https://www.youtube.com/watch?v=qbllwsOo2gY",
+      "Video Title": "Ethereum's Surge & What Will Bitcoin Do Next",
+      "Published": "2025-08-30",
+      "URL": "https://www.youtube.com/shorts/pQL0EyRI3WU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "qbllwsOo2gY"
+      "VideoID": "pQL0EyRI3WU"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Damus Announcement w/ Will Casarin",
+      "Video Title": "Punch Your Ticket: The Exploding On Chain Economy w/ Ken Liao - Xverse",
       "Published": "2025-08-30",
-      "URL": "https://www.youtube.com/watch?v=yPa8T5YNR_w",
+      "URL": "https://www.youtube.com/watch?v=Q1GGRlB0V6U",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "yPa8T5YNR_w"
+      "VideoID": "Q1GGRlB0V6U"
     },
     {
       "Name": "George Gammon",
