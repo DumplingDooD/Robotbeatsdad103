@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-03T12:49:50.751023+00:00",
+  "last_updated": "2025-09-03T18:33:38.399023+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "This Indian Market Is Out of Control – Crypto Could Be Next!",
-      "Published": "2025-09-02",
-      "URL": "https://www.youtube.com/watch?v=FCc_epoBjLw",
+      "Video Title": "The Global Economy Is Breaking: Crypto Could Be the Escape",
+      "Published": "2025-09-03",
+      "URL": "https://www.youtube.com/watch?v=OJM18p-_yJo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "FCc_epoBjLw"
+      "VideoID": "OJM18p-_yJo"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The Micro & Macro Forces Accelerating Institutional Bitcoin Adoption w/Alessio Quaglini, and Kyu Ho",
-      "Published": "2025-09-02",
-      "URL": "https://www.youtube.com/watch?v=0Z8xRHhFUUI",
+      "Video Title": "Taking the First Step: Self Custody Can Be Easy",
+      "Published": "2025-09-03",
+      "URL": "https://www.youtube.com/watch?v=9rvJtTVkBLg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "0Z8xRHhFUUI"
+      "VideoID": "9rvJtTVkBLg"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Meet The Team - Nick Grous",
-      "Published": "2025-09-02",
-      "URL": "https://www.youtube.com/shorts/VyMAWJgsrC0",
+      "Video Title": "askARK Can Vision-Only Self-Driving Compare To LiDAR-Based Technology?",
+      "Published": "2025-09-03",
+      "URL": "https://www.youtube.com/shorts/eZs8cgNfxZs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "VyMAWJgsrC0"
+      "VideoID": "eZs8cgNfxZs"
     }
   ]
 }
