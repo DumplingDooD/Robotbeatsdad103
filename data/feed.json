@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-06T01:48:35.295510+00:00",
+  "last_updated": "2025-09-06T06:31:44.752714+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "NFA Live! Bitcoin in 2025",
-      "Published": "2025-09-04",
-      "URL": "https://www.youtube.com/watch?v=y2wd9Nc_BLk",
+      "Video Title": "Unemployment Rate Rises to 4.3%",
+      "Published": "2025-09-06",
+      "URL": "https://www.youtube.com/watch?v=3hI7L8LiSLE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "y2wd9Nc_BLk"
+      "VideoID": "3hI7L8LiSLE"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Can Bitcoin Succeed Without Another Soft Fork? w/ Janusz",
-      "Published": "2025-09-05",
-      "URL": "https://www.youtube.com/watch?v=OGrRMT40NI0",
+      "Video Title": "The Push For Clarity In Washington DC | Capitol Gains Ep. 7",
+      "Published": "2025-09-06",
+      "URL": "https://www.youtube.com/watch?v=VEySREc2CEk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "OGrRMT40NI0"
+      "VideoID": "VEySREc2CEk"
     },
     {
       "Name": "George Gammon",
