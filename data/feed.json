@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-07T01:57:27.382075+00:00",
+  "last_updated": "2025-09-07T06:32:02.413086+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Unemployment Rate Rises to 4.3%",
-      "Published": "2025-09-06",
-      "URL": "https://www.youtube.com/watch?v=3hI7L8LiSLE",
+      "Video Title": "Ethereum: Dubious Speculation",
+      "Published": "2025-09-07",
+      "URL": "https://www.youtube.com/watch?v=-sL3yCytXvA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "3hI7L8LiSLE"
+      "VideoID": "-sL3yCytXvA"
     },
     {
       "Name": "Bitcoin Magazine",
