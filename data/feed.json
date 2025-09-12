@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12T12:48:04.845987+00:00",
+  "last_updated": "2025-09-12T18:30:13.274564+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "He Bought $8 Billion ETH! Tom Lee's INSANE Ethereum Price Predictions",
-      "Published": "2025-09-11",
-      "URL": "https://www.youtube.com/watch?v=tECp8rgSLLI",
+      "Video Title": "Cracking Job Market: Will It Trigger a Crypto Rally or Crash?",
+      "Published": "2025-09-12",
+      "URL": "https://www.youtube.com/watch?v=fM7QKrZWTDo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,11 +33,11 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "tECp8rgSLLI"
+      "VideoID": "fM7QKrZWTDo"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "How To Beat Inflation Even When The Government Keeps Printing Money",
+      "Video Title": "The entire financial system is being rebuilt right in front of our eyes",
       "Published": "2025-09-09",
       "URL": "https://www.youtube.com/watch?v=kiL-u9gl_RU",
       "Summary": "Transcript unavailable.",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin Adoption is Going Global w/ Hunter Albright, Teruko Neriki, Pete Rizzo & Frank Corva",
+      "Video Title": "How the Latest Crypto Market Structure Bill Draft Affects Bitcoin | Capitol Gains Ep. 8",
       "Published": "2025-09-12",
-      "URL": "https://www.youtube.com/watch?v=KpsrujS1SCw",
+      "URL": "https://www.youtube.com/watch?v=92OX-BuXfPY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "KpsrujS1SCw"
+      "VideoID": "92OX-BuXfPY"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Building An AI Ecosystem With Dmitry Shevelenko From Perplexity",
-      "Published": "2025-09-11",
-      "URL": "https://www.youtube.com/watch?v=BQe-wz4cxqI",
+      "Video Title": "Tesla Robotaxi Revolution | The Brainstorm EP 100",
+      "Published": "2025-09-12",
+      "URL": "https://www.youtube.com/watch?v=77IglVrwWxU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "BQe-wz4cxqI"
+      "VideoID": "77IglVrwWxU"
     }
   ]
 }
