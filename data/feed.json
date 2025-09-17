@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-17T06:36:20.965442+00:00",
+  "last_updated": "2025-09-17T12:51:29.473677+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Fear and Greed",
-      "Published": "2025-09-16",
-      "URL": "https://www.youtube.com/watch?v=u-sSgkw8Vcs",
+      "Video Title": "Bitcoin: Pre-FOMC",
+      "Published": "2025-09-17",
+      "URL": "https://www.youtube.com/watch?v=GXVxrZuwVXE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "u-sSgkw8Vcs"
+      "VideoID": "GXVxrZuwVXE"
     },
     {
       "Name": "Bitcoin Magazine",
