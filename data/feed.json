@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-19T06:35:41.201822+00:00",
+  "last_updated": "2025-09-19T12:50:35.939679+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Larsson Line Half Off (48 Hours)",
-      "Published": "2025-09-13",
-      "URL": "https://www.youtube.com/watch?v=Y10MUjWXajM",
+      "Video Title": "Nobody Can Save You Now",
+      "Published": "2025-09-19",
+      "URL": "https://www.youtube.com/watch?v=PkKybN9vVwc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Y10MUjWXajM"
+      "VideoID": "PkKybN9vVwc"
     },
     {
       "Name": "Benjamin Cowen",
