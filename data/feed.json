@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-19T01:52:58.743522+00:00",
+  "last_updated": "2025-09-19T06:35:41.201822+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Pre-FOMC",
-      "Published": "2025-09-18",
-      "URL": "https://www.youtube.com/shorts/SML03brgQ4U",
+      "Video Title": "Bitcoin: Post-FOMC",
+      "Published": "2025-09-19",
+      "URL": "https://www.youtube.com/watch?v=YvrJg45wdvI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "SML03brgQ4U"
+      "VideoID": "YvrJg45wdvI"
     },
     {
       "Name": "Bitcoin Magazine",
