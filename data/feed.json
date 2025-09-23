@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-22T18:33:37.165119+00:00",
+  "last_updated": "2025-09-23T01:50:04.549916+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "This Asset has 3093% Returns Since 2020 (what you need to know)",
-      "Published": "2025-09-21",
-      "URL": "https://www.youtube.com/watch?v=kqIrTJpbT_g",
+      "Video Title": "Where will people go when currencies fall?",
+      "Published": "2025-09-22",
+      "URL": "https://www.youtube.com/shorts/4D17S0sjiOI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "kqIrTJpbT_g"
+      "VideoID": "4D17S0sjiOI"
     },
     {
       "Name": "CTO Larsson",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "House Speaker: \"We're In This Together\" on Congress + Crypto | Capitol Gains Ep. 9",
-      "Published": "2025-09-20",
-      "URL": "https://www.youtube.com/watch?v=0AhcrXGCEng",
+      "Video Title": "Investment Banker Christian Lopez: Why EVERY Balance Sheet Will Hold BTC | Bitcoin for Corporations",
+      "Published": "2025-09-22",
+      "URL": "https://www.youtube.com/watch?v=DRHZK9nHNko",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "0AhcrXGCEng"
+      "VideoID": "DRHZK9nHNko"
     },
     {
       "Name": "George Gammon",
