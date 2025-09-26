@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-26T06:35:20.133161+00:00",
+  "last_updated": "2025-09-26T12:51:09.183046+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Building The Neural Software Future With Stephen Balaban",
-      "Published": "2025-09-25",
-      "URL": "https://www.youtube.com/watch?v=T3wezovqMIw",
+      "Video Title": "Meta AI Ray-Ban Display Glasses | The Brainstorm EP 102",
+      "Published": "2025-09-26",
+      "URL": "https://www.youtube.com/watch?v=wka3wH-etHs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "T3wezovqMIw"
+      "VideoID": "wka3wH-etHs"
     }
   ]
 }
