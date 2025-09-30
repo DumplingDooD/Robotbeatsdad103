@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-30T12:53:24.716053+00:00",
+  "last_updated": "2025-09-30T18:32:49.917598+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The War on Bitcoin Wallets: Why CLARITY is Make or Break | Bitcoin Policy Hour Ep. 17",
-      "Published": "2025-09-29",
-      "URL": "https://www.youtube.com/watch?v=HlSbKrvhbAI",
+      "Video Title": "Michael Saylor: The Bitcoin Treasury Endgame",
+      "Published": "2025-09-30",
+      "URL": "https://www.youtube.com/watch?v=b0KU4cJgj6g",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "HlSbKrvhbAI"
+      "VideoID": "b0KU4cJgj6g"
     },
     {
       "Name": "George Gammon",
