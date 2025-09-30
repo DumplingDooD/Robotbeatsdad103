@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-29T18:35:11.394691+00:00",
+  "last_updated": "2025-09-30T01:49:43.129951+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "This could be the WORST Time for Bitcoin",
-      "Published": "2025-09-26",
-      "URL": "https://www.youtube.com/watch?v=kZhvjRl-Re8",
+      "Video Title": "We’re in Phase 2 of a 50-year financial revolution.",
+      "Published": "2025-09-29",
+      "URL": "https://www.youtube.com/shorts/BD0GmYyV4cw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "kZhvjRl-Re8"
+      "VideoID": "BD0GmYyV4cw"
     },
     {
       "Name": "CTO Larsson",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Bull Market Support Band",
+      "Video Title": "Bitcoin Dominance: The Final Rotation is About To Begin",
       "Published": "2025-09-29",
-      "URL": "https://www.youtube.com/watch?v=XFVpk61cA3E",
+      "URL": "https://www.youtube.com/watch?v=5I0bw-H8icE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "XFVpk61cA3E"
+      "VideoID": "5I0bw-H8icE"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "TRAILER: The Bitcoin Treasury Endgame feat. Michael Saylor",
+      "Video Title": "The War on Bitcoin Wallets: Why CLARITY is Make or Break | Bitcoin Policy Hour Ep. 17",
       "Published": "2025-09-29",
-      "URL": "https://www.youtube.com/watch?v=wc0spAwvMPA",
+      "URL": "https://www.youtube.com/watch?v=HlSbKrvhbAI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "wc0spAwvMPA"
+      "VideoID": "HlSbKrvhbAI"
     },
     {
       "Name": "George Gammon",
