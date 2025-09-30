@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-30T06:36:55.117873+00:00",
+  "last_updated": "2025-09-30T12:53:24.716053+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "DCA Live: Uptober Still On?",
-      "Published": "2025-09-29",
-      "URL": "https://www.youtube.com/watch?v=E6ycxjOGhR4",
+      "Video Title": "IT’S FAKE!",
+      "Published": "2025-09-30",
+      "URL": "https://www.youtube.com/watch?v=bStvuNb3TDU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "E6ycxjOGhR4"
+      "VideoID": "bStvuNb3TDU"
     },
     {
       "Name": "Benjamin Cowen",
