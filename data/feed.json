@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-03T12:49:08.771708+00:00",
+  "last_updated": "2025-10-03T18:33:36.688989+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Top 5 Crypto Projects Whales Don’t Want You to Know About!",
-      "Published": "2025-10-02",
-      "URL": "https://www.youtube.com/watch?v=Hvl81kpOjyI",
+      "Video Title": "Crypto’s Final Countdown: What Happens If CLARITY Fails?",
+      "Published": "2025-10-03",
+      "URL": "https://www.youtube.com/watch?v=qQIvYw1mNKg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Hvl81kpOjyI"
+      "VideoID": "qQIvYw1mNKg"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: The Beauty of Mathematics (Part 63)",
-      "Published": "2025-10-02",
-      "URL": "https://www.youtube.com/watch?v=6Nd8RGNYyxY",
+      "Video Title": "The Labor Market and Bitcoin",
+      "Published": "2025-10-03",
+      "URL": "https://www.youtube.com/watch?v=uniJQuC3xUk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "6Nd8RGNYyxY"
+      "VideoID": "uniJQuC3xUk"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "SEC & CFTC Vow to Work Together — What Does That Mean for Bitcoin? | Capitol Gains Ep. 11",
+      "Video Title": "LIVE: Lummis Bitcoin Mortgage Bill, Bitcoin in 401(k)s | Capitol Gains Ep. 2",
       "Published": "2025-10-03",
-      "URL": "https://www.youtube.com/watch?v=C9ai-4FL4zQ",
+      "URL": "https://www.youtube.com/watch?v=apfo1HrBGzs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "C9ai-4FL4zQ"
+      "VideoID": "apfo1HrBGzs"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Meta AI Ray-Ban Display Glasses | The Brainstorm EP 102",
-      "Published": "2025-09-26",
-      "URL": "https://www.youtube.com/watch?v=wka3wH-etHs",
+      "Video Title": "From Dot Com To AI | The Brainstorm EP 103",
+      "Published": "2025-10-03",
+      "URL": "https://www.youtube.com/watch?v=mUQyY0Seejo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "wka3wH-etHs"
+      "VideoID": "mUQyY0Seejo"
     }
   ]
 }
