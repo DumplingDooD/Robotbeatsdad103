@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-12T01:55:59.097314+00:00",
+  "last_updated": "2025-10-12T06:32:34.306014+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Crypto Damage Report",
-      "Published": "2025-10-11",
-      "URL": "https://www.youtube.com/watch?v=AObcPAIWtA0",
+      "Video Title": "Ethereum Drops 30% - Now What?",
+      "Published": "2025-10-12",
+      "URL": "https://www.youtube.com/watch?v=NREjLugm83U",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "AObcPAIWtA0"
+      "VideoID": "NREjLugm83U"
     },
     {
       "Name": "Bitcoin Magazine",
