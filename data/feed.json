@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13T01:59:19.395443+00:00",
+  "last_updated": "2025-10-13T06:38:16.376085+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "19B Liquidated: What's Next For Crypto?",
-      "Published": "2025-10-12",
-      "URL": "https://www.youtube.com/watch?v=odq4tLVSjQs",
+      "Video Title": "Is Altseason Imminent?",
+      "Published": "2025-10-13",
+      "URL": "https://www.youtube.com/shorts/X51NGfet-dU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "odq4tLVSjQs"
+      "VideoID": "X51NGfet-dU"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Ethereum Drops 30% - Now What?",
-      "Published": "2025-10-12",
-      "URL": "https://www.youtube.com/watch?v=NREjLugm83U",
+      "Video Title": "Ethereum to $5k?",
+      "Published": "2025-10-13",
+      "URL": "https://www.youtube.com/watch?v=iwurmuYjvOM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "NREjLugm83U"
+      "VideoID": "iwurmuYjvOM"
     },
     {
       "Name": "Bitcoin Magazine",
