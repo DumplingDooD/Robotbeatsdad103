@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T06:36:20.487666+00:00",
+  "last_updated": "2025-10-14T12:54:25.237866+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "DCA Live: What happened and what happens next?",
-      "Published": "2025-10-13",
-      "URL": "https://www.youtube.com/watch?v=haKqSMQlxRM",
+      "Video Title": "I Tried to Warn You",
+      "Published": "2025-10-14",
+      "URL": "https://www.youtube.com/watch?v=OUg102VyWrY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "haKqSMQlxRM"
+      "VideoID": "OUg102VyWrY"
     },
     {
       "Name": "Benjamin Cowen",
