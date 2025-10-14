@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T12:54:25.237866+00:00",
+  "last_updated": "2025-10-14T18:35:47.177716+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "$19B Crypto Crash: Bitcoin Tanks, Alts Wrecked - Is This the End?",
-      "Published": "2025-10-13",
-      "URL": "https://www.youtube.com/watch?v=XfTjym1a-EU",
+      "Video Title": "Crypto is CRASHING! Are You Ready for the Bear Market?",
+      "Published": "2025-10-14",
+      "URL": "https://www.youtube.com/watch?v=RLlxOLvBQ9U",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,13 +33,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "XfTjym1a-EU"
+      "VideoID": "RLlxOLvBQ9U"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "This One Cash Move Is Building a New Financial System",
-      "Published": "2025-10-08",
-      "URL": "https://www.youtube.com/watch?v=_9MOnDtqElM",
+      "Video Title": "This Crash is Worse Than 2008, and Nobody Sees it Coming",
+      "Published": "2025-10-14",
+      "URL": "https://www.youtube.com/watch?v=ttMDQB0TJJc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "_9MOnDtqElM"
+      "VideoID": "ttMDQB0TJJc"
     },
     {
       "Name": "CTO Larsson",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "AMD And OpenAI | The Brainstorm EP 104",
-      "Published": "2025-10-10",
-      "URL": "https://www.youtube.com/watch?v=zUK5cD6R6gU",
+      "Video Title": "US Manufacturing Revival",
+      "Published": "2025-10-14",
+      "URL": "https://www.youtube.com/shorts/W2jviAppxOM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "zUK5cD6R6gU"
+      "VideoID": "W2jviAppxOM"
     }
   ]
 }
