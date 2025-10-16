@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-16T12:53:51.885511+00:00",
+  "last_updated": "2025-10-16T18:35:23.905650+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Dollar Surge Ahead? Why the DXY Could CRASH The Markets!",
-      "Published": "2025-10-15",
-      "URL": "https://www.youtube.com/watch?v=AKB0Xr1LgUU",
+      "Video Title": "Is ETH About To Crash? What's Next For Ethereum",
+      "Published": "2025-10-16",
+      "URL": "https://www.youtube.com/watch?v=AAytaaV_XCM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "AKB0Xr1LgUU"
+      "VideoID": "AAytaaV_XCM"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Gold Breaks $4200!",
+      "Video Title": "NFA Live: Bitcoin in 2025",
       "Published": "2025-10-16",
-      "URL": "https://www.youtube.com/watch?v=xhmX4V2xIlA",
+      "URL": "https://www.youtube.com/watch?v=fNclmUgH3cQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "xhmX4V2xIlA"
+      "VideoID": "fNclmUgH3cQ"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "US Manufacturing Revival",
-      "Published": "2025-10-14",
-      "URL": "https://www.youtube.com/shorts/W2jviAppxOM",
+      "Video Title": "Ethereum’s Big Moment With Tom Lee",
+      "Published": "2025-10-16",
+      "URL": "https://www.youtube.com/watch?v=iAv7kEAqgvY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "W2jviAppxOM"
+      "VideoID": "iAv7kEAqgvY"
     }
   ]
 }
