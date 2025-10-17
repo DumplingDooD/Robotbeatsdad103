@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-17T12:52:10.324193+00:00",
+  "last_updated": "2025-10-17T18:32:48.051701+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Is ETH About To Crash? What's Next For Ethereum",
-      "Published": "2025-10-16",
-      "URL": "https://www.youtube.com/watch?v=AAytaaV_XCM",
+      "Video Title": "WARNING! AI Layoffs Are Coming — Is Your Job Safe?",
+      "Published": "2025-10-17",
+      "URL": "https://www.youtube.com/watch?v=2LtMvEI0Qyk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,11 +33,11 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "AAytaaV_XCM"
+      "VideoID": "2LtMvEI0Qyk"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The Rich Don't Pay Taxes... They Build This Instead",
+      "Video Title": "How to Force the Government to Buy You Bitcoin",
       "Published": "2025-10-16",
       "URL": "https://www.youtube.com/watch?v=q2S7V8cqXW0",
       "Summary": "Transcript unavailable.",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "What I Said About Gold 5 Years Ago & What That Could Mean Now",
+      "Video Title": "Silver Reaches All Time Highs",
       "Published": "2025-10-17",
-      "URL": "https://www.youtube.com/shorts/OB6Y0BMpFjo",
+      "URL": "https://www.youtube.com/watch?v=kdLmJ-hkEQo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "OB6Y0BMpFjo"
+      "VideoID": "kdLmJ-hkEQo"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Ethereum’s Big Moment With Tom Lee",
-      "Published": "2025-10-16",
-      "URL": "https://www.youtube.com/watch?v=iAv7kEAqgvY",
+      "Video Title": "Elon’s Pay Package | The Brainstorm EP 105",
+      "Published": "2025-10-17",
+      "URL": "https://www.youtube.com/watch?v=qv9gJLme1mU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "iAv7kEAqgvY"
+      "VideoID": "qv9gJLme1mU"
     }
   ]
 }
