@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-20T18:37:22.963166+00:00",
+  "last_updated": "2025-10-21T01:56:31.524552+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Market Cycles",
-      "Published": "2025-10-19",
-      "URL": "https://www.youtube.com/watch?v=s_SJS5EdwP8",
+      "Video Title": "Palladium Hits $1600",
+      "Published": "2025-10-20",
+      "URL": "https://www.youtube.com/watch?v=U-mdqp67tEM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "s_SJS5EdwP8"
+      "VideoID": "U-mdqp67tEM"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "LIVE: Bitcoin Price Watch Party 24/7 feat. Gemini",
-      "Published": "2025-10-18",
-      "URL": "https://www.youtube.com/watch?v=yDoMpZKPRvU",
+      "Video Title": "China's \"Gold War\", US Adds 127k BTC to Reserve? | Bitcoin Policy Hour Ep. 18",
+      "Published": "2025-10-21",
+      "URL": "https://www.youtube.com/watch?v=NU89YNiRVSk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "yDoMpZKPRvU"
+      "VideoID": "NU89YNiRVSk"
     },
     {
       "Name": "George Gammon",
