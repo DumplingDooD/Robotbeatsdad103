@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-22T06:37:47.253180+00:00",
+  "last_updated": "2025-10-22T12:55:21.729359+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "DCA Live: What now?",
-      "Published": "2025-10-20",
-      "URL": "https://www.youtube.com/watch?v=fR0ZHuZDEj0",
+      "Video Title": "Larsson Line flipping BLUE. Now what?",
+      "Published": "2025-10-22",
+      "URL": "https://www.youtube.com/watch?v=7XbmP3XH5FA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "fR0ZHuZDEj0"
+      "VideoID": "7XbmP3XH5FA"
     },
     {
       "Name": "Benjamin Cowen",
