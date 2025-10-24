@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-10-23T18:36:13.150315+00:00",
+  "last_updated": "2025-10-24T01:50:43.603136+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Tesla Q3 Earnings Call Recap 🔥 Robotic Future or Overhyped Odds? 🤖📊",
-      "Published": "2025-10-22",
-      "URL": "https://www.youtube.com/watch?v=hwSpc4G3xjk",
+      "Video Title": "The AI Takeover: Tesla, Quantum & Finance Collide ⚙️",
+      "Published": "2025-10-23",
+      "URL": "https://www.youtube.com/watch?v=b7tVVr0Wikk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hwSpc4G3xjk"
+      "VideoID": "b7tVVr0Wikk"
     },
     {
       "Name": "Coin Bureau",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "LIVE: Bitcoin Price Watch Party 24/7 feat. Gemini",
-      "Published": "2025-10-21",
-      "URL": "https://www.youtube.com/watch?v=t0xlCpyCNsM",
+      "Video Title": "Pig Butchering Isn’t a Bitcoin Problem — It’s a Nation-State Problem",
+      "Published": "2025-10-23",
+      "URL": "https://www.youtube.com/shorts/qJSLmz4ol54",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,13 +101,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "t0xlCpyCNsM"
+      "VideoID": "qJSLmz4ol54"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "WTF? The Government Just Announced Reverse PRICE CONTROLS",
-      "Published": "2025-10-18",
-      "URL": "https://www.youtube.com/watch?v=7-S4I8To3Sw",
+      "Video Title": "BREAKING: Another Subprime Lenders Just Went Bankrupt (What You Need To Know)",
+      "Published": "2025-10-24",
+      "URL": "https://www.youtube.com/watch?v=Gc7U53UwltA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -118,13 +118,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "7-S4I8To3Sw"
+      "VideoID": "Gc7U53UwltA"
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Will Ethereum Flip Bitcoin? Tom Lee Weighs In",
+      "Video Title": "SpaceX And… The Louvre? | The Brainstorm EP 106",
       "Published": "2025-10-23",
-      "URL": "https://www.youtube.com/shorts/pukL3CHXheE",
+      "URL": "https://www.youtube.com/watch?v=TT9WWRdx34s",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "pukL3CHXheE"
+      "VideoID": "TT9WWRdx34s"
     }
   ]
 }
