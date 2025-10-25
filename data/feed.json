@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-25T01:52:56.864017+00:00",
+  "last_updated": "2025-10-25T06:33:27.378076+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Ethereum: Dubious Speculation",
-      "Published": "2025-10-24",
-      "URL": "https://www.youtube.com/watch?v=7ZK7S6JoHhc",
+      "Video Title": "Inflation Rises to 3.0%",
+      "Published": "2025-10-25",
+      "URL": "https://www.youtube.com/watch?v=px1Inquiceg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "7ZK7S6JoHhc"
+      "VideoID": "px1Inquiceg"
     },
     {
       "Name": "Bitcoin Magazine",
