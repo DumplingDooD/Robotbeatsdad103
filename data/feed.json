@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-30T06:36:54.401298+00:00",
+  "last_updated": "2025-10-30T12:53:28.111992+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Is Your Altcoin DEAD? Use This Checklist To FIND OUT!!",
-      "Published": "2025-10-29",
-      "URL": "https://www.youtube.com/watch?v=inR1Rgd0iPo",
+      "Video Title": "The Next Crypto Boom: Sergey Nazarov Explains Tokenized Everything",
+      "Published": "2025-10-30",
+      "URL": "https://www.youtube.com/shorts/MccjE3mr180",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "inR1Rgd0iPo"
+      "VideoID": "MccjE3mr180"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "SpaceX And… The Louvre? | The Brainstorm EP 106",
-      "Published": "2025-10-23",
-      "URL": "https://www.youtube.com/watch?v=TT9WWRdx34s",
+      "Video Title": "Solana’s Vision For A Decentralized Future With Anatoly Yakovenko",
+      "Published": "2025-10-30",
+      "URL": "https://www.youtube.com/watch?v=xcVaCG8NuQw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "TT9WWRdx34s"
+      "VideoID": "xcVaCG8NuQw"
     }
   ]
 }
