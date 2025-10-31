@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-31T06:37:18.350169+00:00",
+  "last_updated": "2025-10-31T12:52:47.899005+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "How To Make Money When Crypto Crashes",
-      "Published": "2025-10-30",
-      "URL": "https://www.youtube.com/watch?v=9siaLrkdKPA",
+      "Video Title": "Zcash Is Pumping! Is This the Privacy Coin Breakout?",
+      "Published": "2025-10-31",
+      "URL": "https://www.youtube.com/watch?v=44vVT04m6Oc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "9siaLrkdKPA"
+      "VideoID": "44vVT04m6Oc"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Solana’s Vision For A Decentralized Future With Anatoly Yakovenko",
-      "Published": "2025-10-30",
-      "URL": "https://www.youtube.com/watch?v=xcVaCG8NuQw",
+      "Video Title": "Robotaxi Rollout | The Brainstorm EP 107",
+      "Published": "2025-10-31",
+      "URL": "https://www.youtube.com/watch?v=184Srnpkkp8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "xcVaCG8NuQw"
+      "VideoID": "184Srnpkkp8"
     }
   ]
 }
