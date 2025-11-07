@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-06T18:38:12.516972+00:00",
+  "last_updated": "2025-11-07T01:58:58.504803+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "MSTR's B- Credit Rating: What Wall Street Sees in Bitcoin-Backed Credit",
-      "Published": "2025-11-04",
-      "URL": "https://www.youtube.com/watch?v=wGdyIMA0Nuk",
+      "Video Title": "Bitcoin Amsterdam 2025 | Day 2 Livestream",
+      "Published": "2025-11-06",
+      "URL": "https://www.youtube.com/watch?v=XVGME04z_3k",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "wGdyIMA0Nuk"
+      "VideoID": "XVGME04z_3k"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Robotaxi Rollout | The Brainstorm EP 107",
-      "Published": "2025-10-31",
-      "URL": "https://www.youtube.com/watch?v=184Srnpkkp8",
+      "Video Title": "OpenAI’s $1 Trillion Ambition | The Brainstorm EP 108",
+      "Published": "2025-11-06",
+      "URL": "https://www.youtube.com/watch?v=e5zZwNfUwO0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "184Srnpkkp8"
+      "VideoID": "e5zZwNfUwO0"
     }
   ]
 }
