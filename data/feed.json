@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-11T06:38:49.585716+00:00",
+  "last_updated": "2025-11-11T12:53:33.624106+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Reclaims the 50 Week Moving Average",
-      "Published": "2025-11-10",
-      "URL": "https://www.youtube.com/watch?v=-qmJLRKbrn4",
+      "Video Title": "Ethereum: Dubious Speculation",
+      "Published": "2025-11-11",
+      "URL": "https://www.youtube.com/watch?v=JGozWmZm-9o",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "-qmJLRKbrn4"
+      "VideoID": "JGozWmZm-9o"
     },
     {
       "Name": "Bitcoin Magazine",
