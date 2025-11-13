@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-13T06:38:36.704576+00:00",
+  "last_updated": "2025-11-13T12:55:30.518250+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The “Inevitable” Game Theory of Institutional Adoption: Bullish (and Dangerous?)",
-      "Published": "2025-11-10",
-      "URL": "https://www.youtube.com/watch?v=pkYNgKxdfbg",
+      "Video Title": "Bitcoin Amsterdam 2025 | Day 1 Livestream",
+      "Published": "2025-11-06",
+      "URL": "https://www.youtube.com/watch?v=YQrfB9327jI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "pkYNgKxdfbg"
+      "VideoID": "YQrfB9327jI"
     },
     {
       "Name": "George Gammon",
