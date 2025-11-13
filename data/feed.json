@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-13T12:55:30.518250+00:00",
+  "last_updated": "2025-11-13T18:36:31.416927+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Crypto CRASH!! Should You BUY THE DIP!?",
-      "Published": "2025-11-12",
-      "URL": "https://www.youtube.com/watch?v=PNt-WeWNvaM",
+      "Video Title": "Treasury Companies Are SELLING Crypto!!",
+      "Published": "2025-11-13",
+      "URL": "https://www.youtube.com/watch?v=54Oz1G5ilwE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "PNt-WeWNvaM"
+      "VideoID": "54Oz1G5ilwE"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Fear & Greed",
-      "Published": "2025-11-12",
-      "URL": "https://www.youtube.com/watch?v=2MxHH7DrLl8",
+      "Video Title": "How Many Times Has Bitcoin Crossed $100k?",
+      "Published": "2025-11-13",
+      "URL": "https://www.youtube.com/watch?v=EPxrYwC7XV4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,12 +84,12 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "2MxHH7DrLl8"
+      "VideoID": "EPxrYwC7XV4"
     },
     {
       "Name": "Bitcoin Magazine",
       "Video Title": "Bitcoin Amsterdam 2025 | Day 1 Livestream",
-      "Published": "2025-11-06",
+      "Published": "2025-11-13",
       "URL": "https://www.youtube.com/watch?v=YQrfB9327jI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Meet The Team - Lorenzo Valente",
-      "Published": "2025-11-12",
-      "URL": "https://www.youtube.com/shorts/tgOMfbeKuyk",
+      "Video Title": "The AI Market Is Wide Open",
+      "Published": "2025-11-13",
+      "URL": "https://www.youtube.com/shorts/GwkE4AW2nDU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "tgOMfbeKuyk"
+      "VideoID": "GwkE4AW2nDU"
     }
   ]
 }
