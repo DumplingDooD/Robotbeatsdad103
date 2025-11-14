@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-14T06:38:26.322281+00:00",
+  "last_updated": "2025-11-14T12:53:17.604807+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "How Many Times Has Bitcoin Crossed $100k?",
-      "Published": "2025-11-13",
-      "URL": "https://www.youtube.com/watch?v=EPxrYwC7XV4",
+      "Video Title": "Bitcoin Dominance To Surge Into December",
+      "Published": "2025-11-14",
+      "URL": "https://www.youtube.com/watch?v=-ULNlneh-SA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "EPxrYwC7XV4"
+      "VideoID": "-ULNlneh-SA"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Khing Oei: Igniting The Digital Golden Age",
-      "Published": "2025-11-13",
-      "URL": "https://www.youtube.com/watch?v=WigNnxK5bx4",
+      "Video Title": "Bitcoin Amsterdam 2025 | Day 2 Livestream",
+      "Published": "2025-11-06",
+      "URL": "https://www.youtube.com/watch?v=XVGME04z_3k",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "WigNnxK5bx4"
+      "VideoID": "XVGME04z_3k"
     },
     {
       "Name": "George Gammon",
