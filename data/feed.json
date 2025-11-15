@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-15T06:35:01.239265+00:00",
+  "last_updated": "2025-11-15T12:47:42.384613+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Saifedean Ammous Bitcoin Amsterdam 2025 Keynote Speech",
-      "Published": "2025-11-14",
-      "URL": "https://www.youtube.com/watch?v=6fgFyQEWiK4",
+      "Video Title": "Symbols of the Sovereign: The Visual Language of Bitcoin w/ Pat Riley | Bitcoin Amsterdam 2025",
+      "Published": "2025-11-15",
+      "URL": "https://www.youtube.com/watch?v=EKb9Oh_zKvQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "6fgFyQEWiK4"
+      "VideoID": "EKb9Oh_zKvQ"
     },
     {
       "Name": "George Gammon",
