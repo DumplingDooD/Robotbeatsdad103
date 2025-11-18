@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-17T18:36:27.394009+00:00",
+  "last_updated": "2025-11-18T02:00:05.619178+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Falls Below the 50 Week Moving Average",
+      "Video Title": "Bitcoin: The Bulls Vs. The Bears",
       "Published": "2025-11-17",
-      "URL": "https://www.youtube.com/watch?v=9g1QsTVizyQ",
+      "URL": "https://www.youtube.com/watch?v=3dSPMPi0XjI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "9g1QsTVizyQ"
+      "VideoID": "3dSPMPi0XjI"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "How European Treasury Companies Are Building Their Bitcoin Balance Sheets",
-      "Published": "2025-11-16",
-      "URL": "https://www.youtube.com/watch?v=Dc3papWthkE",
+      "Video Title": "Selecting the Right Service Providers for Bitcoin Custody and Compliance w/ Derar Islim",
+      "Published": "2025-11-18",
+      "URL": "https://www.youtube.com/watch?v=dkqdNwaWYMU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Dc3papWthkE"
+      "VideoID": "dkqdNwaWYMU"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Texting While ‘Driving’ In A Tesla Is… Allowed? | The Brainstorm EP 109",
-      "Published": "2025-11-14",
-      "URL": "https://www.youtube.com/watch?v=SCnF2-ZtHQk",
+      "Video Title": "Easing Ahead?",
+      "Published": "2025-11-17",
+      "URL": "https://www.youtube.com/shorts/Gwgj0hx3aHw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "SCnF2-ZtHQk"
+      "VideoID": "Gwgj0hx3aHw"
     }
   ]
 }
