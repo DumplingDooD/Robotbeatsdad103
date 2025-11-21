@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21T12:52:55.201958+00:00",
+  "last_updated": "2025-11-21T18:33:36.753669+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "ARK's Conviction In Bitcoin",
-      "Published": "2025-11-20",
-      "URL": "https://www.youtube.com/shorts/dNp6zz-ef1I",
+      "Video Title": "Meet The Team - Chase Prather",
+      "Published": "2025-11-21",
+      "URL": "https://www.youtube.com/shorts/GsPvblhj50A",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "dNp6zz-ef1I"
+      "VideoID": "GsPvblhj50A"
     }
   ]
 }
