@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-21T06:39:10.633674+00:00",
+  "last_updated": "2025-11-21T12:52:55.201958+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Cliff Dwellers",
-      "Published": "2025-11-20",
-      "URL": "https://www.youtube.com/watch?v=enQ7Sa0uuao",
+      "Video Title": "Navigating Bitcoin Bear Markets",
+      "Published": "2025-11-21",
+      "URL": "https://www.youtube.com/watch?v=prz4p7r45vU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "enQ7Sa0uuao"
+      "VideoID": "prz4p7r45vU"
     },
     {
       "Name": "Bitcoin Magazine",
