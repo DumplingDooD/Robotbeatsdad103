@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-24T18:38:13.603124+00:00",
+  "last_updated": "2025-11-25T02:01:24.126777+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The System is Breaking: Bitcoin Proves The Dollar is Crashing",
-      "Published": "2025-11-22",
-      "URL": "https://www.youtube.com/watch?v=GMBKBH3Fhsg",
+      "Video Title": "The REAL Reason Bitcoin Crashed (And What Happens Next)",
+      "Published": "2025-11-24",
+      "URL": "https://www.youtube.com/watch?v=Cmd3GqvJQTk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "GMBKBH3Fhsg"
+      "VideoID": "Cmd3GqvJQTk"
     },
     {
       "Name": "CTO Larsson",
