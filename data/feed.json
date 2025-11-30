@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-30T02:16:58.330329+00:00",
+  "last_updated": "2025-11-30T06:37:48.662396+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Benjamin Cowen Explains What Makes Bitcoin So Powerful in 2025",
-      "Published": "2025-11-29",
-      "URL": "https://www.youtube.com/shorts/O1Ejw4w9cWw",
+      "Video Title": "Winklevoss Twins: Bitcoin = Money for AI, Robots, and Life on Mars",
+      "Published": "2025-11-30",
+      "URL": "https://www.youtube.com/shorts/z85ESfn4h5s",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "O1Ejw4w9cWw"
+      "VideoID": "z85ESfn4h5s"
     },
     {
       "Name": "George Gammon",
