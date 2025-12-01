@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-01T02:27:19.603733+00:00",
+  "last_updated": "2025-12-01T06:42:27.379168+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Dominance",
-      "Published": "2025-11-27",
-      "URL": "https://www.youtube.com/watch?v=2NQ1WpfI5Io",
+      "Video Title": "Bitcoin and the End of Quantitative Tightening",
+      "Published": "2025-12-01",
+      "URL": "https://www.youtube.com/watch?v=4qswdknHGR4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "2NQ1WpfI5Io"
+      "VideoID": "4qswdknHGR4"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Winklevoss Twins: Bitcoin = Money for AI, Robots, and Life on Mars",
-      "Published": "2025-11-30",
-      "URL": "https://www.youtube.com/shorts/z85ESfn4h5s",
+      "Video Title": "Winklevoss Twins: Gold Loses to Bitcoin When We Mine the Universe",
+      "Published": "2025-12-01",
+      "URL": "https://www.youtube.com/shorts/wE6zZ2tl7k0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "z85ESfn4h5s"
+      "VideoID": "wE6zZ2tl7k0"
     },
     {
       "Name": "George Gammon",
