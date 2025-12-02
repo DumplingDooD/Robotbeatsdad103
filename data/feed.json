@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-01T18:42:37.574956+00:00",
+  "last_updated": "2025-12-02T02:03:51.364988+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Winklevoss Twins: Gold Loses to Bitcoin When We Mine the Universe",
+      "Video Title": "Jack Mallers: Bitcoin Doesn’t Need Trump — Trump Needs Bitcoin",
       "Published": "2025-12-01",
-      "URL": "https://www.youtube.com/shorts/wE6zZ2tl7k0",
+      "URL": "https://www.youtube.com/watch?v=4kBCEbCWf1s",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "wE6zZ2tl7k0"
+      "VideoID": "4kBCEbCWf1s"
     },
     {
       "Name": "George Gammon",
