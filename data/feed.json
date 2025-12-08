@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-08T02:05:37.494866+00:00",
+  "last_updated": "2025-12-08T06:43:54.060768+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "It Makes Sense To Say...",
-      "Published": "2025-12-07",
-      "URL": "https://www.youtube.com/shorts/HShSY4R3blg",
+      "Video Title": "Bitcoin On-Chain Risk",
+      "Published": "2025-12-08",
+      "URL": "https://www.youtube.com/watch?v=2DUCJDmTOks",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "HShSY4R3blg"
+      "VideoID": "2DUCJDmTOks"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Stafford Masie: When Fiat Fails, People Die (Africa Bitcoin Corporation)",
-      "Published": "2025-12-06",
-      "URL": "https://www.youtube.com/watch?v=9Dr_qxbMzlc",
+      "Video Title": "Bitcoin MENA 2025 | Day 1 Livestream",
+      "Published": "2025-12-03",
+      "URL": "https://www.youtube.com/watch?v=pt-Wv-M5uNA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "9Dr_qxbMzlc"
+      "VideoID": "pt-Wv-M5uNA"
     },
     {
       "Name": "George Gammon",
