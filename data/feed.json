@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-09T02:04:13.635327+00:00",
+  "last_updated": "2025-12-09T06:41:20.705958+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin MENA 2025 | Day 1 Livestream",
-      "Published": "2025-12-08",
-      "URL": "https://www.youtube.com/watch?v=pt-Wv-M5uNA",
+      "Video Title": "Bitcoin MENA 2025 | Day 2 Livestream",
+      "Published": "2025-12-03",
+      "URL": "https://www.youtube.com/watch?v=Z8mMQ12ej2c",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "pt-Wv-M5uNA"
+      "VideoID": "Z8mMQ12ej2c"
     },
     {
       "Name": "George Gammon",
