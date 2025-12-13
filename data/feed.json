@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-13T02:01:04.675828+00:00",
+  "last_updated": "2025-12-13T06:38:14.979991+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Some of the Best Times to Buy Bitcoin",
-      "Published": "2025-12-12",
-      "URL": "https://www.youtube.com/shorts/Vv6ex7ZcaYE",
+      "Video Title": "Bitcoin: The Beauty of Mathematics (Part 65)",
+      "Published": "2025-12-13",
+      "URL": "https://www.youtube.com/watch?v=JAkNLbhTjFg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Vv6ex7ZcaYE"
+      "VideoID": "JAkNLbhTjFg"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Structuring Bitcoin Treasury Company Deals w/ Christian Lopez, Allen Helm & Kingsley Advani",
+      "Video Title": "The Real Treasury Companies Save in Bitcoin w/Shawn Owen (SALT Lending)",
       "Published": "2025-12-13",
-      "URL": "https://www.youtube.com/watch?v=jvNuWiQZyLM",
+      "URL": "https://www.youtube.com/watch?v=ljs5rPwTqIw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "jvNuWiQZyLM"
+      "VideoID": "ljs5rPwTqIw"
     },
     {
       "Name": "George Gammon",
