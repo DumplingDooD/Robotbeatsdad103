@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-15T18:40:44.233569+00:00",
+  "last_updated": "2025-12-16T02:08:23.105449+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Why is Bitcoin Dropping?",
-      "Published": "2025-12-14",
-      "URL": "https://www.youtube.com/watch?v=Y2qfKc-FpxA",
+      "Video Title": "What Opportunities Could We Expect",
+      "Published": "2025-12-15",
+      "URL": "https://www.youtube.com/shorts/LnSHEkUuTpo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Y2qfKc-FpxA"
+      "VideoID": "LnSHEkUuTpo"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "IM8: The World's Fastest Growing Supplement Brand Powering Our Bitcoin Treasury",
+      "Video Title": "His Excellency Mohammed Al Shamsi: Bitcoin MENA 2025 Opening Remarks",
       "Published": "2025-12-15",
-      "URL": "https://www.youtube.com/watch?v=1ynJAwfs9AA",
+      "URL": "https://www.youtube.com/watch?v=WZERrOZ-240",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "1ynJAwfs9AA"
+      "VideoID": "WZERrOZ-240"
     },
     {
       "Name": "George Gammon",
