@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-16T06:42:48.924119+00:00",
+  "last_updated": "2025-12-16T12:58:44.505845+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "What Opportunities Could We Expect",
-      "Published": "2025-12-15",
-      "URL": "https://www.youtube.com/shorts/LnSHEkUuTpo",
+      "Video Title": "Bitcoin: The Bear Market Blues",
+      "Published": "2025-12-16",
+      "URL": "https://www.youtube.com/watch?v=pkDDBb1EYwg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "LnSHEkUuTpo"
+      "VideoID": "pkDDBb1EYwg"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "His Excellency Mohammed Al Shamsi: Bitcoin MENA 2025 Opening Remarks",
-      "Published": "2025-12-15",
-      "URL": "https://www.youtube.com/watch?v=WZERrOZ-240",
+      "Video Title": "Reclaiming Bitcoin's Peer‑to‑Peer Promise w/ Rami Alsridi | Bitcoin MENA 2025",
+      "Published": "2025-12-16",
+      "URL": "https://www.youtube.com/watch?v=-fYE2NUiylo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "WZERrOZ-240"
+      "VideoID": "-fYE2NUiylo"
     },
     {
       "Name": "George Gammon",
