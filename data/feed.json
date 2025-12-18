@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-18T12:56:55.464662+00:00",
+  "last_updated": "2025-12-18T18:40:19.446488+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "MSCI Will REMOVE Microstrategy!! What It Means For BTC!?",
-      "Published": "2025-12-17",
-      "URL": "https://www.youtube.com/watch?v=EzOR26s2zUM",
+      "Video Title": "BoJ Hikes Rates: 30% Crypto CRASH INCOMING!?",
+      "Published": "2025-12-18",
+      "URL": "https://www.youtube.com/watch?v=dCkbF_4tDcU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,11 +33,11 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "EzOR26s2zUM"
+      "VideoID": "dCkbF_4tDcU"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "He Predicted the 2008 Crash, Now He Bet $1B on a New One",
+      "Video Title": "Michael Burry Says AI, Tech & Bitcoin Are All a Bubble",
       "Published": "2025-12-17",
       "URL": "https://www.youtube.com/watch?v=1PZwzRbq94U",
       "Summary": "Transcript unavailable.",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "A New Era Of Medicine | The Brainstorm EP 114",
-      "Published": "2025-12-17",
-      "URL": "https://www.youtube.com/watch?v=pDo5_MRDgXY",
+      "Video Title": "Modernizing Legal Financial Systems With Carlos Domingo",
+      "Published": "2025-12-18",
+      "URL": "https://www.youtube.com/watch?v=7WifpfmIno8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "pDo5_MRDgXY"
+      "VideoID": "7WifpfmIno8"
     }
   ]
 }
