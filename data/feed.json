@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-19T12:55:16.698719+00:00",
+  "last_updated": "2025-12-19T18:38:32.764027+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "There's Always A Bull Market Somewhere",
-      "Published": "2025-12-18",
-      "URL": "https://www.youtube.com/shorts/Ca9GHYiDvHE",
+      "Video Title": "Bitcoin: Dubious Speculation",
+      "Published": "2025-12-19",
+      "URL": "https://www.youtube.com/watch?v=-m-2wAhiB1k",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Ca9GHYiDvHE"
+      "VideoID": "-m-2wAhiB1k"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Modernizing Legal Financial Systems With Carlos Domingo",
-      "Published": "2025-12-18",
-      "URL": "https://www.youtube.com/watch?v=7WifpfmIno8",
+      "Video Title": "Will Easing Policy Fuel Inflation?",
+      "Published": "2025-12-19",
+      "URL": "https://www.youtube.com/shorts/JTzx7bgMAtA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "7WifpfmIno8"
+      "VideoID": "JTzx7bgMAtA"
     }
   ]
 }
