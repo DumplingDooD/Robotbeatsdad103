@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-23T12:57:36.236303+00:00",
+  "last_updated": "2025-12-23T18:40:04.139581+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Marxism and Christianity are Incompatible",
-      "Published": "2025-12-22",
-      "URL": "https://www.youtube.com/shorts/6Z8BBvscp0U",
+      "Video Title": "If You Think Bitcoin’s Volatility Is Bad, You Couldn’t Be More Wrong",
+      "Published": "2025-12-23",
+      "URL": "https://www.youtube.com/watch?v=Z_vlwus19-8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "6Z8BBvscp0U"
+      "VideoID": "Z_vlwus19-8"
     },
     {
       "Name": "CTO Larsson",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin Took Him From Podcasting to Football Ownership",
-      "Published": "2025-12-18",
-      "URL": "https://www.youtube.com/shorts/QjzshHKBQwA",
+      "Video Title": "How Bitcoin Is Powering Private Credit and Jobs Across Africa",
+      "Published": "2025-12-23",
+      "URL": "https://www.youtube.com/watch?v=EKRS6L_rNH0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "QjzshHKBQwA"
+      "VideoID": "EKRS6L_rNH0"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "A $2.8T Opportunity?",
-      "Published": "2025-12-22",
-      "URL": "https://www.youtube.com/shorts/YpCuAB_kY-A",
+      "Video Title": "Unemployment Durations",
+      "Published": "2025-12-23",
+      "URL": "https://www.youtube.com/shorts/hHb_gTCzNpo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "YpCuAB_kY-A"
+      "VideoID": "hHb_gTCzNpo"
     }
   ]
 }
