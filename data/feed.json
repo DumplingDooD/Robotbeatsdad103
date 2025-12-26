@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-26T12:55:25.287565+00:00",
+  "last_updated": "2025-12-26T18:37:55.036522+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "These 6 Threats Could Crush Bitcoin Next Cycle",
-      "Published": "2025-12-24",
-      "URL": "https://www.youtube.com/watch?v=gZt96mjxpjg",
+      "Video Title": "$50 Million Gone in Seconds… From One Tiny Mistake",
+      "Published": "2025-12-26",
+      "URL": "https://www.youtube.com/watch?v=2RaTpd0YhEw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "gZt96mjxpjg"
+      "VideoID": "2RaTpd0YhEw"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Unemployment Durations",
-      "Published": "2025-12-23",
-      "URL": "https://www.youtube.com/shorts/hHb_gTCzNpo",
+      "Video Title": "Capital Spending Breakout",
+      "Published": "2025-12-26",
+      "URL": "https://www.youtube.com/shorts/ikFwMhTNwrk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hHb_gTCzNpo"
+      "VideoID": "ikFwMhTNwrk"
     }
   ]
 }
