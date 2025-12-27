@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-12-27T06:39:36.234451+00:00",
+  "last_updated": "2025-12-27T12:53:01.317355+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
+      "Video Title": "END of the Rally? US Shutdown & BTC Risk Alert! 🚨",
+      "Published": "2025-12-26",
+      "URL": "https://www.youtube.com/watch?v=dL4EkZVpDk0",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "dL4EkZVpDk0"
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
+      "Video Title": "$50 Million Gone in Seconds… From One Tiny Mistake",
+      "Published": "2025-12-26",
+      "URL": "https://www.youtube.com/watch?v=2RaTpd0YhEw",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "2RaTpd0YhEw"
     },
     {
       "Name": "Mark Moss",
@@ -54,10 +54,10 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
+      "Video Title": "DCA Live: Bitcoin Santa Rally?",
+      "Published": "2025-12-22",
+      "URL": "https://www.youtube.com/watch?v=wlxZpMVmWDU",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "wlxZpMVmWDU"
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
+      "Video Title": "This Is The thing About Altcoins and Bitcoin...",
+      "Published": "2025-12-27",
+      "URL": "https://www.youtube.com/shorts/JRH8bj9qDRE",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "JRH8bj9qDRE"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -105,10 +105,10 @@
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
+      "Video Title": "This Is What ALWAYS Happens Before a Recession",
+      "Published": "2025-12-18",
+      "URL": "https://www.youtube.com/watch?v=u077H6NePmQ",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "u077H6NePmQ"
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
+      "Video Title": "Capital Spending Breakout",
+      "Published": "2025-12-26",
+      "URL": "https://www.youtube.com/shorts/ikFwMhTNwrk",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "ikFwMhTNwrk"
     }
   ]
 }
