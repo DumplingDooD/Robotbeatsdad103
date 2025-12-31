@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-12-31T06:42:33.349574+00:00",
+  "last_updated": "2025-12-31T12:55:59.599695+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
+      "Video Title": "OCTA: 🚨 Record Sell-Off! Capitulation or Reversal?",
+      "Published": "2025-12-30",
+      "URL": "https://www.youtube.com/watch?v=wSuCGql5ofM",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "wSuCGql5ofM"
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
+      "Video Title": "2026 Crypto Predictions: These Are The KEY Trends To Watch",
+      "Published": "2025-12-30",
+      "URL": "https://www.youtube.com/watch?v=r7tov49OT3Y",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,14 +33,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "r7tov49OT3Y"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
+      "Video Title": "This Is How You Weaponize Inflation",
+      "Published": "2025-12-30",
+      "URL": "https://www.youtube.com/watch?v=SrW1oMiUNq0",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "SrW1oMiUNq0"
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
+      "Video Title": "DCA Live: Bitcoin Santa Rally?",
+      "Published": "2025-12-22",
+      "URL": "https://www.youtube.com/watch?v=wlxZpMVmWDU",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "wlxZpMVmWDU"
     },
     {
       "Name": "Benjamin Cowen",
@@ -88,10 +88,10 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
+      "Video Title": "Trump: I Will Fire Gary Gensler",
+      "Published": "2025-12-30",
+      "URL": "https://www.youtube.com/shorts/sgdtNVwC_-o",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "sgdtNVwC_-o"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
+      "Video Title": "This Is What ALWAYS Happens Before a Recession",
+      "Published": "2025-12-18",
+      "URL": "https://www.youtube.com/watch?v=u077H6NePmQ",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "u077H6NePmQ"
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
+      "Video Title": "ARK Stablecoins Research | 2025 Year-End Review",
+      "Published": "2025-12-30",
+      "URL": "https://www.youtube.com/watch?v=CQbHbn2tkiE",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "CQbHbn2tkiE"
     }
   ]
 }
