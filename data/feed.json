@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-31T12:55:59.599695+00:00",
+  "last_updated": "2025-12-31T18:38:16.914963+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Trump: I Will Fire Gary Gensler",
-      "Published": "2025-12-30",
-      "URL": "https://www.youtube.com/shorts/sgdtNVwC_-o",
+      "Video Title": "Vance: Chokepoint 2.0 is Dead",
+      "Published": "2025-12-31",
+      "URL": "https://www.youtube.com/shorts/Soh83Z_JH1Y",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "sgdtNVwC_-o"
+      "VideoID": "Soh83Z_JH1Y"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "ARK Stablecoins Research | 2025 Year-End Review",
-      "Published": "2025-12-30",
-      "URL": "https://www.youtube.com/watch?v=CQbHbn2tkiE",
+      "Video Title": "Best Of 2025",
+      "Published": "2025-12-31",
+      "URL": "https://www.youtube.com/watch?v=4c40sKEipQ8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "CQbHbn2tkiE"
+      "VideoID": "4c40sKEipQ8"
     }
   ]
 }
