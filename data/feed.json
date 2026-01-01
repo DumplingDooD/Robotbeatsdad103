@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-01T06:42:48.662151+00:00",
+  "last_updated": "2026-01-01T12:56:00.156339+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Vance: Chokepoint 2.0 is Dead",
-      "Published": "2025-12-31",
-      "URL": "https://www.youtube.com/shorts/Soh83Z_JH1Y",
+      "Video Title": "Ross Ulbricht: The Cost of Freedom",
+      "Published": "2026-01-01",
+      "URL": "https://www.youtube.com/shorts/wrZEHn2NJ3w",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Soh83Z_JH1Y"
+      "VideoID": "wrZEHn2NJ3w"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Best Of 2025",
-      "Published": "2025-12-31",
-      "URL": "https://www.youtube.com/watch?v=4c40sKEipQ8",
+      "Video Title": "A New Year Message From Cathie Wood",
+      "Published": "2026-01-01",
+      "URL": "https://www.youtube.com/watch?v=zqkkKDZVqT0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "4c40sKEipQ8"
+      "VideoID": "zqkkKDZVqT0"
     }
   ]
 }
