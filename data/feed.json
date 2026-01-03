@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-03T06:39:56.860133+00:00",
+  "last_updated": "2026-01-03T12:53:15.503175+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Creating a U.S. Bitcoin Reserve",
-      "Published": "2026-01-02",
-      "URL": "https://www.youtube.com/shorts/S0FvDOnCNDI",
+      "Video Title": "Tim Dillon Tells Bitcoin Heckler \"You're in a Cult\"",
+      "Published": "2026-01-03",
+      "URL": "https://www.youtube.com/shorts/PLFSiY3aWxI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "S0FvDOnCNDI"
+      "VideoID": "PLFSiY3aWxI"
     },
     {
       "Name": "George Gammon",
