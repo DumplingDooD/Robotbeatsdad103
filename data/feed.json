@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08T13:00:15.782905+00:00",
+  "last_updated": "2026-01-08T18:38:07.561145+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The Truth About The Gold-Bitcoin Rotation",
-      "Published": "2026-01-06",
-      "URL": "https://www.youtube.com/watch?v=w04dNeIg0C0",
+      "Video Title": "Wall Street’s Secret Plan to Take Over Crypto",
+      "Published": "2026-01-08",
+      "URL": "https://www.youtube.com/watch?v=7xFoi7h7sJ8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "w04dNeIg0C0"
+      "VideoID": "7xFoi7h7sJ8"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: An Unfortunate Pattern",
-      "Published": "2026-01-07",
-      "URL": "https://www.youtube.com/watch?v=ZuWWt3U3UBQ",
+      "Video Title": "NFA Live! Bitcoin in 2026",
+      "Published": "2026-01-08",
+      "URL": "https://www.youtube.com/watch?v=xzFJFrqtus0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ZuWWt3U3UBQ"
+      "VideoID": "xzFJFrqtus0"
     },
     {
       "Name": "Bitcoin Magazine",
