@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08T06:44:14.031786+00:00",
+  "last_updated": "2026-01-08T13:00:15.782905+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Major Shifts In The AI Landscape | The Brainstorm EP 115",
-      "Published": "2026-01-07",
-      "URL": "https://www.youtube.com/watch?v=QH-iyYyPxUc",
+      "Video Title": "Stablecoins, Regulation, Mining And 2026 Outlook",
+      "Published": "2026-01-08",
+      "URL": "https://www.youtube.com/watch?v=7vlo6rj_bo8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "QH-iyYyPxUc"
+      "VideoID": "7vlo6rj_bo8"
     }
   ]
 }
