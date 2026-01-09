@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09T02:12:08.419968+00:00",
+  "last_updated": "2026-01-09T06:44:20.719452+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Wall Street’s Secret Plan to Take Over Crypto",
-      "Published": "2026-01-08",
-      "URL": "https://www.youtube.com/watch?v=7xFoi7h7sJ8",
+      "Video Title": "FUD & FOMO: Bitcoin, Zcash, and ETH On the Brink! What's Next In 2026?",
+      "Published": "2026-01-09",
+      "URL": "https://www.youtube.com/watch?v=m_BxqDIBoQ0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "7xFoi7h7sJ8"
+      "VideoID": "m_BxqDIBoQ0"
     },
     {
       "Name": "Mark Moss",
