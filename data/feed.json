@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15T06:43:33.467989+00:00",
+  "last_updated": "2026-01-15T13:00:10.683731+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Venezuela & Geoeconomic Imperialism | Bitcoin Policy Hour Ep. 24",
-      "Published": "2026-01-14",
-      "URL": "https://www.youtube.com/watch?v=_a7l9LDsQgc",
+      "Video Title": "This Time is Different: Bitcoin Cycles",
+      "Published": "2026-01-15",
+      "URL": "https://www.youtube.com/watch?v=I9TBal2GEFo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "_a7l9LDsQgc"
+      "VideoID": "I9TBal2GEFo"
     },
     {
       "Name": "George Gammon",
