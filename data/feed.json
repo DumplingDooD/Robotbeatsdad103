@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-01-14T18:42:29.464202+00:00",
+  "last_updated": "2026-01-15T02:10:27.244471+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Bitcoin's Big January Surprise: Price Rally Ahead",
+      "Video Title": "How to Not Lose Money: The Psychology of the 1% Investor 📉🧠",
       "Published": "2026-01-14",
-      "URL": "https://www.youtube.com/shorts/s3vZLA7LqGU",
+      "URL": "https://www.youtube.com/watch?v=zGTDy_gab5U",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "s3vZLA7LqGU"
+      "VideoID": "zGTDy_gab5U"
     },
     {
       "Name": "Coin Bureau",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin's Part in Helping Edward Snowden",
-      "Published": "2026-01-07",
-      "URL": "https://www.youtube.com/shorts/VQ_AYpNzlMg",
+      "Video Title": "Venezuela & Geoeconomic Imperialism | Bitcoin Policy Hour Ep. 24",
+      "Published": "2026-01-14",
+      "URL": "https://www.youtube.com/watch?v=_a7l9LDsQgc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "VQ_AYpNzlMg"
+      "VideoID": "_a7l9LDsQgc"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Coming 🔜",
-      "Published": "2026-01-12",
-      "URL": "https://www.youtube.com/shorts/vcCCsUK5x-s",
+      "Video Title": "Fed Fight And Apple Ousts OpenAI | The Brainstorm EP 116",
+      "Published": "2026-01-14",
+      "URL": "https://www.youtube.com/watch?v=LhxvadW0AE8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "vcCCsUK5x-s"
+      "VideoID": "LhxvadW0AE8"
     }
   ]
 }
