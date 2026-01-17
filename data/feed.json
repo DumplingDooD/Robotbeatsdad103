@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-01-16T18:41:58.273267+00:00",
+  "last_updated": "2026-01-17T02:06:29.194502+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "AI is a Jetpack: Tesla Optimus & The 10x Future! 🚀🤖",
-      "Published": "2026-01-15",
-      "URL": "https://www.youtube.com/watch?v=uot2DkGOzxM",
+      "Video Title": "Investor Archetypes Revealed: 37,600 Surveys!",
+      "Published": "2026-01-16",
+      "URL": "https://www.youtube.com/shorts/1l_pI-syH1E",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "uot2DkGOzxM"
+      "VideoID": "1l_pI-syH1E"
     },
     {
       "Name": "Coin Bureau",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Trump Floats 10% CAP on Credit Card Interest 👀",
-      "Published": "2026-01-15",
-      "URL": "https://www.youtube.com/shorts/xpniJPRurNc",
+      "Video Title": "Americans just spent a record 20 BILLION on Buy-Now Pay-Later Loans",
+      "Published": "2026-01-17",
+      "URL": "https://www.youtube.com/shorts/8q9uzcgrlU4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "xpniJPRurNc"
+      "VideoID": "8q9uzcgrlU4"
     },
     {
       "Name": "CTO Larsson",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Dubious Speculation",
+      "Video Title": "Crypto YouTube Subscribers Are Bleeding...",
       "Published": "2026-01-16",
-      "URL": "https://www.youtube.com/watch?v=Z2maHj5YVeU",
+      "URL": "https://www.youtube.com/shorts/N67VDb0yHdc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Z2maHj5YVeU"
+      "VideoID": "N67VDb0yHdc"
     },
     {
       "Name": "Bitcoin Magazine",
