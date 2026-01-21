@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-21T13:04:20.643465+00:00",
+  "last_updated": "2026-01-21T18:53:09.241265+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Is Bitcoin really too VOLATILE? 🤔",
-      "Published": "2026-01-20",
-      "URL": "https://www.youtube.com/shorts/zGTjzXOxHkA",
+      "Video Title": "The Real Consequence of the U.S.–Iran Escalation",
+      "Published": "2026-01-21",
+      "URL": "https://www.youtube.com/watch?v=CxQ7vmsXq3I",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "zGTjzXOxHkA"
+      "VideoID": "CxQ7vmsXq3I"
     },
     {
       "Name": "CTO Larsson",
