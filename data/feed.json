@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-21T06:48:27.310236+00:00",
+  "last_updated": "2026-01-21T13:04:20.643465+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin and the European Golden Age feat. Treasury CEO Khing Oei",
-      "Published": "2026-01-20",
-      "URL": "https://www.youtube.com/watch?v=e335Nm373Qo",
+      "Video Title": "Banks vs Coinbase: The Fight Over Stablecoins & Crypto Market Structure | Bitcoin Policy Hour Ep. 25",
+      "Published": "2026-01-21",
+      "URL": "https://www.youtube.com/watch?v=rsBh_KsvVF8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "e335Nm373Qo"
+      "VideoID": "rsBh_KsvVF8"
     },
     {
       "Name": "George Gammon",
