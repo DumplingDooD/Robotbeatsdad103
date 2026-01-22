@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-22T13:05:12.373474+00:00",
+  "last_updated": "2026-01-22T18:43:25.134915+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Crypto BETRAYAL!! Coinbase KILLS The CLARITY Act!!",
-      "Published": "2026-01-20",
-      "URL": "https://www.youtube.com/watch?v=41xD0LdGXfE",
+      "Video Title": "What if Ethereum Goes to Zero? [The Terrifying Truth]",
+      "Published": "2026-01-22",
+      "URL": "https://www.youtube.com/watch?v=8k5lK5Q96r0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "41xD0LdGXfE"
+      "VideoID": "8k5lK5Q96r0"
     },
     {
       "Name": "Mark Moss",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Breakout Failed. Now What?",
-      "Published": "2026-01-20",
-      "URL": "https://www.youtube.com/watch?v=aqz1zk6Ysl8",
+      "Video Title": "EXPLAIN THIS",
+      "Published": "2026-01-22",
+      "URL": "https://www.youtube.com/watch?v=zDmeyVYy0SQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "aqz1zk6Ysl8"
+      "VideoID": "zDmeyVYy0SQ"
     },
     {
       "Name": "Benjamin Cowen",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Rebuilding Wall Street On Solana With Solmate",
-      "Published": "2026-01-15",
-      "URL": "https://www.youtube.com/watch?v=lBXKI94WY8k",
+      "Video Title": "Big Ideas 2026 | Own What's Next",
+      "Published": "2026-01-22",
+      "URL": "https://www.youtube.com/watch?v=aoh3vLLrNEQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "lBXKI94WY8k"
+      "VideoID": "aoh3vLLrNEQ"
     }
   ]
 }
