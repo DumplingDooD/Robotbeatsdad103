@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-23T06:45:01.823248+00:00",
+  "last_updated": "2026-01-23T13:02:05.833070+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,10 +20,10 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
+      "Video Title": "What if Ethereum Goes to Zero? [The Terrifying Truth]",
+      "Published": "2026-01-22",
+      "URL": "https://www.youtube.com/watch?v=8k5lK5Q96r0",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "8k5lK5Q96r0"
     },
     {
       "Name": "Mark Moss",
@@ -54,10 +54,10 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
+      "Video Title": "EXPLAIN THIS",
+      "Published": "2026-01-22",
+      "URL": "https://www.youtube.com/watch?v=zDmeyVYy0SQ",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "zDmeyVYy0SQ"
     },
     {
       "Name": "Benjamin Cowen",
@@ -122,10 +122,10 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
+      "Video Title": "Big Ideas 2026 | Own What's Next",
+      "Published": "2026-01-22",
+      "URL": "https://www.youtube.com/watch?v=aoh3vLLrNEQ",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "aoh3vLLrNEQ"
     }
   ]
 }
