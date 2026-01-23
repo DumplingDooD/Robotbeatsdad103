@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-23T13:02:05.833070+00:00",
+  "last_updated": "2026-01-23T18:43:52.358529+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Chart Shown: (GOLD/SPX), Gold Breaks $4800",
-      "Published": "2026-01-22",
-      "URL": "https://www.youtube.com/shorts/UzNSLTWGLCk",
+      "Video Title": "Metal Mania",
+      "Published": "2026-01-23",
+      "URL": "https://www.youtube.com/watch?v=lCB33h_s8Zw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "UzNSLTWGLCk"
+      "VideoID": "lCB33h_s8Zw"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Big Ideas 2026 | Own What's Next",
-      "Published": "2026-01-22",
-      "URL": "https://www.youtube.com/watch?v=aoh3vLLrNEQ",
+      "Video Title": "Cathie Wood's Big Ideas 2026 Recap",
+      "Published": "2026-01-23",
+      "URL": "https://www.youtube.com/watch?v=VTKPbxhP8jE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "aoh3vLLrNEQ"
+      "VideoID": "VTKPbxhP8jE"
     }
   ]
 }
