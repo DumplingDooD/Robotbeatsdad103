@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-25T06:41:06.182446+00:00",
+  "last_updated": "2026-01-25T12:56:29.006012+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,10 +20,10 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
+      "Video Title": "Bitcoin WON, Altcoins DIED!! The Cycle That BROKE Crypto Forever!!",
+      "Published": "2026-01-24",
+      "URL": "https://www.youtube.com/watch?v=WS9b5tpYiFE",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,14 +33,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "WS9b5tpYiFE"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
+      "Video Title": "How BTC Treasury Companies Can Outperform Bitcoin (For Dummies)",
+      "Published": "2026-01-24",
+      "URL": "https://www.youtube.com/shorts/_EtABUwc8oI",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "_EtABUwc8oI"
     },
     {
       "Name": "CTO Larsson",
@@ -71,10 +71,10 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
+      "Video Title": "Palladium Breaks $2,000!",
+      "Published": "2026-01-25",
+      "URL": "https://www.youtube.com/watch?v=Ed9h6x9nhCU",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "Ed9h6x9nhCU"
     },
     {
       "Name": "Bitcoin Magazine",
