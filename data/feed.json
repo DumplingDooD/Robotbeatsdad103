@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-27T02:25:13.291001+00:00",
+  "last_updated": "2026-01-27T06:46:56.882398+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Exit The Matrix 🏦GDP views, Fed shakeup, and escaping fiat debt",
-      "Published": "2026-01-26",
-      "URL": "https://www.youtube.com/watch?v=2fg6OBXs3qg",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "2fg6OBXs3qg"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Bitcoin Breakdown, Gold Goes Parabolic, Clarity Act Collapse & Market Chaos",
-      "Published": "2026-01-26",
-      "URL": "https://www.youtube.com/watch?v=ibXubhJBhD0",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ibXubhJBhD0"
+      "VideoID": null
     },
     {
       "Name": "Mark Moss",
@@ -54,10 +54,10 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "DCA Live: Gold Won or Rotation Ahead?",
-      "Published": "2026-01-26",
-      "URL": "https://www.youtube.com/watch?v=YRgBvHJTins",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "YRgBvHJTins"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Bear Market Resistance Band",
-      "Published": "2026-01-26",
-      "URL": "https://www.youtube.com/watch?v=BhI9mS770yA",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "BhI9mS770yA"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "How The Banking System Is Failing Its Customers",
-      "Published": "2026-01-21",
-      "URL": "https://www.youtube.com/shorts/cWSTedrQGcc",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "cWSTedrQGcc"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "BREAKING: Trump’s Economic Reset Just Started (What You Need To Know)",
-      "Published": "2026-01-24",
-      "URL": "https://www.youtube.com/watch?v=TImpXlWHrMI",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "TImpXlWHrMI"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Humanoid Robots = Trillions In Productivity",
-      "Published": "2026-01-27",
-      "URL": "https://www.youtube.com/shorts/NjLmhHml_oE",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "NjLmhHml_oE"
+      "VideoID": null
     }
   ]
 }
