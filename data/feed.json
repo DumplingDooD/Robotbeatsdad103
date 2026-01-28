@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T13:05:38.558191+00:00",
+  "last_updated": "2026-01-28T18:46:36.721866+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "How A Crypto Whale Lost $282 MILLION To A Scammer (DON'T Do This)",
-      "Published": "2026-01-27",
-      "URL": "https://www.youtube.com/watch?v=fIuXrIbiF0o",
+      "Video Title": "Is Your Crypto DEAD (Here's How To Tell)",
+      "Published": "2026-01-28",
+      "URL": "https://www.youtube.com/watch?v=B5hotugHagY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "fIuXrIbiF0o"
+      "VideoID": "B5hotugHagY"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Two Important Charts For Gold!",
-      "Published": "2026-01-27",
-      "URL": "https://www.youtube.com/watch?v=rmpIOnNUwII",
+      "Video Title": "Check Out: Intothecryptoverse.com & Benjamincowen.com",
+      "Published": "2026-01-28",
+      "URL": "https://www.youtube.com/shorts/GEykvhrYCZA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "rmpIOnNUwII"
+      "VideoID": "GEykvhrYCZA"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Humanoid Robots = Trillions In Productivity",
-      "Published": "2026-01-27",
-      "URL": "https://www.youtube.com/shorts/NjLmhHml_oE",
+      "Video Title": "AI Is Already Replacing Entry-Level Jobs",
+      "Published": "2026-01-28",
+      "URL": "https://www.youtube.com/shorts/loh4ihuNnIk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "NjLmhHml_oE"
+      "VideoID": "loh4ihuNnIk"
     }
   ]
 }
