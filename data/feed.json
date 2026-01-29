@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29T06:58:16.124670+00:00",
+  "last_updated": "2026-01-29T13:13:00.144580+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "The Clawdbot Craze | The Brainstorm EP 117",
-      "Published": "2026-01-28",
-      "URL": "https://www.youtube.com/watch?v=-rGnxyZUriY",
+      "Video Title": "Tokenizing U.S. Treasuries With Don Wilson",
+      "Published": "2026-01-29",
+      "URL": "https://www.youtube.com/watch?v=r_qG1tZfu84",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "-rGnxyZUriY"
+      "VideoID": "r_qG1tZfu84"
     }
   ]
 }
