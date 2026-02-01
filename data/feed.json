@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T03:15:17.989583+00:00",
+  "last_updated": "2026-02-01T06:58:59.100938+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Silver Drops 38%",
-      "Published": "2026-01-31",
-      "URL": "https://www.youtube.com/watch?v=ZTRxoRs3VM8",
+      "Video Title": "Bitcoin: Damage Report",
+      "Published": "2026-02-01",
+      "URL": "https://www.youtube.com/watch?v=yLhApa2vv3s",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ZTRxoRs3VM8"
+      "VideoID": "yLhApa2vv3s"
     },
     {
       "Name": "Bitcoin Magazine",
