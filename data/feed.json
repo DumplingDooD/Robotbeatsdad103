@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T07:02:29.301319+00:00",
+  "last_updated": "2026-02-04T13:15:30.918196+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "LIVE: Strategy (MSTR) Q4 2025 Earnings Call",
-      "Published": "2026-02-03",
-      "URL": "https://www.youtube.com/watch?v=1kyXKI0m_LI",
+      "Video Title": "Ian Caroll: Why Money Isn’t the Root of All Evil",
+      "Published": "2026-02-04",
+      "URL": "https://www.youtube.com/shorts/UKtQQdGyQms",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "1kyXKI0m_LI"
+      "VideoID": "UKtQQdGyQms"
     },
     {
       "Name": "George Gammon",
