@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T13:15:30.918196+00:00",
+  "last_updated": "2026-02-04T19:00:02.212164+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The Coinbase Report That Could Change Everything for Q1",
-      "Published": "2026-02-03",
-      "URL": "https://www.youtube.com/watch?v=R0DMRHH4PcY",
+      "Video Title": "Bitcoin Has Been Captured",
+      "Published": "2026-02-04",
+      "URL": "https://www.youtube.com/watch?v=IxpuU1MZbHg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,13 +33,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "R0DMRHH4PcY"
+      "VideoID": "IxpuU1MZbHg"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Traditional “Retirement” is a Scam",
-      "Published": "2026-02-03",
-      "URL": "https://www.youtube.com/shorts/TduG9MqzxN4",
+      "Video Title": "My Advice for Young People Today",
+      "Published": "2026-02-04",
+      "URL": "https://www.youtube.com/shorts/JHJHUL_x0Pc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "TduG9MqzxN4"
+      "VideoID": "JHJHUL_x0Pc"
     },
     {
       "Name": "CTO Larsson",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Cliff Dwellers",
+      "Video Title": "Live Market Talk: Bitcoin, Gold, Silver, Stocks!",
       "Published": "2026-02-04",
-      "URL": "https://www.youtube.com/watch?v=7UAl2ZcEjH8",
+      "URL": "https://www.youtube.com/watch?v=pVUT0pHkcig",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "7UAl2ZcEjH8"
+      "VideoID": "pVUT0pHkcig"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Ian Caroll: Why Money Isn’t the Root of All Evil",
+      "Video Title": "Upgrading Bitcoin's Consensus Engine: Bitcoin Kernel Explained w/ Core Dev Sedited",
       "Published": "2026-02-04",
-      "URL": "https://www.youtube.com/shorts/UKtQQdGyQms",
+      "URL": "https://www.youtube.com/watch?v=HDJqsL-f9DA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "UKtQQdGyQms"
+      "VideoID": "HDJqsL-f9DA"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Bitcoin’s Next Era: Digital Gold, Stablecoins, And Freedom Tech",
-      "Published": "2026-02-03",
-      "URL": "https://www.youtube.com/watch?v=0AEJnXuqmms",
+      "Video Title": "Tesla Removes Safety Drivers From Robotaxis",
+      "Published": "2026-02-04",
+      "URL": "https://www.youtube.com/shorts/cgIY-Ta3w0s",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "0AEJnXuqmms"
+      "VideoID": "cgIY-Ta3w0s"
     }
   ]
 }
