@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T02:39:16.871138+00:00",
+  "last_updated": "2026-02-04T07:02:29.301319+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: The Beauty of Mathematics",
-      "Published": "2026-02-03",
-      "URL": "https://www.youtube.com/shorts/rofyxE6jHjs",
+      "Video Title": "Bitcoin Cliff Dwellers",
+      "Published": "2026-02-04",
+      "URL": "https://www.youtube.com/watch?v=7UAl2ZcEjH8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "rofyxE6jHjs"
+      "VideoID": "7UAl2ZcEjH8"
     },
     {
       "Name": "Bitcoin Magazine",
