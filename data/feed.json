@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T13:18:02.107643+00:00",
+  "last_updated": "2026-02-05T18:58:45.460053+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Bitcoin Has Been Captured",
-      "Published": "2026-02-04",
-      "URL": "https://www.youtube.com/watch?v=IxpuU1MZbHg",
+      "Video Title": "Banks Are TERRIFIED of This Crypto Loophole (And They Can't Stop It)",
+      "Published": "2026-02-05",
+      "URL": "https://www.youtube.com/watch?v=9fPp4-PeyXo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "IxpuU1MZbHg"
+      "VideoID": "9fPp4-PeyXo"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Crash Continues",
+      "Video Title": "I'm Happy To Admit When I'm Wrong, Any Good Investor Should Always Be Ready To Pivot",
       "Published": "2026-02-05",
-      "URL": "https://www.youtube.com/watch?v=z1VM4vHc__4",
+      "URL": "https://www.youtube.com/shorts/_5UCDu3u5f0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "z1VM4vHc__4"
+      "VideoID": "_5UCDu3u5f0"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Michael Saylor: Work Hard or Work Smart?",
+      "Video Title": "How Chaincode Labs is Building the Next Generation of Bitcoin Developers w/ Matthew Zipkin",
       "Published": "2026-02-05",
-      "URL": "https://www.youtube.com/shorts/UD2nNwSc8zI",
+      "URL": "https://www.youtube.com/watch?v=cfhN_EAKJ9Q",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "UD2nNwSc8zI"
+      "VideoID": "cfhN_EAKJ9Q"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "SpaceX And xAI Merge | The Brainstorm EP 118",
-      "Published": "2026-02-04",
-      "URL": "https://www.youtube.com/watch?v=prBSc4TAUW0",
+      "Video Title": "Leading With Purpose: Personal, Professional And Planet",
+      "Published": "2026-02-05",
+      "URL": "https://www.youtube.com/watch?v=TFhYalMIu2c",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "prBSc4TAUW0"
+      "VideoID": "TFhYalMIu2c"
     }
   ]
 }
