@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05T07:08:13.332084+00:00",
+  "last_updated": "2026-02-05T13:18:02.107643+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Upgrading Bitcoin's Consensus Engine: Bitcoin Kernel Explained w/ Core Dev Sedited",
-      "Published": "2026-02-04",
-      "URL": "https://www.youtube.com/watch?v=HDJqsL-f9DA",
+      "Video Title": "Michael Saylor: Work Hard or Work Smart?",
+      "Published": "2026-02-05",
+      "URL": "https://www.youtube.com/shorts/UD2nNwSc8zI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "HDJqsL-f9DA"
+      "VideoID": "UD2nNwSc8zI"
     },
     {
       "Name": "George Gammon",
