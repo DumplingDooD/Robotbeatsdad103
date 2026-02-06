@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T07:03:38.454478+00:00",
+  "last_updated": "2026-02-06T13:15:27.031761+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "You’ve Seen This Before!",
-      "Published": "2026-02-03",
-      "URL": "https://www.youtube.com/watch?v=gssYwqKzE6M",
+      "Video Title": "You Don’t Want to Regret This",
+      "Published": "2026-02-06",
+      "URL": "https://www.youtube.com/watch?v=nJ7YN2OWoiw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "gssYwqKzE6M"
+      "VideoID": "nJ7YN2OWoiw"
     },
     {
       "Name": "Benjamin Cowen",
