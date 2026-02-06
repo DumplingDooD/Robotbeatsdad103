@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T13:15:27.031761+00:00",
+  "last_updated": "2026-02-06T19:00:45.041109+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Gold: Dubious Speculation",
+      "Video Title": "Bitcoin: Dubious Speculation",
       "Published": "2026-02-06",
-      "URL": "https://www.youtube.com/watch?v=O1KXiwSRdBs",
+      "URL": "https://www.youtube.com/watch?v=eAzoXY1GfIo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "O1KXiwSRdBs"
+      "VideoID": "eAzoXY1GfIo"
     },
     {
       "Name": "Bitcoin Magazine",
