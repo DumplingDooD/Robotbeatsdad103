@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T02:41:30.559079+00:00",
+  "last_updated": "2026-02-06T07:03:38.454478+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Down 50% From The Highs",
-      "Published": "2026-02-05",
-      "URL": "https://www.youtube.com/watch?v=8_iKuXNSPro",
+      "Video Title": "Gold: Dubious Speculation",
+      "Published": "2026-02-06",
+      "URL": "https://www.youtube.com/watch?v=O1KXiwSRdBs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "8_iKuXNSPro"
+      "VideoID": "O1KXiwSRdBs"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Michael Saylor on Quantum FUD and Why Bitcoin Doesn’t Panic",
+      "Video Title": "Michael Saylor Explains Why Bitcoin’s Adoption Is Becoming Inevitable",
       "Published": "2026-02-06",
-      "URL": "https://www.youtube.com/watch?v=MaxPU4RRZyE",
+      "URL": "https://www.youtube.com/watch?v=sSW489af3b4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "MaxPU4RRZyE"
+      "VideoID": "sSW489af3b4"
     },
     {
       "Name": "George Gammon",
