@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-02-06T19:00:45.041109+00:00",
+  "last_updated": "2026-02-07T02:36:37.783404+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Bitcoin in Freefall 🚨 Record Dump at Record Speed",
-      "Published": "2026-02-05",
-      "URL": "https://www.youtube.com/watch?v=VXgrHPbQ9zA",
+      "Video Title": "Reset or the Bounce? Guess Who’s Back… + Space Wars🌍🚀⚔️",
+      "Published": "2026-02-06",
+      "URL": "https://www.youtube.com/watch?v=83lO8fpgh-s",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "VXgrHPbQ9zA"
+      "VideoID": "83lO8fpgh-s"
     },
     {
       "Name": "Coin Bureau",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The Start of a New World Order (What’s Next)",
-      "Published": "2026-02-05",
-      "URL": "https://www.youtube.com/watch?v=yUGrZGM2WIY",
+      "Video Title": "Time in the Market vs Timing in the Market",
+      "Published": "2026-02-06",
+      "URL": "https://www.youtube.com/shorts/sbI-T38xwIw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "yUGrZGM2WIY"
+      "VideoID": "sbI-T38xwIw"
     },
     {
       "Name": "CTO Larsson",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Michael Saylor Explains Why Bitcoin’s Adoption Is Becoming Inevitable",
+      "Video Title": "AI Agents Are Already Using Bitcoin in a Bot-Run Economy | Bitcoin Policy Hour Ep. 27",
       "Published": "2026-02-06",
-      "URL": "https://www.youtube.com/watch?v=sSW489af3b4",
+      "URL": "https://www.youtube.com/watch?v=MTTxyywbV4s",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "sSW489af3b4"
+      "VideoID": "MTTxyywbV4s"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Leading With Purpose: Personal, Professional And Planet",
-      "Published": "2026-02-05",
-      "URL": "https://www.youtube.com/watch?v=TFhYalMIu2c",
+      "Video Title": "Cathie Wood On Bitcoin Volatility And SaaSpocalypse Fears",
+      "Published": "2026-02-07",
+      "URL": "https://www.youtube.com/watch?v=DqAstqD7Pzc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "TFhYalMIu2c"
+      "VideoID": "DqAstqD7Pzc"
     }
   ]
 }
