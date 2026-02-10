@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T13:40:12.223680+00:00",
+  "last_updated": "2026-02-10T19:15:39.385677+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Bitcoin's Week From HELL, The Secret Indicator Nobody's Watching & Where Smart Money Is Going Now",
-      "Published": "2026-02-09",
-      "URL": "https://www.youtube.com/watch?v=y9m4BQLXvnY",
+      "Video Title": "Tether USAT Stablecoin Explained: How Tether Plans to Beat USDC and Dominate the US Market",
+      "Published": "2026-02-10",
+      "URL": "https://www.youtube.com/watch?v=EKC9Zbap_4Q",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,13 +33,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "y9m4BQLXvnY"
+      "VideoID": "EKC9Zbap_4Q"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "My Daughters Are NOT Going to College",
-      "Published": "2026-02-07",
-      "URL": "https://www.youtube.com/shorts/Ej7H5waR8Sc",
+      "Video Title": "Bitcoin Crashed Hard. Here’s How I’m Playing It.",
+      "Published": "2026-02-10",
+      "URL": "https://www.youtube.com/watch?v=JgXtAl0lV8c",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Ej7H5waR8Sc"
+      "VideoID": "JgXtAl0lV8c"
     },
     {
       "Name": "CTO Larsson",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Cathie Wood On Bitcoin Volatility And SaaSpocalypse Fears",
-      "Published": "2026-02-07",
-      "URL": "https://www.youtube.com/watch?v=DqAstqD7Pzc",
+      "Video Title": "SpaceX Acquires xAI",
+      "Published": "2026-02-10",
+      "URL": "https://www.youtube.com/shorts/YQvFgi2VkJA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "DqAstqD7Pzc"
+      "VideoID": "YQvFgi2VkJA"
     }
   ]
 }
