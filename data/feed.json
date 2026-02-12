@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T13:24:44.191586+00:00",
+  "last_updated": "2026-02-12T19:12:20.409563+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Banks Just Made Coinbase Public Enemy #1 (Here's What They're Hiding)",
-      "Published": "2026-02-11",
-      "URL": "https://www.youtube.com/watch?v=4QfHabX2GFg",
+      "Video Title": "Token Unlocks, Buybacks & Burns Explained: Why Altcoins Keep Crashing in 2026",
+      "Published": "2026-02-12",
+      "URL": "https://www.youtube.com/watch?v=54JVJfVxSVw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "4QfHabX2GFg"
+      "VideoID": "54JVJfVxSVw"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "How low will Bitcoin go?",
+      "Video Title": "When Bear Markets Start, No One Believes It At First",
       "Published": "2026-02-12",
-      "URL": "https://www.youtube.com/watch?v=WUJwW3mf6to",
+      "URL": "https://www.youtube.com/shorts/7HKMIok6hPE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "WUJwW3mf6to"
+      "VideoID": "7HKMIok6hPE"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Max Keiser: What Dies First in a Fiat-Run Economy",
+      "Video Title": "Ross Ulbricht: “This Was Bigger Than Bitcoin”",
       "Published": "2026-02-12",
-      "URL": "https://www.youtube.com/shorts/gnVwK8NkFb0",
+      "URL": "https://www.youtube.com/shorts/3IKtIzpZM1o",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "gnVwK8NkFb0"
+      "VideoID": "3IKtIzpZM1o"
     },
     {
       "Name": "George Gammon",
