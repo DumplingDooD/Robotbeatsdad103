@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T13:16:28.952567+00:00",
+  "last_updated": "2026-02-13T19:00:18.158685+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "When Bear Markets Start, No One Believes It At First",
-      "Published": "2026-02-12",
-      "URL": "https://www.youtube.com/shorts/7HKMIok6hPE",
+      "Video Title": "Where Bitcoin Will Bottom",
+      "Published": "2026-02-13",
+      "URL": "https://www.youtube.com/shorts/aM8RtdVJgcw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "7HKMIok6hPE"
+      "VideoID": "aM8RtdVJgcw"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Building The Interoperable Future Of Crypto With LayerZero",
-      "Published": "2026-02-12",
-      "URL": "https://www.youtube.com/watch?v=Cg4x4JNBm3E",
+      "Video Title": "Is SaaS Dead? | The Brainstorm EP 119",
+      "Published": "2026-02-13",
+      "URL": "https://www.youtube.com/watch?v=DcH3FKerB3Y",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Cg4x4JNBm3E"
+      "VideoID": "DcH3FKerB3Y"
     }
   ]
 }
