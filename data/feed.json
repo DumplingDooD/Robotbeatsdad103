@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T13:04:12.584109+00:00",
+  "last_updated": "2026-02-14T18:45:41.533979+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Altcoins Are Broken. Here's Proof",
-      "Published": "2026-02-12",
-      "URL": "https://www.youtube.com/watch?v=54JVJfVxSVw",
+      "Video Title": "Bitcoin Miners Are Abandoning BTC... And No One Is Talking About Why",
+      "Published": "2026-02-14",
+      "URL": "https://www.youtube.com/watch?v=cQj0D74gT_Y",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "54JVJfVxSVw"
+      "VideoID": "cQj0D74gT_Y"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Max Keiser: Bitcoin Is the Ladder to a Better Society",
+      "Video Title": "Bitcoin Follows a Power Law",
       "Published": "2026-02-14",
-      "URL": "https://www.youtube.com/shorts/_KyC_XDWF4w",
+      "URL": "https://www.youtube.com/shorts/E3wsw2HAmlI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "_KyC_XDWF4w"
+      "VideoID": "E3wsw2HAmlI"
     },
     {
       "Name": "George Gammon",
