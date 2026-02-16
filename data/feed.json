@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-02-16T13:19:28.251512+00:00",
+  "last_updated": "2026-02-16T18:54:55.397377+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Why Most Investors Make ZERO Profit (And How to Win)",
-      "Published": "2026-02-15",
-      "URL": "https://www.youtube.com/watch?v=Jlhtk-PeMSY",
+      "Video Title": "DCA Live: \"Oxygen Sucked Out\" ⚠️ Did AI Just Kill the Bitcoin Cycle?",
+      "Published": "2026-02-16",
+      "URL": "https://www.youtube.com/watch?v=r1Cr_f5SVl0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Jlhtk-PeMSY"
+      "VideoID": "r1Cr_f5SVl0"
     },
     {
       "Name": "Coin Bureau",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The Secret Reason Behind Bitcoin's Crash (And What Actually Matters)",
-      "Published": "2026-02-12",
-      "URL": "https://www.youtube.com/watch?v=yD0b2PXuwNI",
+      "Video Title": "The Rich Never Take Profits",
+      "Published": "2026-02-16",
+      "URL": "https://www.youtube.com/shorts/D_KBELzNQ60",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "yD0b2PXuwNI"
+      "VideoID": "D_KBELzNQ60"
     },
     {
       "Name": "CTO Larsson",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Did We Underestimate?",
-      "Published": "2026-02-15",
-      "URL": "https://www.youtube.com/shorts/nvS6XgjjSnQ",
+      "Video Title": "Inflation Is Breaking Down",
+      "Published": "2026-02-16",
+      "URL": "https://www.youtube.com/shorts/3o3yczg5H4c",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "nvS6XgjjSnQ"
+      "VideoID": "3o3yczg5H4c"
     }
   ]
 }
