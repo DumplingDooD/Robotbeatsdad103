@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T13:21:19.654293+00:00",
+  "last_updated": "2026-02-18T19:04:59.462070+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Unrealized Gains Tax on Crypto: The New 36% Law Explained (What HODLers Must Know)",
-      "Published": "2026-02-17",
-      "URL": "https://www.youtube.com/watch?v=1PL4L_cyDvo",
+      "Video Title": "Stripe, Google and Amazon Are Betting on Crypto Payments. Here's How to Profit",
+      "Published": "2026-02-18",
+      "URL": "https://www.youtube.com/watch?v=aJqZbw4I5EM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "1PL4L_cyDvo"
+      "VideoID": "aJqZbw4I5EM"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Big Ideas 2026: Our Key Takeaways",
-      "Published": "2026-02-17",
-      "URL": "https://www.youtube.com/watch?v=Ol_Z24Wtv1g",
+      "Video Title": "SaaS Is Getting Wiped Out",
+      "Published": "2026-02-18",
+      "URL": "https://www.youtube.com/shorts/61NTrN1EZH8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Ol_Z24Wtv1g"
+      "VideoID": "61NTrN1EZH8"
     }
   ]
 }
