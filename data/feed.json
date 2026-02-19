@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T13:22:51.641546+00:00",
+  "last_updated": "2026-02-19T19:00:16.031763+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Stripe, Google and Amazon Are Betting on Crypto Payments. Here's How to Profit",
-      "Published": "2026-02-18",
-      "URL": "https://www.youtube.com/watch?v=aJqZbw4I5EM",
+      "Video Title": "Retail Left Crypto. They're Not Coming Back",
+      "Published": "2026-02-19",
+      "URL": "https://www.youtube.com/watch?v=vgtLPRBgLtQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "aJqZbw4I5EM"
+      "VideoID": "vgtLPRBgLtQ"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Stock Market Weakness, Charts Shown: (SPX/Gold, SPX/Silver)",
-      "Published": "2026-02-18",
-      "URL": "https://www.youtube.com/shorts/wucZsd6nT_I",
+      "Video Title": "NFA Live: The Bitcoin Bear Market Blues",
+      "Published": "2026-02-19",
+      "URL": "https://www.youtube.com/watch?v=BQtibQD5C6k",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "wucZsd6nT_I"
+      "VideoID": "BQtibQD5C6k"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Big Ideas 2026: The Great Acceleration",
-      "Published": "2026-02-18",
-      "URL": "https://www.youtube.com/watch?v=JV74NSZXv4w",
+      "Video Title": "The Great Acceleration 3 Takeaways | Big Ideas 2026",
+      "Published": "2026-02-19",
+      "URL": "https://www.youtube.com/shorts/0aXphIgjRvI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "JV74NSZXv4w"
+      "VideoID": "0aXphIgjRvI"
     }
   ]
 }
