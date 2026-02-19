@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-19T02:46:30.536860+00:00",
+  "last_updated": "2026-02-19T07:09:21.871063+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "🍋 Should You Buy $LMND? Insider Dumped 1/2 His $TSLA Into it – Face Off ⚔️",
-      "Published": "2026-02-18",
-      "URL": "https://www.youtube.com/watch?v=ESQJKnDyLjI",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ESQJKnDyLjI"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
       "Video Title": "Unavailable",
       "Published": "",
       "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -57,7 +57,7 @@
       "Video Title": "Unavailable",
       "Published": "",
       "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -71,10 +71,10 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Stock Market Weakness, Charts Shown: (SPX/Gold, SPX/Silver)",
-      "Published": "2026-02-18",
-      "URL": "https://www.youtube.com/shorts/wucZsd6nT_I",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "wucZsd6nT_I"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin and AI Are About to Unlock Africa in 2026",
-      "Published": "2026-02-18",
-      "URL": "https://www.youtube.com/shorts/Xu-EaQOnEDE",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Xu-EaQOnEDE"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "WTF Just Happened To Silver?!",
-      "Published": "2026-02-05",
-      "URL": "https://www.youtube.com/watch?v=CPNPPoEms0s",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,7 +118,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "CPNPPoEms0s"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
