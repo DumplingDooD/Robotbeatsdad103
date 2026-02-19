@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-02-18T19:04:59.462070+00:00",
+  "last_updated": "2026-02-19T02:46:30.536860+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "OCTA: SaaSpocalypse Crash + BTC Correlations + RWA Rockets 🚀",
-      "Published": "2026-02-17",
-      "URL": "https://www.youtube.com/watch?v=WQNP1fqUFT8",
+      "Video Title": "🍋 Should You Buy $LMND? Insider Dumped 1/2 His $TSLA Into it – Face Off ⚔️",
+      "Published": "2026-02-18",
+      "URL": "https://www.youtube.com/watch?v=ESQJKnDyLjI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "WQNP1fqUFT8"
+      "VideoID": "ESQJKnDyLjI"
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Stripe, Google and Amazon Are Betting on Crypto Payments. Here's How to Profit",
-      "Published": "2026-02-18",
-      "URL": "https://www.youtube.com/watch?v=aJqZbw4I5EM",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,14 +33,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "aJqZbw4I5EM"
+      "VideoID": null
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "This \"Always\" Happens When Gold Beats Bitcoin",
-      "Published": "2026-02-17",
-      "URL": "https://www.youtube.com/watch?v=TP8bsaWiNM8",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "TP8bsaWiNM8"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "⁠If you see this on Feb 16th.. it's a sign",
-      "Published": "2026-02-16",
-      "URL": "https://www.youtube.com/watch?v=cYOhVDvCVcM",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,13 +67,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "cYOhVDvCVcM"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Gold vs Stocks  (Charts Shown: CFDs on Gold, SPX)- It Took Stocks A Longer Time to..",
-      "Published": "2026-02-17",
-      "URL": "https://www.youtube.com/shorts/6QvQ6xxoBLA",
+      "Video Title": "Stock Market Weakness, Charts Shown: (SPX/Gold, SPX/Silver)",
+      "Published": "2026-02-18",
+      "URL": "https://www.youtube.com/shorts/wucZsd6nT_I",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "6QvQ6xxoBLA"
+      "VideoID": "wucZsd6nT_I"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,10 +122,10 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "SaaS Is Getting Wiped Out",
-      "Published": "2026-02-18",
-      "URL": "https://www.youtube.com/shorts/61NTrN1EZH8",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "61NTrN1EZH8"
+      "VideoID": null
     }
   ]
 }
