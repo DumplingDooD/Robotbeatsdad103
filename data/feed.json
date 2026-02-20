@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20T13:13:47.973144+00:00",
+  "last_updated": "2026-02-20T18:58:17.913356+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Market Discussion with Benjamin Cowen, Gareth Soloway, Scott Melker, and Mike McGlone",
-      "Published": "2026-02-19",
-      "URL": "https://www.youtube.com/watch?v=YRvNdZQ4TR0",
+      "Video Title": "Why Alt Season Never Happened: Understanding Liquidity",
+      "Published": "2026-02-20",
+      "URL": "https://www.youtube.com/watch?v=rDYzbxeMWdY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "YRvNdZQ4TR0"
+      "VideoID": "rDYzbxeMWdY"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin and AI Are About to Unlock Africa in 2026",
-      "Published": "2026-02-18",
-      "URL": "https://www.youtube.com/shorts/Xu-EaQOnEDE",
+      "Video Title": "\"AI Centaurs\" vs \"Slop Cannons\": Economic Bifurcation in the Age of AI | Bitcoin Policy Hour Ep 28",
+      "Published": "2026-02-20",
+      "URL": "https://www.youtube.com/watch?v=ssDxFOe35ZE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Xu-EaQOnEDE"
+      "VideoID": "ssDxFOe35ZE"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "The Great Acceleration 3 Takeaways | Big Ideas 2026",
-      "Published": "2026-02-19",
-      "URL": "https://www.youtube.com/shorts/0aXphIgjRvI",
+      "Video Title": "Is Today's Market Actually Healthy?",
+      "Published": "2026-02-20",
+      "URL": "https://www.youtube.com/shorts/T67DZxzWH6I",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "0aXphIgjRvI"
+      "VideoID": "T67DZxzWH6I"
     }
   ]
 }
