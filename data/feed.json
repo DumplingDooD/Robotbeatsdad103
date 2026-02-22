@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-22T02:47:53.333028+00:00",
+  "last_updated": "2026-02-22T06:57:46.213103+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "40% BELOW Fair Value 🚨 Extreme Divergence + Macro Chaos",
-      "Published": "2026-02-21",
-      "URL": "https://www.youtube.com/watch?v=RQA_M32Z2EI",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "RQA_M32Z2EI"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
@@ -105,10 +105,10 @@
     },
     {
       "Name": "George Gammon",
-      "Video Title": "WTF Just Happened To Silver?!",
-      "Published": "2026-02-05",
-      "URL": "https://www.youtube.com/watch?v=CPNPPoEms0s",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,7 +118,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "CPNPPoEms0s"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
