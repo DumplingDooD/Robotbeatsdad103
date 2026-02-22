@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22T13:04:53.790561+00:00",
+  "last_updated": "2026-02-22T18:46:29.953254+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Why Alt Season Never Happened: Understanding Liquidity",
-      "Published": "2026-02-20",
-      "URL": "https://www.youtube.com/watch?v=rDYzbxeMWdY",
+      "Video Title": "Visualizing the Business Cycle",
+      "Published": "2026-02-22",
+      "URL": "https://www.youtube.com/watch?v=2ehTz4A5yJQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "rDYzbxeMWdY"
+      "VideoID": "2ehTz4A5yJQ"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Why The Best Workers Aren't Replacing Themselves with AI",
-      "Published": "2026-02-20",
-      "URL": "https://www.youtube.com/shorts/YQVK1-4PyzM",
+      "Video Title": "LIVE: Bitcoin for Corporations - Day 1 | Strategy World 2026",
+      "Published": "2026-02-22",
+      "URL": "https://www.youtube.com/watch?v=UrmY3F8VBmM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "YQVK1-4PyzM"
+      "VideoID": "UrmY3F8VBmM"
     },
     {
       "Name": "George Gammon",
