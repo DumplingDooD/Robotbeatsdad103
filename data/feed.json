@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-24T07:09:34.692162+00:00",
+  "last_updated": "2026-02-24T13:22:37.604031+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
+      "Video Title": "Watch Out: Institutional LIQUIDITY Trap",
+      "Published": "2026-02-23",
+      "URL": "https://www.youtube.com/watch?v=WRJ8nQxGKQc",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "WRJ8nQxGKQc"
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
+      "Video Title": "Bitcoin DUMPS to 65K, SCOTUS NUKES the Tariffs & The AI Revolution Nobody Saw Coming",
+      "Published": "2026-02-23",
+      "URL": "https://www.youtube.com/watch?v=rOqUpiDupew",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,14 +33,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "rOqUpiDupew"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
+      "Video Title": "Bitcoin CRASHED. Should you Buy or Sell? 🤔",
+      "Published": "2026-02-21",
+      "URL": "https://www.youtube.com/shorts/YfBHysqfuEc",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "YfBHysqfuEc"
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
+      "Video Title": "⁠If you see this on Feb 16th.. it's a sign",
+      "Published": "2026-02-16",
+      "URL": "https://www.youtube.com/watch?v=cYOhVDvCVcM",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "cYOhVDvCVcM"
     },
     {
       "Name": "Benjamin Cowen",
@@ -88,10 +88,10 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
+      "Video Title": "Whitney Webb: CIA, Criminal Banks & FTX — Nobody Goes to Jail",
+      "Published": "2026-02-24",
+      "URL": "https://www.youtube.com/shorts/mePtYZY6JrY",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "mePtYZY6JrY"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
+      "Video Title": "WTF Just Happened To Silver?!",
+      "Published": "2026-02-05",
+      "URL": "https://www.youtube.com/watch?v=CPNPPoEms0s",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "CPNPPoEms0s"
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
+      "Video Title": "BREAKING: Supreme Court Kills Trump Tariffs — Cathie Wood Reacts LIVE",
+      "Published": "2026-02-20",
+      "URL": "https://www.youtube.com/watch?v=77lulW5sw2o",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "77lulW5sw2o"
     }
   ]
 }
