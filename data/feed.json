@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T13:22:37.604031+00:00",
+  "last_updated": "2026-02-24T19:11:48.359167+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Bitcoin DUMPS to 65K, SCOTUS NUKES the Tariffs & The AI Revolution Nobody Saw Coming",
-      "Published": "2026-02-23",
-      "URL": "https://www.youtube.com/watch?v=rOqUpiDupew",
+      "Video Title": "Your Bitcoin Isn't Real",
+      "Published": "2026-02-24",
+      "URL": "https://www.youtube.com/watch?v=PuQLREKxshY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "rOqUpiDupew"
+      "VideoID": "PuQLREKxshY"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "BREAKING: Supreme Court Kills Trump Tariffs — Cathie Wood Reacts LIVE",
-      "Published": "2026-02-20",
-      "URL": "https://www.youtube.com/watch?v=77lulW5sw2o",
+      "Video Title": "Algorithm-Driven Market Volatility",
+      "Published": "2026-02-24",
+      "URL": "https://www.youtube.com/shorts/1mAGIoOZSlE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "77lulW5sw2o"
+      "VideoID": "1mAGIoOZSlE"
     }
   ]
 }
