@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-25T07:10:47.418370+00:00",
+  "last_updated": "2026-02-25T13:21:57.782269+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,10 +20,10 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
+      "Video Title": "Your Bitcoin Isn't Real",
+      "Published": "2026-02-24",
+      "URL": "https://www.youtube.com/watch?v=PuQLREKxshY",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,14 +33,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "PuQLREKxshY"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
+      "Video Title": "Bitcoin Is Being Repriced by AI",
+      "Published": "2026-02-24",
+      "URL": "https://www.youtube.com/watch?v=DnT8bUl_DM8",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "DnT8bUl_DM8"
     },
     {
       "Name": "CTO Larsson",
@@ -88,10 +88,10 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
+      "Video Title": "Edward Snowden: Don't Let Wall Street Tame Bitcoin",
+      "Published": "2026-02-25",
+      "URL": "https://www.youtube.com/shorts/6RXMlTgAl44",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "6RXMlTgAl44"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
+      "Video Title": "WTF Just Happened To Silver?!",
+      "Published": "2026-02-05",
+      "URL": "https://www.youtube.com/watch?v=CPNPPoEms0s",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "CPNPPoEms0s"
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
+      "Video Title": "Algorithm-Driven Market Volatility",
+      "Published": "2026-02-24",
+      "URL": "https://www.youtube.com/shorts/1mAGIoOZSlE",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "1mAGIoOZSlE"
     }
   ]
 }
