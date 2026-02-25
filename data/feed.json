@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-25T13:21:57.782269+00:00",
+  "last_updated": "2026-02-25T19:14:57.266197+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Your Bitcoin Isn't Real",
-      "Published": "2026-02-24",
-      "URL": "https://www.youtube.com/watch?v=PuQLREKxshY",
+      "Video Title": "Wall Street Just Proved Bitcoin Is Not Digital Gold (The Data Is Terrifying)",
+      "Published": "2026-02-25",
+      "URL": "https://www.youtube.com/watch?v=qJNj1eVmgNc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "PuQLREKxshY"
+      "VideoID": "qJNj1eVmgNc"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Business Cycles Ends With Recessions",
+      "Video Title": "Altcoins Bleed First, Then This Happens...",
       "Published": "2026-02-25",
-      "URL": "https://www.youtube.com/watch?v=FiztJuyl7p4",
+      "URL": "https://www.youtube.com/shorts/Q0epmdeDUyk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "FiztJuyl7p4"
+      "VideoID": "Q0epmdeDUyk"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Edward Snowden: Don't Let Wall Street Tame Bitcoin",
-      "Published": "2026-02-25",
-      "URL": "https://www.youtube.com/shorts/6RXMlTgAl44",
+      "Video Title": "LIVE: Bitcoin for Corporations - Day 2 | Strategy World 2026",
+      "Published": "2026-02-24",
+      "URL": "https://www.youtube.com/watch?v=VLWUAgYOBv0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "6RXMlTgAl44"
+      "VideoID": "VLWUAgYOBv0"
     },
     {
       "Name": "George Gammon",
