@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-26T07:08:51.607552+00:00",
+  "last_updated": "2026-02-26T13:22:51.591256+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
+      "Video Title": "CyberCab Fleet vs $TSLA Stock: Which Actually Makes You Richer?🤯",
+      "Published": "2026-02-25",
+      "URL": "https://www.youtube.com/watch?v=nmGOIbNoDZk",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "nmGOIbNoDZk"
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
+      "Video Title": "Wall Street Just Proved Bitcoin Is Not Digital Gold (The Data Is Terrifying)",
+      "Published": "2026-02-25",
+      "URL": "https://www.youtube.com/watch?v=qJNj1eVmgNc",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "qJNj1eVmgNc"
     },
     {
       "Name": "Mark Moss",
@@ -54,77 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
-      "Sentiment": "🟣 Unknown",
-      "KeyPoints": [],
-      "Entities": {
-        "tickers": [],
-        "macro": [],
-        "actions": [],
-        "levels": []
-      },
-      "TranscriptNote": "",
-      "VideoID": null
-    },
-    {
-      "Name": "Benjamin Cowen",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
-      "Sentiment": "🟣 Unknown",
-      "KeyPoints": [],
-      "Entities": {
-        "tickers": [],
-        "macro": [],
-        "actions": [],
-        "levels": []
-      },
-      "TranscriptNote": "",
-      "VideoID": null
-    },
-    {
-      "Name": "Bitcoin Magazine",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
-      "Sentiment": "🟣 Unknown",
-      "KeyPoints": [],
-      "Entities": {
-        "tickers": [],
-        "macro": [],
-        "actions": [],
-        "levels": []
-      },
-      "TranscriptNote": "",
-      "VideoID": null
-    },
-    {
-      "Name": "George Gammon",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
-      "Sentiment": "🟣 Unknown",
-      "KeyPoints": [],
-      "Entities": {
-        "tickers": [],
-        "macro": [],
-        "actions": [],
-        "levels": []
-      },
-      "TranscriptNote": "",
-      "VideoID": null
-    },
-    {
-      "Name": "ArkInvest",
-      "Video Title": "Will Robots Take Our Jobs? | The Brainstorm EP 120",
-      "Published": "2026-02-25",
-      "URL": "https://www.youtube.com/watch?v=4m6y6ZYvG84",
+      "Video Title": "⁠If you see this on Feb 16th.. it's a sign",
+      "Published": "2026-02-16",
+      "URL": "https://www.youtube.com/watch?v=cYOhVDvCVcM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +67,75 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "4m6y6ZYvG84"
+      "VideoID": "cYOhVDvCVcM"
+    },
+    {
+      "Name": "Benjamin Cowen",
+      "Video Title": "Altcoins Bleed First, Then This Happens...",
+      "Published": "2026-02-25",
+      "URL": "https://www.youtube.com/shorts/Q0epmdeDUyk",
+      "Summary": "Transcript unavailable.",
+      "Sentiment": "🟣 Unknown",
+      "KeyPoints": [],
+      "Entities": {
+        "tickers": [],
+        "macro": [],
+        "actions": [],
+        "levels": []
+      },
+      "TranscriptNote": "",
+      "VideoID": "Q0epmdeDUyk"
+    },
+    {
+      "Name": "Bitcoin Magazine",
+      "Video Title": "Michael Saylor: Why Strategy Will Keep Outperforming Bitcoin, the S&P, and Gold",
+      "Published": "2026-02-26",
+      "URL": "https://www.youtube.com/shorts/nx1fajHKWD8",
+      "Summary": "Transcript unavailable.",
+      "Sentiment": "🟣 Unknown",
+      "KeyPoints": [],
+      "Entities": {
+        "tickers": [],
+        "macro": [],
+        "actions": [],
+        "levels": []
+      },
+      "TranscriptNote": "",
+      "VideoID": "nx1fajHKWD8"
+    },
+    {
+      "Name": "George Gammon",
+      "Video Title": "WTF Just Happened To Silver?!",
+      "Published": "2026-02-05",
+      "URL": "https://www.youtube.com/watch?v=CPNPPoEms0s",
+      "Summary": "Transcript unavailable.",
+      "Sentiment": "🟣 Unknown",
+      "KeyPoints": [],
+      "Entities": {
+        "tickers": [],
+        "macro": [],
+        "actions": [],
+        "levels": []
+      },
+      "TranscriptNote": "",
+      "VideoID": "CPNPPoEms0s"
+    },
+    {
+      "Name": "ArkInvest",
+      "Video Title": "The AI-Powered Brokerage: Public’s Vision For Agentic Investing",
+      "Published": "2026-02-26",
+      "URL": "https://www.youtube.com/watch?v=E6N0UiuRtxg",
+      "Summary": "Transcript unavailable.",
+      "Sentiment": "🟣 Unknown",
+      "KeyPoints": [],
+      "Entities": {
+        "tickers": [],
+        "macro": [],
+        "actions": [],
+        "levels": []
+      },
+      "TranscriptNote": "",
+      "VideoID": "E6N0UiuRtxg"
     }
   ]
 }
