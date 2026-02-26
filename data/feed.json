@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T13:22:51.591256+00:00",
+  "last_updated": "2026-02-26T19:01:19.715912+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Bitcoin Is Being Repriced by AI",
-      "Published": "2026-02-24",
-      "URL": "https://www.youtube.com/watch?v=DnT8bUl_DM8",
+      "Video Title": "Why BRICS Won’t Cooperate on a New Currency",
+      "Published": "2026-02-26",
+      "URL": "https://www.youtube.com/shorts/GpgTAldHamM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,13 +50,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "DnT8bUl_DM8"
+      "VideoID": "GpgTAldHamM"
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "⁠If you see this on Feb 16th.. it's a sign",
-      "Published": "2026-02-16",
-      "URL": "https://www.youtube.com/watch?v=cYOhVDvCVcM",
+      "Video Title": "⁠I Built a Tesla Price Model… The Numbers Are Terrifying",
+      "Published": "2026-02-26",
+      "URL": "https://www.youtube.com/watch?v=2sCosqBOgko",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,13 +67,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "cYOhVDvCVcM"
+      "VideoID": "2sCosqBOgko"
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Altcoins Bleed First, Then This Happens...",
-      "Published": "2026-02-25",
-      "URL": "https://www.youtube.com/shorts/Q0epmdeDUyk",
+      "Video Title": "Bitcoin: Midterm Year Returns",
+      "Published": "2026-02-26",
+      "URL": "https://www.youtube.com/watch?v=fV6NzO02KH4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Q0epmdeDUyk"
+      "VideoID": "fV6NzO02KH4"
     },
     {
       "Name": "Bitcoin Magazine",
