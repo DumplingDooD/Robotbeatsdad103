@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-02-26T02:41:25.406387+00:00",
+  "last_updated": "2026-02-26T07:08:51.607552+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "CyberCab Fleet vs $TSLA Stock: Which Actually Makes You Richer?🤯",
-      "Published": "2026-02-25",
-      "URL": "https://www.youtube.com/watch?v=nmGOIbNoDZk",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "nmGOIbNoDZk"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Wall Street Just Proved Bitcoin Is Not Digital Gold (The Data Is Terrifying)",
-      "Published": "2026-02-25",
-      "URL": "https://www.youtube.com/watch?v=qJNj1eVmgNc",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "qJNj1eVmgNc"
+      "VideoID": null
     },
     {
       "Name": "Mark Moss",
@@ -54,10 +54,10 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "⁠If you see this on Feb 16th.. it's a sign",
-      "Published": "2026-02-16",
-      "URL": "https://www.youtube.com/watch?v=cYOhVDvCVcM",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "cYOhVDvCVcM"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Altcoins Bleed First, Then This Happens...",
-      "Published": "2026-02-25",
-      "URL": "https://www.youtube.com/shorts/Q0epmdeDUyk",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Q0epmdeDUyk"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "LIVE: Bitcoin for Corporations - Day 2 | Strategy World 2026",
-      "Published": "2026-02-26",
-      "URL": "https://www.youtube.com/watch?v=VLWUAgYOBv0",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "VLWUAgYOBv0"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "WTF Just Happened To Silver?!",
-      "Published": "2026-02-05",
-      "URL": "https://www.youtube.com/watch?v=CPNPPoEms0s",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,7 +118,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "CPNPPoEms0s"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
