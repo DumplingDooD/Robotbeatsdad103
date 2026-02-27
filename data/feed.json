@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T13:13:55.910082+00:00",
+  "last_updated": "2026-02-27T18:55:17.017413+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "A Useful Chart for Navigating BTC Bear Market (Chart Shown: Year-To-Date ROI)",
-      "Published": "2026-02-26",
-      "URL": "https://www.youtube.com/shorts/rh5nqX3tUds",
+      "Video Title": "Gold: Dubious Speculation",
+      "Published": "2026-02-27",
+      "URL": "https://www.youtube.com/watch?v=whCcobPN71w",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "rh5nqX3tUds"
+      "VideoID": "whCcobPN71w"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "The AI-Powered Brokerage: Public’s Vision For Agentic Investing",
-      "Published": "2026-02-26",
-      "URL": "https://www.youtube.com/watch?v=E6N0UiuRtxg",
+      "Video Title": "AI Agent Social & E-Commerce Shift",
+      "Published": "2026-02-27",
+      "URL": "https://www.youtube.com/shorts/Nx64DgN4DtU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "E6N0UiuRtxg"
+      "VideoID": "Nx64DgN4DtU"
     }
   ]
 }
