@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-02-27T18:55:17.017413+00:00",
+  "last_updated": "2026-02-28T02:28:50.277433+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "AI’s Massive Leap, Robotaxi Drama & The End of Legacy Tech 📉🤯",
-      "Published": "2026-02-26",
-      "URL": "https://www.youtube.com/watch?v=aESiGgpGraE",
+      "Video Title": "AI Agents Will Break TradFi — Crypto Wins 🚀⚡",
+      "Published": "2026-02-27",
+      "URL": "https://www.youtube.com/watch?v=KgTf6vJCzsA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "aESiGgpGraE"
+      "VideoID": "KgTf6vJCzsA"
     },
     {
       "Name": "Coin Bureau",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Gold: Dubious Speculation",
-      "Published": "2026-02-27",
-      "URL": "https://www.youtube.com/watch?v=whCcobPN71w",
+      "Video Title": "\"They're Down 50% Against Gold\"",
+      "Published": "2026-02-28",
+      "URL": "https://www.youtube.com/shorts/Tp7ENo2ii40",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "whCcobPN71w"
+      "VideoID": "Tp7ENo2ii40"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Edward Snowden: What Institutional Money Really Means For Bitcoin",
+      "Video Title": "Self-Custody Under Threat, Why Banks Can't Hold Bitcoin & the 2028 AI Crisis | BPH Ep 29",
       "Published": "2026-02-27",
-      "URL": "https://www.youtube.com/shorts/KB_L9GgUZZk",
+      "URL": "https://www.youtube.com/watch?v=-wRviSSMEPU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "KB_L9GgUZZk"
+      "VideoID": "-wRviSSMEPU"
     },
     {
       "Name": "George Gammon",
@@ -122,10 +122,10 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "AI Agent Social & E-Commerce Shift",
-      "Published": "2026-02-27",
-      "URL": "https://www.youtube.com/shorts/Nx64DgN4DtU",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Nx64DgN4DtU"
+      "VideoID": null
     }
   ]
 }
