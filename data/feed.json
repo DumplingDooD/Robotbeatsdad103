@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T18:58:51.996583+00:00",
+  "last_updated": "2026-03-03T02:45:25.313856+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: The Early March Rally",
+      "Video Title": "Bitcoin's Pattern  2022 vs Today's Geopolitical Parallels",
       "Published": "2026-03-02",
-      "URL": "https://www.youtube.com/watch?v=R9yYJXpYYzg",
+      "URL": "https://www.youtube.com/shorts/FCEhiG5PzBI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "R9yYJXpYYzg"
+      "VideoID": "FCEhiG5PzBI"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "AI Agent Social & E-Commerce Shift",
-      "Published": "2026-02-27",
-      "URL": "https://www.youtube.com/shorts/Nx64DgN4DtU",
+      "Video Title": "Big Ideas 2026: Reusable Rockets",
+      "Published": "2026-03-02",
+      "URL": "https://www.youtube.com/watch?v=7GBZ37rmD8s",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Nx64DgN4DtU"
+      "VideoID": "7GBZ37rmD8s"
     }
   ]
 }
