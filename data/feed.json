@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T02:38:07.316986+00:00",
+  "last_updated": "2026-03-04T06:58:46.212952+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,10 +88,10 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Rubio Confirms The Dollar's Dominance Is Fading",
-      "Published": "2026-03-03",
-      "URL": "https://www.youtube.com/shorts/zQqxTvZc-K8",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "zQqxTvZc-K8"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
