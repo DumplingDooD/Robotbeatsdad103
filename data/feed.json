@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T13:12:18.158918+00:00",
+  "last_updated": "2026-03-04T19:00:47.546917+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Dylan LeClair: The Biggest Market Ripe for Disruption",
+      "Video Title": "Bitcoin Replaces Trust in Banks With Truth",
       "Published": "2026-03-04",
-      "URL": "https://www.youtube.com/shorts/AZAP-qWBNG4",
+      "URL": "https://www.youtube.com/shorts/wapIDkyIvdA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "AZAP-qWBNG4"
+      "VideoID": "wapIDkyIvdA"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Reusable Rockets 3 Takeaways | Big Ideas 2026",
-      "Published": "2026-03-03",
-      "URL": "https://www.youtube.com/shorts/p65KhqxPL90",
+      "Video Title": "SpaceX + Tesla Merger This Year?",
+      "Published": "2026-03-04",
+      "URL": "https://www.youtube.com/shorts/bU-Z8Hv4iTs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "p65KhqxPL90"
+      "VideoID": "bU-Z8Hv4iTs"
     }
   ]
 }
