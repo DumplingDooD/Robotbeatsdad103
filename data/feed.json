@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T02:41:27.836252+00:00",
+  "last_updated": "2026-03-05T07:01:57.017206+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,10 +37,10 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "LEAKED: U.S. is Copying The 1940s Playbook to Erase National Debt",
-      "Published": "2026-03-03",
-      "URL": "https://www.youtube.com/watch?v=tXTHfyqersA",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "tXTHfyqersA"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
@@ -71,10 +71,10 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "In Midterm Years, It's Typically Best To...",
-      "Published": "2026-03-04",
-      "URL": "https://www.youtube.com/shorts/IlQk1_CVrfM",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "IlQk1_CVrfM"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Cash Is The Riskiest Asset You Own",
-      "Published": "2026-03-04",
-      "URL": "https://www.youtube.com/shorts/MGO_cx7ulJY",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "MGO_cx7ulJY"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Are We Headed For 1970s Style STAGFLATION!?",
-      "Published": "2026-03-05",
-      "URL": "https://www.youtube.com/watch?v=dP3X7CklFrA",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "dP3X7CklFrA"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "The Great Labor Shuffle | The Brainstorm EP 121",
-      "Published": "2026-03-04",
-      "URL": "https://www.youtube.com/watch?v=Sb_0V7QtfoY",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Sb_0V7QtfoY"
+      "VideoID": null
     }
   ]
 }
