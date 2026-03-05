@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T13:16:20.982232+00:00",
+  "last_updated": "2026-03-05T19:21:43.462637+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "How Crypto Bought the 2026 Midterms",
-      "Published": "2026-03-03",
-      "URL": "https://www.youtube.com/watch?v=u15zGK6Wzqo",
+      "Video Title": "Blackrock's Crypto Trap",
+      "Published": "2026-03-05",
+      "URL": "https://www.youtube.com/watch?v=YJn5RPCmB84",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "u15zGK6Wzqo"
+      "VideoID": "YJn5RPCmB84"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "In Midterm Years, It's Typically Best To...",
-      "Published": "2026-03-04",
-      "URL": "https://www.youtube.com/shorts/IlQk1_CVrfM",
+      "Video Title": "Bitcoin's Midterm Year Pattern - Are We In A Simulation?",
+      "Published": "2026-03-05",
+      "URL": "https://www.youtube.com/shorts/IAt3LDsUbvs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "IlQk1_CVrfM"
+      "VideoID": "IAt3LDsUbvs"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin and Gold Prove Fiat Is the Illusion",
+      "Video Title": "Bitcoin for Corporations Adoption Update w/ George Mekhail | Strategy World 2026",
       "Published": "2026-03-05",
-      "URL": "https://www.youtube.com/shorts/dOxJEt2bUVU",
+      "URL": "https://www.youtube.com/watch?v=GtsNZhSrRYs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "dOxJEt2bUVU"
+      "VideoID": "GtsNZhSrRYs"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "The Great Labor Shuffle | The Brainstorm EP 121",
-      "Published": "2026-03-04",
-      "URL": "https://www.youtube.com/watch?v=Sb_0V7QtfoY",
+      "Video Title": "Gold ﹥ Bitcoin... For Now",
+      "Published": "2026-03-05",
+      "URL": "https://www.youtube.com/shorts/tgLjh-crK90",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Sb_0V7QtfoY"
+      "VideoID": "tgLjh-crK90"
     }
   ]
 }
