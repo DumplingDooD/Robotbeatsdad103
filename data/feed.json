@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T13:11:50.768314+00:00",
+  "last_updated": "2026-03-06T18:56:47.275927+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Blackrock's Crypto Trap",
-      "Published": "2026-03-05",
-      "URL": "https://www.youtube.com/watch?v=YJn5RPCmB84",
+      "Video Title": "BlackRock's Secret Bitcoin Move",
+      "Published": "2026-03-06",
+      "URL": "https://www.youtube.com/watch?v=g-dTRbXPGw0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "YJn5RPCmB84"
+      "VideoID": "g-dTRbXPGw0"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin's Midterm Year Pattern - Are We In A Simulation?",
-      "Published": "2026-03-05",
-      "URL": "https://www.youtube.com/shorts/IAt3LDsUbvs",
+      "Video Title": "The Reason Why The Fed Can't Aggressively Cut Rates",
+      "Published": "2026-03-06",
+      "URL": "https://www.youtube.com/shorts/U-7_z_cJuw0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "IAt3LDsUbvs"
+      "VideoID": "U-7_z_cJuw0"
     },
     {
       "Name": "Bitcoin Magazine",
