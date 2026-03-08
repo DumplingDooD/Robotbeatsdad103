@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T18:43:19.430881+00:00",
+  "last_updated": "2026-03-08T02:45:07.386565+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "The Reason Why The Fed Can't Aggressively Cut Rates",
-      "Published": "2026-03-06",
-      "URL": "https://www.youtube.com/shorts/U-7_z_cJuw0",
+      "Video Title": "Oil Spikes 35%",
+      "Published": "2026-03-08",
+      "URL": "https://www.youtube.com/watch?v=oWV5iW3glao",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "U-7_z_cJuw0"
+      "VideoID": "oWV5iW3glao"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Trump Just Took Crypto's Side Against the Banks",
+      "Video Title": "STRC is Using The Coca-Cola Playbook to Win Over Banks",
       "Published": "2026-03-07",
-      "URL": "https://www.youtube.com/shorts/gxq84-s9FEQ",
+      "URL": "https://www.youtube.com/shorts/XUL5iDAZC6c",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "gxq84-s9FEQ"
+      "VideoID": "XUL5iDAZC6c"
     },
     {
       "Name": "George Gammon",
