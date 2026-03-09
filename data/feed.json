@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T07:11:38.486322+00:00",
+  "last_updated": "2026-03-09T13:19:55.701357+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Michael Saylor: AI Has Started The Digital Transformation of Everything",
+      "Video Title": "The Future of AI Is Judgment, Not Replacement",
       "Published": "2026-03-09",
-      "URL": "https://www.youtube.com/shorts/ReFtQqTRUkY",
+      "URL": "https://www.youtube.com/shorts/L6H_eCk85Os",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ReFtQqTRUkY"
+      "VideoID": "L6H_eCk85Os"
     },
     {
       "Name": "George Gammon",
