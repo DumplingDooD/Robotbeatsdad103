@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T02:46:46.855374+00:00",
+  "last_updated": "2026-03-09T07:11:38.486322+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "BlackRock Now Controls Bitcoin's Future",
-      "Published": "2026-03-08",
-      "URL": "https://www.youtube.com/watch?v=VXNZjAsF_9c",
+      "Video Title": "Bitcoin Falls Back Below $70K, CLARITY Act Final Countdown & The AI Job Washout",
+      "Published": "2026-03-09",
+      "URL": "https://www.youtube.com/watch?v=R57t157KmYk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "VXNZjAsF_9c"
+      "VideoID": "R57t157KmYk"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Oil Spikes 35%",
-      "Published": "2026-03-08",
-      "URL": "https://www.youtube.com/watch?v=oWV5iW3glao",
+      "Video Title": "Bitcoin: Simulation Confirmed",
+      "Published": "2026-03-09",
+      "URL": "https://www.youtube.com/watch?v=9uAVH56iJwk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "oWV5iW3glao"
+      "VideoID": "9uAVH56iJwk"
     },
     {
       "Name": "Bitcoin Magazine",
