@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T19:02:31.186108+00:00",
+  "last_updated": "2026-03-10T02:37:38.058505+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,10 +20,10 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Bitcoin Falls Back Below $70K, CLARITY Act Final Countdown & The AI Job Washout",
-      "Published": "2026-03-09",
-      "URL": "https://www.youtube.com/watch?v=R57t157KmYk",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "R57t157KmYk"
+      "VideoID": null
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "What Will Happen To The AI \"Losers\"?",
+      "Video Title": "Iran Tech Surge?",
       "Published": "2026-03-09",
-      "URL": "https://www.youtube.com/shorts/gMEHsQX29ik",
+      "URL": "https://www.youtube.com/shorts/D_ORc8XrKzc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "gMEHsQX29ik"
+      "VideoID": "D_ORc8XrKzc"
     }
   ]
 }
