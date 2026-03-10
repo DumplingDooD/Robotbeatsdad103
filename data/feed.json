@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T07:00:42.609012+00:00",
+  "last_updated": "2026-03-10T13:17:21.399761+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The Future of AI Is Judgment, Not Replacement",
-      "Published": "2026-03-09",
-      "URL": "https://www.youtube.com/shorts/L6H_eCk85Os",
+      "Video Title": "Why All of Fintech Is Just Lipstick on a Pig",
+      "Published": "2026-03-10",
+      "URL": "https://www.youtube.com/shorts/bkO9Nn6qxKk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "L6H_eCk85Os"
+      "VideoID": "bkO9Nn6qxKk"
     },
     {
       "Name": "George Gammon",
