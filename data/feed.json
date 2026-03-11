@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T07:04:11.114719+00:00",
+  "last_updated": "2026-03-11T13:17:06.377925+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Why All of Fintech Is Just Lipstick on a Pig",
-      "Published": "2026-03-10",
-      "URL": "https://www.youtube.com/shorts/bkO9Nn6qxKk",
+      "Video Title": "Bitcoin Is Making 24/7 Risk Assessment the New Standard",
+      "Published": "2026-03-11",
+      "URL": "https://www.youtube.com/shorts/BBJqDN6o0ps",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "bkO9Nn6qxKk"
+      "VideoID": "BBJqDN6o0ps"
     },
     {
       "Name": "George Gammon",
