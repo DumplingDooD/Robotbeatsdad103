@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T13:17:06.377925+00:00",
+  "last_updated": "2026-03-11T19:02:01.478781+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Ethereum's Upgrade Broke Everything",
-      "Published": "2026-03-10",
-      "URL": "https://www.youtube.com/watch?v=egqhTq1Vf08",
+      "Video Title": "A War Just Proved Crypto's Whole Point",
+      "Published": "2026-03-11",
+      "URL": "https://www.youtube.com/watch?v=i9HpyN3BXM4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "egqhTq1Vf08"
+      "VideoID": "i9HpyN3BXM4"
     },
     {
       "Name": "Mark Moss",
