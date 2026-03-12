@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T13:17:20.228443+00:00",
+  "last_updated": "2026-03-12T19:03:23.546103+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "A War Just Proved Crypto's Whole Point",
-      "Published": "2026-03-11",
-      "URL": "https://www.youtube.com/watch?v=i9HpyN3BXM4",
+      "Video Title": "Wall Street Is Taking Control of Bitcoin",
+      "Published": "2026-03-12",
+      "URL": "https://www.youtube.com/watch?v=GdfvYL1vKRk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "i9HpyN3BXM4"
+      "VideoID": "GdfvYL1vKRk"
     },
     {
       "Name": "Mark Moss",
