@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-11T19:02:01.478781+00:00",
+  "last_updated": "2026-03-12T02:42:25.585592+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Profits PLUMMET | 1-in-10 Year Shock | Why Bitcoin Defies Chaos 🚀",
-      "Published": "2026-03-10",
-      "URL": "https://www.youtube.com/watch?v=BCiAl7x4FmY",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "BCiAl7x4FmY"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
@@ -37,10 +37,10 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "While You Were Watching Iran, The Next War Quietly Started",
-      "Published": "2026-03-10",
-      "URL": "https://www.youtube.com/watch?v=pV4tRxPTYT8",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "pV4tRxPTYT8"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Tesla Drama + Bitcoin Breaking Up? (Important Update)",
-      "Published": "2026-03-03",
-      "URL": "https://www.youtube.com/watch?v=CRdaHjCw05Y",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,13 +67,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "CRdaHjCw05Y"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin's Harsh Reality - Why Narratives Fail",
-      "Published": "2026-03-10",
-      "URL": "https://www.youtube.com/shorts/lvPZ-sLD7cw",
+      "Video Title": "Bitcoin Price Action: Analysis vs Cheerleaders",
+      "Published": "2026-03-11",
+      "URL": "https://www.youtube.com/shorts/0s61jBeb1JE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "lvPZ-sLD7cw"
+      "VideoID": "0s61jBeb1JE"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin Is Making 24/7 Risk Assessment the New Standard",
-      "Published": "2026-03-11",
-      "URL": "https://www.youtube.com/shorts/BBJqDN6o0ps",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "BBJqDN6o0ps"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Are We Headed For 1970s Style STAGFLATION!?",
-      "Published": "2026-03-05",
-      "URL": "https://www.youtube.com/watch?v=dP3X7CklFrA",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "dP3X7CklFrA"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Is Your Job Safe With AI?",
-      "Published": "2026-03-10",
-      "URL": "https://www.youtube.com/shorts/21ZYBlOOKUc",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "21ZYBlOOKUc"
+      "VideoID": null
     }
   ]
 }
