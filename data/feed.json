@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T07:05:27.373913+00:00",
+  "last_updated": "2026-03-12T13:17:20.228443+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Price Action: Analysis vs Cheerleaders",
-      "Published": "2026-03-11",
-      "URL": "https://www.youtube.com/shorts/0s61jBeb1JE",
+      "Video Title": "NFA Live! Bitcoin in 2026",
+      "Published": "2026-03-12",
+      "URL": "https://www.youtube.com/watch?v=byk3W3Xpn4k",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "0s61jBeb1JE"
+      "VideoID": "byk3W3Xpn4k"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Saifedean Ammous: Governments Print Money to Fund Endless Wars",
+      "Video Title": "Morgan Stanley Executive: Bitcoin Yield Is Changing the Wealth Conversation",
       "Published": "2026-03-12",
-      "URL": "https://www.youtube.com/shorts/_haRVLrpKvw",
+      "URL": "https://www.youtube.com/shorts/5liHPiMupn0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "_haRVLrpKvw"
+      "VideoID": "5liHPiMupn0"
     },
     {
       "Name": "George Gammon",
