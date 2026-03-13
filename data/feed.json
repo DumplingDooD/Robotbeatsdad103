@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T07:04:20.174328+00:00",
+  "last_updated": "2026-03-13T13:15:09.902167+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Morgan Stanley Executive: Bitcoin Yield Is Changing the Wealth Conversation",
-      "Published": "2026-03-12",
-      "URL": "https://www.youtube.com/shorts/5liHPiMupn0",
+      "Video Title": "Michael Saylor: Bitcoin Is the Sonic Boom of the Financial System",
+      "Published": "2026-03-13",
+      "URL": "https://www.youtube.com/shorts/xIyYa2xx3Wo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "5liHPiMupn0"
+      "VideoID": "xIyYa2xx3Wo"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "AI Debate With Citrini Report Co-Author | The Brainstorm EP 122",
-      "Published": "2026-03-11",
-      "URL": "https://www.youtube.com/watch?v=vZDLbWV4Dpk",
+      "Video Title": "Live Webinar Recap:  Big Ideas 2026",
+      "Published": "2026-03-13",
+      "URL": "https://www.youtube.com/watch?v=Ow4kr_AbEXc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "vZDLbWV4Dpk"
+      "VideoID": "Ow4kr_AbEXc"
     }
   ]
 }
