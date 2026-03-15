@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T07:08:18.139124+00:00",
+  "last_updated": "2026-03-15T13:08:12.270273+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The Secret Plan to Freeze Your Crypto Instantly",
-      "Published": "2026-03-14",
-      "URL": "https://www.youtube.com/watch?v=Foihn3BP1U0",
+      "Video Title": "Why Governments Want to Ban Polymarket",
+      "Published": "2026-03-15",
+      "URL": "https://www.youtube.com/watch?v=UcellVvn43E",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Foihn3BP1U0"
+      "VideoID": "UcellVvn43E"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "How Metaplanet Turned a Flat Bitcoin Price Into 5,000% Growth",
-      "Published": "2026-03-14",
-      "URL": "https://www.youtube.com/shorts/HGX5IZN9KdQ",
+      "Video Title": "Bitcoin vs the Dollar, Gold, and Equities — A Structural Comparison",
+      "Published": "2026-03-15",
+      "URL": "https://www.youtube.com/shorts/KNcDmQf-_gA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "HGX5IZN9KdQ"
+      "VideoID": "KNcDmQf-_gA"
     },
     {
       "Name": "George Gammon",
