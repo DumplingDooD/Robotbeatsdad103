@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T18:50:14.821910+00:00",
+  "last_updated": "2026-03-15T03:16:51.953026+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,10 +37,10 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "This War Just Exposed The Biggest Lie About Gold",
-      "Published": "2026-03-13",
-      "URL": "https://www.youtube.com/watch?v=JotcK5ZbSrk",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "JotcK5ZbSrk"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Tesla Drama + Bitcoin Breaking Up? (Important Update)",
-      "Published": "2026-03-03",
-      "URL": "https://www.youtube.com/watch?v=CRdaHjCw05Y",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "CRdaHjCw05Y"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
@@ -88,10 +88,10 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "How Metaplanet Turned a Flat Bitcoin Price Into 5,000% Growth",
-      "Published": "2026-03-14",
-      "URL": "https://www.youtube.com/shorts/HGX5IZN9KdQ",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "HGX5IZN9KdQ"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "JP Morgan Confirms The Rumors...Is This The Start Of A Financial Crisis?",
-      "Published": "2026-03-13",
-      "URL": "https://www.youtube.com/watch?v=z5IfHPxGano",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "z5IfHPxGano"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Will Orbital Data Centers Ever Make Sense?",
-      "Published": "2026-03-13",
-      "URL": "https://www.youtube.com/shorts/q2fUD55hhYs",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "q2fUD55hhYs"
+      "VideoID": null
     }
   ]
 }
