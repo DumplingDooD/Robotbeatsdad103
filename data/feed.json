@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T18:50:56.258352+00:00",
+  "last_updated": "2026-03-16T03:19:25.514468+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin vs the Dollar, Gold, and Equities — A Structural Comparison",
-      "Published": "2026-03-15",
-      "URL": "https://www.youtube.com/shorts/KNcDmQf-_gA",
+      "Video Title": "BlockFi, Celsius, Genesis, FTX — How \"Risk-Free\" Yield Vanished Overnight",
+      "Published": "2026-03-16",
+      "URL": "https://www.youtube.com/shorts/tpZpi9OWuUw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "KNcDmQf-_gA"
+      "VideoID": "tpZpi9OWuUw"
     },
     {
       "Name": "George Gammon",
