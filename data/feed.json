@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T07:41:18.176969+00:00",
+  "last_updated": "2026-03-16T13:42:29.158524+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "BlockFi, Celsius, Genesis, FTX — How \"Risk-Free\" Yield Vanished Overnight",
+      "Video Title": "$7 Trillion in Japan Is About to Flow Into Bitcoin",
       "Published": "2026-03-16",
-      "URL": "https://www.youtube.com/shorts/tpZpi9OWuUw",
+      "URL": "https://www.youtube.com/shorts/Kt2_A3cWfHU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "tpZpi9OWuUw"
+      "VideoID": "Kt2_A3cWfHU"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Will Orbital Data Centers Ever Make Sense?",
-      "Published": "2026-03-13",
-      "URL": "https://www.youtube.com/shorts/q2fUD55hhYs",
+      "Video Title": "Big Ideas 2026: Multiomics",
+      "Published": "2026-03-16",
+      "URL": "https://www.youtube.com/watch?v=j2k4XDOZv88",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "q2fUD55hhYs"
+      "VideoID": "j2k4XDOZv88"
     }
   ]
 }
