@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T07:06:56.919766+00:00",
+  "last_updated": "2026-03-19T13:22:10.257515+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Post-FOMC",
+      "Video Title": "NFA Live",
       "Published": "2026-03-19",
-      "URL": "https://www.youtube.com/watch?v=Kx7F_EL9ocI",
+      "URL": "https://www.youtube.com/watch?v=CRrggwS6LNY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Kx7F_EL9ocI"
+      "VideoID": "CRrggwS6LNY"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Balaji: America's Future Is Anarchy, Not Tyranny",
+      "Video Title": "Balaji: The Future Is China vs. A Thousand Internet Nations",
       "Published": "2026-03-19",
-      "URL": "https://www.youtube.com/shorts/TVRCKOi8VKQ",
+      "URL": "https://www.youtube.com/shorts/BA49KR5kijg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "TVRCKOi8VKQ"
+      "VideoID": "BA49KR5kijg"
     },
     {
       "Name": "George Gammon",
