@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T02:50:50.563030+00:00",
+  "last_updated": "2026-03-19T07:06:56.919766+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: An Unfortunate Pattern [Update]",
-      "Published": "2026-03-18",
-      "URL": "https://www.youtube.com/watch?v=rKjce1jCxSM",
+      "Video Title": "Bitcoin: Post-FOMC",
+      "Published": "2026-03-19",
+      "URL": "https://www.youtube.com/watch?v=Kx7F_EL9ocI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "rKjce1jCxSM"
+      "VideoID": "Kx7F_EL9ocI"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Michael Saylor: Bitcoin Contributes to a More Rational World",
-      "Published": "2026-03-18",
-      "URL": "https://www.youtube.com/shorts/U6pVG-eEI9s",
+      "Video Title": "Balaji: America's Future Is Anarchy, Not Tyranny",
+      "Published": "2026-03-19",
+      "URL": "https://www.youtube.com/shorts/TVRCKOi8VKQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "U6pVG-eEI9s"
+      "VideoID": "TVRCKOi8VKQ"
     },
     {
       "Name": "George Gammon",
