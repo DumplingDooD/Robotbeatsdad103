@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T13:22:10.257515+00:00",
+  "last_updated": "2026-03-19T19:08:20.272695+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The End of the HODL Era",
-      "Published": "2026-03-18",
-      "URL": "https://www.youtube.com/watch?v=1U-ZgLZQLNs",
+      "Video Title": "The Hidden Trap in Crypto's Green Light",
+      "Published": "2026-03-19",
+      "URL": "https://www.youtube.com/watch?v=FXRQH5TeS48",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,13 +33,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "1U-ZgLZQLNs"
+      "VideoID": "FXRQH5TeS48"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "EVs Are Dead?",
-      "Published": "2026-03-18",
-      "URL": "https://www.youtube.com/shorts/70EzEDJGpwc",
+      "Video Title": "Bitcoin is a great leveler. Digital capital allows for strategies that were previously unavailable",
+      "Published": "2026-03-19",
+      "URL": "https://www.youtube.com/shorts/1w8I8ZYKB-s",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "70EzEDJGpwc"
+      "VideoID": "1w8I8ZYKB-s"
     },
     {
       "Name": "CTO Larsson",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Balaji: The Future Is China vs. A Thousand Internet Nations",
+      "Video Title": "Eric Trump: Bitcoin's Failure to Create is its Greatest Asset",
       "Published": "2026-03-19",
-      "URL": "https://www.youtube.com/shorts/BA49KR5kijg",
+      "URL": "https://www.youtube.com/shorts/AcE-tNy59JI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "BA49KR5kijg"
+      "VideoID": "AcE-tNy59JI"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Tesla, xAI, And Digital Optimus | The Brainstorm EP 123",
-      "Published": "2026-03-18",
-      "URL": "https://www.youtube.com/watch?v=P8aZJeFoPM8",
+      "Video Title": "Multiomics 3 Takeaways | Big Ideas 2026",
+      "Published": "2026-03-19",
+      "URL": "https://www.youtube.com/shorts/rrL_HGUygg4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "P8aZJeFoPM8"
+      "VideoID": "rrL_HGUygg4"
     }
   ]
 }
