@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T02:41:44.025811+00:00",
+  "last_updated": "2026-03-20T07:05:02.226017+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "NFA Live",
-      "Published": "2026-03-19",
-      "URL": "https://www.youtube.com/watch?v=CRrggwS6LNY",
+      "Video Title": "Bitcoin: The Bear Market Blues",
+      "Published": "2026-03-20",
+      "URL": "https://www.youtube.com/watch?v=jiehja20gFE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "CRrggwS6LNY"
+      "VideoID": "jiehja20gFE"
     },
     {
       "Name": "Bitcoin Magazine",
