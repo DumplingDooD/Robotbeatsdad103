@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T13:04:25.492259+00:00",
+  "last_updated": "2026-03-21T18:47:06.156297+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The Hidden Trap in Crypto's Green Light",
-      "Published": "2026-03-19",
-      "URL": "https://www.youtube.com/watch?v=FXRQH5TeS48",
+      "Video Title": "Vitalik vs BlackRock: Who Wins?",
+      "Published": "2026-03-21",
+      "URL": "https://www.youtube.com/watch?v=l77QrTEIgpo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "FXRQH5TeS48"
+      "VideoID": "l77QrTEIgpo"
     },
     {
       "Name": "Mark Moss",
