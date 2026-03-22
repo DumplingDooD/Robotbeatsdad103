@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T18:47:06.156297+00:00",
+  "last_updated": "2026-03-22T02:51:14.664611+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Latin America Is Leading a New Economic Revolution with Bitcoin #digitalassets #btc #soundmoney",
-      "Published": "2026-03-20",
-      "URL": "https://www.youtube.com/shorts/7isj7ad870w",
+      "Video Title": "AI Bots Are Evolving Faster Than We Can Control",
+      "Published": "2026-03-21",
+      "URL": "https://www.youtube.com/shorts/S7hMf27WhZU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "7isj7ad870w"
+      "VideoID": "S7hMf27WhZU"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Michael Burry Just Gave A Dire Warning (Stocks Could Crash 77%)",
-      "Published": "2026-03-20",
-      "URL": "https://www.youtube.com/watch?v=GeFHDzigeIg",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "GeFHDzigeIg"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "What Needs To Happen During The AI Job Transition?",
-      "Published": "2026-03-20",
-      "URL": "https://www.youtube.com/shorts/r6snzwuASws",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "r6snzwuASws"
+      "VideoID": null
     }
   ]
 }
