@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T07:13:30.417275+00:00",
+  "last_updated": "2026-03-24T13:27:30.366903+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Every Time The Media Buried Bitcoin",
-      "Published": "2026-03-23",
-      "URL": "https://www.youtube.com/shorts/ipvIaHKN9ts",
+      "Video Title": "Michael Saylor Told Eric Trump to Mortgage Mar-a-Lago for Bitcoin",
+      "Published": "2026-03-24",
+      "URL": "https://www.youtube.com/shorts/0GnG_3iHhrw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ipvIaHKN9ts"
+      "VideoID": "0GnG_3iHhrw"
     },
     {
       "Name": "George Gammon",
