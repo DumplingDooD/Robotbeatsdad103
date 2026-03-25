@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T19:14:16.125829+00:00",
+  "last_updated": "2026-03-25T02:48:07.745431+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -54,10 +54,10 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Move Before It’s Too Late",
-      "Published": "2026-03-18",
-      "URL": "https://www.youtube.com/watch?v=Sta129uTqEA",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Sta129uTqEA"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
@@ -122,10 +122,10 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Does AI Growth Fuel The Economy Or Concentrate It?",
-      "Published": "2026-03-24",
-      "URL": "https://www.youtube.com/shorts/7q5DYVN97Zs",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "7q5DYVN97Zs"
+      "VideoID": null
     }
   ]
 }
