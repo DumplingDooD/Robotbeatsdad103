@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25T02:48:07.745431+00:00",
+  "last_updated": "2026-03-25T07:11:46.061573+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -54,26 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
-      "Sentiment": "🟣 Unknown",
-      "KeyPoints": [],
-      "Entities": {
-        "tickers": [],
-        "macro": [],
-        "actions": [],
-        "levels": []
-      },
-      "TranscriptNote": "",
-      "VideoID": null
-    },
-    {
-      "Name": "Benjamin Cowen",
-      "Video Title": "It is Hypocritical for Bitcoiners To.. (Charts Shown: BTC/USD, BTCUSD/GOLD)",
-      "Published": "2026-03-24",
-      "URL": "https://www.youtube.com/shorts/ykCceY5eOyk",
+      "Video Title": "Move Before It’s Too Late",
+      "Published": "2026-03-18",
+      "URL": "https://www.youtube.com/watch?v=Sta129uTqEA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +67,24 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ykCceY5eOyk"
+      "VideoID": "Sta129uTqEA"
+    },
+    {
+      "Name": "Benjamin Cowen",
+      "Video Title": "Bitcoin: Preparing for the Next Leg Down",
+      "Published": "2026-03-25",
+      "URL": "https://www.youtube.com/watch?v=yBJDk4a0e24",
+      "Summary": "Transcript unavailable.",
+      "Sentiment": "🟣 Unknown",
+      "KeyPoints": [],
+      "Entities": {
+        "tickers": [],
+        "macro": [],
+        "actions": [],
+        "levels": []
+      },
+      "TranscriptNote": "",
+      "VideoID": "yBJDk4a0e24"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,10 +122,10 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
+      "Video Title": "Oil Prices",
+      "Published": "2026-03-24",
+      "URL": "https://www.youtube.com/shorts/596QlXOYTp0",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "596QlXOYTp0"
     }
   ]
 }
