@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25T13:26:44.173991+00:00",
+  "last_updated": "2026-03-25T19:05:04.139686+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Bitcoin vs Quantum: Hype, Stages, Reality",
-      "Published": "2026-03-24",
-      "URL": "https://www.youtube.com/watch?v=kLV2Cqsahbw",
+      "Video Title": "Mastercard’s Web3 Takeover",
+      "Published": "2026-03-25",
+      "URL": "https://www.youtube.com/watch?v=N6Uk7oefgEk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "kLV2Cqsahbw"
+      "VideoID": "N6Uk7oefgEk"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Wargaming the Oil Crisis, Bitcoin's Role in US-China Competition, & AI Agent Payments | BPH Ep 31",
+      "Video Title": "Donald Trump: \"Never Sell Your Bitcoin\"",
       "Published": "2026-03-25",
-      "URL": "https://www.youtube.com/watch?v=e2YOEaQiZZc",
+      "URL": "https://www.youtube.com/shorts/ufjJhl7HVOc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "e2YOEaQiZZc"
+      "VideoID": "ufjJhl7HVOc"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Oil Prices",
-      "Published": "2026-03-24",
-      "URL": "https://www.youtube.com/shorts/596QlXOYTp0",
+      "Video Title": "Is There Enough Energy For The Amount Of AI Infrastructure?",
+      "Published": "2026-03-25",
+      "URL": "https://www.youtube.com/shorts/MfsPKujNtZE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "596QlXOYTp0"
+      "VideoID": "MfsPKujNtZE"
     }
   ]
 }
