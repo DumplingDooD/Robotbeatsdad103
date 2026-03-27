@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T02:57:28.106745+00:00",
+  "last_updated": "2026-03-27T07:18:53.937099+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "The Problem Is That This Is When Bitcoin Has Always Topped (Chart shown: BTC/USD)",
-      "Published": "2026-03-26",
-      "URL": "https://www.youtube.com/shorts/xkluh3EwOmk",
+      "Video Title": "Bitcoin in a Late Business Cycle Environment",
+      "Published": "2026-03-27",
+      "URL": "https://www.youtube.com/watch?v=efzBx985xbU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "xkluh3EwOmk"
+      "VideoID": "efzBx985xbU"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Arthur Hayes: Why $1M Bitcoin Is Simple Math",
-      "Published": "2026-03-26",
-      "URL": "https://www.youtube.com/shorts/t781m-jnwlE",
+      "Video Title": "AI Is The New Front End To Everything",
+      "Published": "2026-03-27",
+      "URL": "https://www.youtube.com/shorts/c6GG-9B6MgE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "t781m-jnwlE"
+      "VideoID": "c6GG-9B6MgE"
     },
     {
       "Name": "George Gammon",
