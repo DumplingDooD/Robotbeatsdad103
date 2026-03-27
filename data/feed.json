@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T13:22:03.779488+00:00",
+  "last_updated": "2026-03-27T19:04:33.222240+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The CBDC Ban Is a 2030 Time Bomb",
-      "Published": "2026-03-26",
-      "URL": "https://www.youtube.com/watch?v=OdMQysMyWzA",
+      "Video Title": "The Cold Wallet Myth",
+      "Published": "2026-03-27",
+      "URL": "https://www.youtube.com/watch?v=W2I3WCU5wgc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "OdMQysMyWzA"
+      "VideoID": "W2I3WCU5wgc"
     },
     {
       "Name": "Mark Moss",
@@ -71,7 +71,7 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin in a Late Business Cycle Environment",
+      "Video Title": "How Will Bitcoin Do When the Business Cycle Ends?",
       "Published": "2026-03-27",
       "URL": "https://www.youtube.com/watch?v=efzBx985xbU",
       "Summary": "Transcript unavailable.",
