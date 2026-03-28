@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T07:07:02.344752+00:00",
+  "last_updated": "2026-03-28T13:10:06.983536+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "How Will Bitcoin Do When the Business Cycle Ends?",
-      "Published": "2026-03-27",
-      "URL": "https://www.youtube.com/watch?v=efzBx985xbU",
+      "Video Title": "Bitcoin: The Window of Weakness is Open",
+      "Published": "2026-03-28",
+      "URL": "https://www.youtube.com/watch?v=vu7tN0VxhRE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "efzBx985xbU"
+      "VideoID": "vu7tN0VxhRE"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Jack Mallers: Gold Failed Humanity, So We Engineered Something Better",
-      "Published": "2026-03-27",
-      "URL": "https://www.youtube.com/shorts/Bb-4dtPc_20",
+      "Video Title": "Why Agentic Payments are BULLISH for Bitcoin Tax Exemption | Bitcoin Policy Hour Ep 32",
+      "Published": "2026-03-28",
+      "URL": "https://www.youtube.com/watch?v=7lBVDgMkdiA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Bb-4dtPc_20"
+      "VideoID": "7lBVDgMkdiA"
     },
     {
       "Name": "George Gammon",
