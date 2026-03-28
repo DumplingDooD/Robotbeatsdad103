@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T13:10:06.983536+00:00",
+  "last_updated": "2026-03-28T18:53:10.304952+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The Cold Wallet Myth",
-      "Published": "2026-03-27",
-      "URL": "https://www.youtube.com/watch?v=W2I3WCU5wgc",
+      "Video Title": "Can Strategy Hit 1M BTC in 2026?",
+      "Published": "2026-03-28",
+      "URL": "https://www.youtube.com/watch?v=-h0WALimfkY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "W2I3WCU5wgc"
+      "VideoID": "-h0WALimfkY"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Why Agentic Payments are BULLISH for Bitcoin Tax Exemption | Bitcoin Policy Hour Ep 32",
+      "Video Title": "Donald Trump: \"Bitcoin Is Not Threatening the Dollar. Washington Is.\"",
       "Published": "2026-03-28",
-      "URL": "https://www.youtube.com/watch?v=7lBVDgMkdiA",
+      "URL": "https://www.youtube.com/shorts/xDUZKNpIKRs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "7lBVDgMkdiA"
+      "VideoID": "xDUZKNpIKRs"
     },
     {
       "Name": "George Gammon",
