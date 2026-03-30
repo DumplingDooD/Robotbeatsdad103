@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T07:53:41.534431+00:00",
+  "last_updated": "2026-03-30T13:49:51.458616+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: The Window of Weakness is Open",
-      "Published": "2026-03-28",
-      "URL": "https://www.youtube.com/watch?v=vu7tN0VxhRE",
+      "Video Title": "Stocks Have Dropped 9% - What's Next?",
+      "Published": "2026-03-30",
+      "URL": "https://www.youtube.com/watch?v=Cu9PAF1X088",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "vu7tN0VxhRE"
+      "VideoID": "Cu9PAF1X088"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Arthur Hayes: The 3 Things That Send Bitcoin to $1,000,000",
+      "Video Title": "Eric Trump: \"The Bitcoin Revolution Isn't Coming. It's Already Here.\"",
       "Published": "2026-03-30",
-      "URL": "https://www.youtube.com/shorts/l1OR3gxO8U8",
+      "URL": "https://www.youtube.com/shorts/JvP2BJFdWVM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "l1OR3gxO8U8"
+      "VideoID": "JvP2BJFdWVM"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Terafab: Elon’s Plan To Dominate Semiconductors | The Brainstorm EP 124",
-      "Published": "2026-03-26",
-      "URL": "https://www.youtube.com/watch?v=y1N2mazGCDo",
+      "Video Title": "Big Ideas 2026: Autonomous Vehicles",
+      "Published": "2026-03-30",
+      "URL": "https://www.youtube.com/watch?v=mXf2fuzw_Y4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "y1N2mazGCDo"
+      "VideoID": "mXf2fuzw_Y4"
     }
   ]
 }
