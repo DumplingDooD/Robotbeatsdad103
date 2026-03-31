@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T13:49:23.827229+00:00",
+  "last_updated": "2026-03-31T19:12:02.962940+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Iran Just Changed The Game - What Happens Now?",
-      "Published": "2026-03-30",
-      "URL": "https://www.youtube.com/watch?v=GQutl8D0nzw",
+      "Video Title": "Wall Street vs DeFi: Who Votes?",
+      "Published": "2026-03-31",
+      "URL": "https://www.youtube.com/watch?v=L6c-HtBf7EE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "GQutl8D0nzw"
+      "VideoID": "L6c-HtBf7EE"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Is The Deficit Fear Overblown?",
-      "Published": "2026-03-30",
-      "URL": "https://www.youtube.com/shorts/gQjXxZIySqg",
+      "Video Title": "Autonomous Vehicles 3 Takeaways | Big Ideas 2026",
+      "Published": "2026-03-31",
+      "URL": "https://www.youtube.com/shorts/VCYa2aTODxg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "gQjXxZIySqg"
+      "VideoID": "VCYa2aTODxg"
     }
   ]
 }
