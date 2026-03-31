@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T19:10:16.502422+00:00",
+  "last_updated": "2026-03-31T02:56:35.681030+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Stocks Have Dropped 9% - What's Next?",
+      "Video Title": "What The Stock Market Might Do In April",
       "Published": "2026-03-30",
-      "URL": "https://www.youtube.com/watch?v=Cu9PAF1X088",
+      "URL": "https://www.youtube.com/shorts/r8eaN2QBrGM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Cu9PAF1X088"
+      "VideoID": "r8eaN2QBrGM"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Eric Trump: \"The Bitcoin Revolution Isn't Coming. It's Already Here.\"",
-      "Published": "2026-03-30",
-      "URL": "https://www.youtube.com/shorts/JvP2BJFdWVM",
+      "Video Title": "Coinbase Puts To Rest Their Fight With The Bitcoin Community",
+      "Published": "2026-03-31",
+      "URL": "https://www.youtube.com/shorts/iN_lKjryY5A",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "JvP2BJFdWVM"
+      "VideoID": "iN_lKjryY5A"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Big Ideas 2026: Autonomous Vehicles",
+      "Video Title": "Is The Deficit Fear Overblown?",
       "Published": "2026-03-30",
-      "URL": "https://www.youtube.com/watch?v=mXf2fuzw_Y4",
+      "URL": "https://www.youtube.com/shorts/gQjXxZIySqg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "mXf2fuzw_Y4"
+      "VideoID": "gQjXxZIySqg"
     }
   ]
 }
