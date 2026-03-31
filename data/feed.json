@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T02:56:35.681030+00:00",
+  "last_updated": "2026-03-31T07:26:55.208979+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -55,7 +55,7 @@
     {
       "Name": "CTO Larsson",
       "Video Title": "DCA Live: How deep can it go?",
-      "Published": "2026-03-30",
+      "Published": "2026-03-31",
       "URL": "https://www.youtube.com/watch?v=nlPlf32JScY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Coinbase Puts To Rest Their Fight With The Bitcoin Community",
+      "Video Title": "The Separation Of YOUR Money And Government Is Finally Happening",
       "Published": "2026-03-31",
-      "URL": "https://www.youtube.com/shorts/iN_lKjryY5A",
+      "URL": "https://www.youtube.com/shorts/a4Dt2DUghT4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "iN_lKjryY5A"
+      "VideoID": "a4Dt2DUghT4"
     },
     {
       "Name": "George Gammon",
