@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T07:26:55.208979+00:00",
+  "last_updated": "2026-03-31T13:49:23.827229+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "What The Stock Market Might Do In April",
-      "Published": "2026-03-30",
-      "URL": "https://www.youtube.com/shorts/r8eaN2QBrGM",
+      "Video Title": "Bitcoin: An Improved Social Risk Metric",
+      "Published": "2026-03-31",
+      "URL": "https://www.youtube.com/watch?v=WwzQ6gjktHs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "r8eaN2QBrGM"
+      "VideoID": "WwzQ6gjktHs"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The Separation Of YOUR Money And Government Is Finally Happening",
+      "Video Title": "AI Should Be Replacing Grunt Work, Not You",
       "Published": "2026-03-31",
-      "URL": "https://www.youtube.com/shorts/a4Dt2DUghT4",
+      "URL": "https://www.youtube.com/shorts/ZKjtmJnC58g",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "a4Dt2DUghT4"
+      "VideoID": "ZKjtmJnC58g"
     },
     {
       "Name": "George Gammon",
