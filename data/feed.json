@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T13:52:12.875086+00:00",
+  "last_updated": "2026-04-01T19:13:35.674437+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Altcoin ETFs: Liquidity or Governance Trap?",
-      "Published": "2026-03-31",
-      "URL": "https://www.youtube.com/watch?v=L6c-HtBf7EE",
+      "Video Title": "$470 Billion Risk: Bitcoin’s Quantum Countdown Starts",
+      "Published": "2026-04-01",
+      "URL": "https://www.youtube.com/watch?v=Ykwi-3S1bYs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "L6c-HtBf7EE"
+      "VideoID": "Ykwi-3S1bYs"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: An Improved Social Risk Metric",
-      "Published": "2026-03-31",
-      "URL": "https://www.youtube.com/watch?v=WwzQ6gjktHs",
+      "Video Title": "Into The BabyVerse",
+      "Published": "2026-04-01",
+      "URL": "https://www.youtube.com/watch?v=uGFF8lOFwDw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "WwzQ6gjktHs"
+      "VideoID": "uGFF8lOFwDw"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "JD Vance: If China Hates Bitcoin, The US Should Love It",
+      "Video Title": "How A Bitcoin Journalist Got Inside Trump’s White House | Bitcoin Magazine Podcast Ep 5",
       "Published": "2026-04-01",
-      "URL": "https://www.youtube.com/shorts/7n8LaaPkROw",
+      "URL": "https://www.youtube.com/watch?v=OvmzIyOqgRU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "7n8LaaPkROw"
+      "VideoID": "OvmzIyOqgRU"
     },
     {
       "Name": "George Gammon",
