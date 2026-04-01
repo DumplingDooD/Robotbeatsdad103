@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T07:44:14.992422+00:00",
+  "last_updated": "2026-04-01T13:52:12.875086+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "DCA Live: How deep can it go?",
-      "Published": "2026-03-31",
-      "URL": "https://www.youtube.com/watch?v=nlPlf32JScY",
+      "Video Title": "Be VERY Careful Here",
+      "Published": "2026-04-01",
+      "URL": "https://www.youtube.com/watch?v=Dh--tOn6Xp0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "nlPlf32JScY"
+      "VideoID": "Dh--tOn6Xp0"
     },
     {
       "Name": "Benjamin Cowen",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "AI Should Be Replacing Grunt Work, Not You",
-      "Published": "2026-03-31",
-      "URL": "https://www.youtube.com/shorts/ZKjtmJnC58g",
+      "Video Title": "JD Vance: If China Hates Bitcoin, The US Should Love It",
+      "Published": "2026-04-01",
+      "URL": "https://www.youtube.com/shorts/7n8LaaPkROw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ZKjtmJnC58g"
+      "VideoID": "7n8LaaPkROw"
     },
     {
       "Name": "George Gammon",
