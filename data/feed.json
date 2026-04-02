@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T13:42:40.274635+00:00",
+  "last_updated": "2026-04-02T19:05:42.253108+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "$470 Billion Risk: Bitcoin’s Quantum Countdown Starts",
-      "Published": "2026-04-01",
-      "URL": "https://www.youtube.com/watch?v=Ykwi-3S1bYs",
+      "Video Title": "The End Of The Petrodollar: Dollar Collapse Begins",
+      "Published": "2026-04-02",
+      "URL": "https://www.youtube.com/watch?v=A0Y8kgJY1XA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Ykwi-3S1bYs"
+      "VideoID": "A0Y8kgJY1XA"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Open Source Tools Are Creating The Internet Renaissance",
+      "Video Title": "Adam Back: If They Know You Have Bitcoin, They'll Sweat You For It",
       "Published": "2026-04-02",
-      "URL": "https://www.youtube.com/shorts/txnenAh5e34",
+      "URL": "https://www.youtube.com/shorts/IIx1sJX1c_0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "txnenAh5e34"
+      "VideoID": "IIx1sJX1c_0"
     },
     {
       "Name": "George Gammon",
