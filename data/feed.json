@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T07:23:35.082713+00:00",
+  "last_updated": "2026-04-02T13:42:40.274635+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Into The BabyVerse",
-      "Published": "2026-04-01",
-      "URL": "https://www.youtube.com/watch?v=uGFF8lOFwDw",
+      "Video Title": "Bitcoin: The Beauty of Mathematics (Part 69)",
+      "Published": "2026-04-02",
+      "URL": "https://www.youtube.com/watch?v=wUhYv3lGk_I",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "uGFF8lOFwDw"
+      "VideoID": "wUhYv3lGk_I"
     },
     {
       "Name": "Bitcoin Magazine",
