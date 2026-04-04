@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T07:10:28.584227+00:00",
+  "last_updated": "2026-04-04T13:10:58.199617+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "CZ Reveals What US Bitcoin Policy Is Doing to the Global Market",
+      "Video Title": "Is Google's Quantum Breakthrough a Threat to Bitcoin? | Bitcoin Policy Hour Ep 33",
       "Published": "2026-04-04",
-      "URL": "https://www.youtube.com/shorts/BwhyCmnRlJo",
+      "URL": "https://www.youtube.com/watch?v=-nKmcQPmQkk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "BwhyCmnRlJo"
+      "VideoID": "-nKmcQPmQkk"
     },
     {
       "Name": "George Gammon",
