@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T13:10:58.199617+00:00",
+  "last_updated": "2026-04-04T18:54:17.853398+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "401K Crypto Trap: Why Wall Street Wins, Not You",
-      "Published": "2026-04-03",
-      "URL": "https://www.youtube.com/watch?v=urECWgDza4A",
+      "Video Title": "Tether’s First Real Audit: Is Your Crypto Safe Now?",
+      "Published": "2026-04-04",
+      "URL": "https://www.youtube.com/watch?v=qP7Md-JN7TE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "urECWgDza4A"
+      "VideoID": "qP7Md-JN7TE"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Is Google's Quantum Breakthrough a Threat to Bitcoin? | Bitcoin Policy Hour Ep 33",
+      "Video Title": "How Close is Quantum Computing to Breaking Bitcoin?",
       "Published": "2026-04-04",
-      "URL": "https://www.youtube.com/watch?v=-nKmcQPmQkk",
+      "URL": "https://www.youtube.com/shorts/Fkf194LYPgU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "-nKmcQPmQkk"
+      "VideoID": "Fkf194LYPgU"
     },
     {
       "Name": "George Gammon",
