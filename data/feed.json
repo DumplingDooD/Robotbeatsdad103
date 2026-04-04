@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-03T18:57:25.636805+00:00",
+  "last_updated": "2026-04-04T02:45:36.039456+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "AI 2nd mkt CRASH 📉, NVDA/MRVL Team Up. Memory & Physical AI Wave 🤖",
-      "Published": "2026-04-02",
-      "URL": "https://www.youtube.com/watch?v=xy5AHLs2aJw",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "xy5AHLs2aJw"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "401K Crypto Trap: Why Wall Street Wins, Not You",
-      "Published": "2026-04-03",
-      "URL": "https://www.youtube.com/watch?v=urECWgDza4A",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,14 +33,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "urECWgDza4A"
+      "VideoID": null
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The $13 Trillion Lie Hiding in Your Retirement Account",
-      "Published": "2026-03-31",
-      "URL": "https://www.youtube.com/watch?v=okctbdSJxXs",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "okctbdSJxXs"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
@@ -71,10 +71,10 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin to Drop Another 30% against Gold?",
-      "Published": "2026-04-03",
-      "URL": "https://www.youtube.com/watch?v=Xsq6jK4BVzE",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Xsq6jK4BVzE"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "From Living in a Tin Shack To Becoming a Community Leader",
-      "Published": "2026-04-03",
-      "URL": "https://www.youtube.com/shorts/qirmgEvt20w",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "qirmgEvt20w"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
@@ -122,10 +122,10 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Kalshi Beats Consensus | The Brainstorm EP 125",
-      "Published": "2026-04-01",
-      "URL": "https://www.youtube.com/watch?v=Gf993NM2X_s",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Gf993NM2X_s"
+      "VideoID": null
     }
   ]
 }
