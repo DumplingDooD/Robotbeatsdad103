@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T13:25:26.530203+00:00",
+  "last_updated": "2026-04-06T19:11:32.749301+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The Chemical Crisis That Will Crash Your Wallet",
-      "Published": "2026-04-05",
-      "URL": "https://www.youtube.com/watch?v=iz92-XtyBz0",
+      "Video Title": "$285M Solana Hack: The Attack That Changed Crypto Forever",
+      "Published": "2026-04-06",
+      "URL": "https://www.youtube.com/watch?v=e8nFXPg3z0g",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "iz92-XtyBz0"
+      "VideoID": "e8nFXPg3z0g"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: The Dangers of Complacency",
-      "Published": "2026-04-05",
-      "URL": "https://www.youtube.com/watch?v=fR4y2sCGg1A",
+      "Video Title": "Rolling Down The Risk Curve (Chart Shown: SPX/WM2NS (1W))",
+      "Published": "2026-04-06",
+      "URL": "https://www.youtube.com/shorts/jDrPHN5P1EU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "fR4y2sCGg1A"
+      "VideoID": "jDrPHN5P1EU"
     },
     {
       "Name": "Bitcoin Magazine",
