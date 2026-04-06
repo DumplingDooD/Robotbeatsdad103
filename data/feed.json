@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T07:55:16.570530+00:00",
+  "last_updated": "2026-04-06T13:25:26.530203+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "How Bitcoin Is Quietly Sparking Change Around the World",
+      "Video Title": "The ONLY Gold Standard That Actually Worked",
       "Published": "2026-04-06",
-      "URL": "https://www.youtube.com/shorts/n-_lzEfVfwI",
+      "URL": "https://www.youtube.com/shorts/uufo1hejgJE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "n-_lzEfVfwI"
+      "VideoID": "uufo1hejgJE"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Kalshi Beats Consensus | The Brainstorm EP 125",
-      "Published": "2026-04-01",
-      "URL": "https://www.youtube.com/watch?v=Gf993NM2X_s",
+      "Video Title": "Is The Banking System Showing Stress?",
+      "Published": "2026-04-06",
+      "URL": "https://www.youtube.com/shorts/ENRR8FNq8yk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Gf993NM2X_s"
+      "VideoID": "ENRR8FNq8yk"
     }
   ]
 }
