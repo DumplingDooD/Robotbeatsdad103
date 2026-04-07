@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T13:47:04.635272+00:00",
+  "last_updated": "2026-04-07T19:14:56.175228+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "$285M Solana Hack: The Attack That Changed Crypto Forever",
-      "Published": "2026-04-06",
-      "URL": "https://www.youtube.com/watch?v=e8nFXPg3z0g",
+      "Video Title": "CLARITY Act’s Trap: Your Crypto Locked In!",
+      "Published": "2026-04-07",
+      "URL": "https://www.youtube.com/watch?v=T3OnaPnh0g0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,13 +33,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "e8nFXPg3z0g"
+      "VideoID": "T3OnaPnh0g0"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Invest Like This, And The Government Will Literally Pay You for Life",
-      "Published": "2026-04-03",
-      "URL": "https://www.youtube.com/watch?v=Olz6fN0_gA4",
+      "Video Title": "The Wealth Advice Most People Don't Learn Until It's Too Late",
+      "Published": "2026-04-07",
+      "URL": "https://www.youtube.com/watch?v=cOmwlyO_L7E",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Olz6fN0_gA4"
+      "VideoID": "cOmwlyO_L7E"
     },
     {
       "Name": "CTO Larsson",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Rolling Down The Risk Curve (Chart Shown: SPX/WM2NS (1W))",
-      "Published": "2026-04-06",
-      "URL": "https://www.youtube.com/shorts/jDrPHN5P1EU",
+      "Video Title": "Stocks and Geopolitical Conflict",
+      "Published": "2026-04-07",
+      "URL": "https://www.youtube.com/watch?v=hqph0v44yxI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "jDrPHN5P1EU"
+      "VideoID": "hqph0v44yxI"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Is The Banking System Showing Stress?",
-      "Published": "2026-04-06",
-      "URL": "https://www.youtube.com/shorts/ENRR8FNq8yk",
+      "Video Title": "Personal Saving Rate Under Pressure",
+      "Published": "2026-04-07",
+      "URL": "https://www.youtube.com/shorts/xQYeVz2KrVA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ENRR8FNq8yk"
+      "VideoID": "xQYeVz2KrVA"
     }
   ]
 }
