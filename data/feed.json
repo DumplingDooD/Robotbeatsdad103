@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-07T19:14:56.175228+00:00",
+  "last_updated": "2026-04-08T03:18:10.278166+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "$12T Catalyst! Accumulation Phase? & Key TA Levels Explained 📈",
-      "Published": "2026-04-06",
-      "URL": "https://www.youtube.com/watch?v=bjS29n_SxDc",
+      "Video Title": "Tesla + Intel Shock 🚀 | LTHs Buying & Broadcom’s AI Explosion 💥",
+      "Published": "2026-04-07",
+      "URL": "https://www.youtube.com/watch?v=7dCdHsaagFA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "bjS29n_SxDc"
+      "VideoID": "7dCdHsaagFA"
     },
     {
       "Name": "Coin Bureau",
@@ -37,7 +37,7 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The Wealth Advice Most People Don't Learn Until It's Too Late",
+      "Video Title": "The Formula I Used to Build Real Wealth",
       "Published": "2026-04-07",
       "URL": "https://www.youtube.com/watch?v=cOmwlyO_L7E",
       "Summary": "Transcript unavailable.",
@@ -71,10 +71,10 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Stocks and Geopolitical Conflict",
-      "Published": "2026-04-07",
-      "URL": "https://www.youtube.com/watch?v=hqph0v44yxI",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hqph0v44yxI"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Personal Saving Rate Under Pressure",
+      "Video Title": "What Is The TAM For Prediction Markets?",
       "Published": "2026-04-07",
-      "URL": "https://www.youtube.com/shorts/xQYeVz2KrVA",
+      "URL": "https://www.youtube.com/shorts/WPtCrjJuJag",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "xQYeVz2KrVA"
+      "VideoID": "WPtCrjJuJag"
     }
   ]
 }
