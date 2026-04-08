@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T07:45:42.148642+00:00",
+  "last_updated": "2026-04-08T13:49:11.000595+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Be VERY Careful Here",
-      "Published": "2026-04-01",
-      "URL": "https://www.youtube.com/watch?v=Dh--tOn6Xp0",
+      "Video Title": "Peace and Reversal?",
+      "Published": "2026-04-08",
+      "URL": "https://www.youtube.com/watch?v=PSoPx7PbBOU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Dh--tOn6Xp0"
+      "VideoID": "PSoPx7PbBOU"
     },
     {
       "Name": "Benjamin Cowen",
