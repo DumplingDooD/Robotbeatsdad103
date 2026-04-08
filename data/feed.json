@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-08T13:49:11.000595+00:00",
+  "last_updated": "2026-04-08T19:27:03.411273+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Tesla + Intel Shock 🚀 | LTHs Buying & Broadcom’s AI Explosion 💥",
-      "Published": "2026-04-07",
-      "URL": "https://www.youtube.com/watch?v=7dCdHsaagFA",
+      "Video Title": "My Portfolio Deep Dive: Technical Analysis & New Predictions 📊💻",
+      "Published": "2026-04-08",
+      "URL": "https://www.youtube.com/watch?v=qd3wOotzu_o",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,13 +16,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "7dCdHsaagFA"
+      "VideoID": "qd3wOotzu_o"
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "CLARITY Act’s Trap: Your Crypto Locked In!",
-      "Published": "2026-04-07",
-      "URL": "https://www.youtube.com/watch?v=T3OnaPnh0g0",
+      "Video Title": "Crypto’s Decentralisation Is Almost Gone. How Safe Is Your Money?",
+      "Published": "2026-04-08",
+      "URL": "https://www.youtube.com/watch?v=0t1HS3Rcv5c",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "T3OnaPnh0g0"
+      "VideoID": "0t1HS3Rcv5c"
     },
     {
       "Name": "Mark Moss",
@@ -54,7 +54,7 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Peace and Reversal?",
+      "Video Title": "Are We Back?",
       "Published": "2026-04-08",
       "URL": "https://www.youtube.com/watch?v=PSoPx7PbBOU",
       "Summary": "Transcript unavailable.",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "What Is The TAM For Prediction Markets?",
-      "Published": "2026-04-07",
-      "URL": "https://www.youtube.com/shorts/WPtCrjJuJag",
+      "Video Title": "How Can Space-Based Data Centers Scale?",
+      "Published": "2026-04-08",
+      "URL": "https://www.youtube.com/shorts/ZpsZr1QA2BY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "WPtCrjJuJag"
+      "VideoID": "ZpsZr1QA2BY"
     }
   ]
 }
