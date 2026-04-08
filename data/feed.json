@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T03:18:10.278166+00:00",
+  "last_updated": "2026-04-08T07:45:42.148642+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,26 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
-      "Sentiment": "🟣 Unknown",
-      "KeyPoints": [],
-      "Entities": {
-        "tickers": [],
-        "macro": [],
-        "actions": [],
-        "levels": []
-      },
-      "TranscriptNote": "",
-      "VideoID": null
-    },
-    {
-      "Name": "Bitcoin Magazine",
-      "Video Title": "Jack Mallers: Donald Trump Needed Bitcoin — Bitcoin Didn't Need Him",
+      "Video Title": "Stocks and Geopolitical Conflict",
       "Published": "2026-04-07",
-      "URL": "https://www.youtube.com/shorts/BcZlcZBix28",
+      "URL": "https://www.youtube.com/watch?v=hqph0v44yxI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +84,24 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "BcZlcZBix28"
+      "VideoID": "hqph0v44yxI"
+    },
+    {
+      "Name": "Bitcoin Magazine",
+      "Video Title": "Michael Saylor: Bitcoin Volatility Is Satoshi's Gift to You",
+      "Published": "2026-04-08",
+      "URL": "https://www.youtube.com/shorts/wE7RPLCr7_M",
+      "Summary": "Transcript unavailable.",
+      "Sentiment": "🟣 Unknown",
+      "KeyPoints": [],
+      "Entities": {
+        "tickers": [],
+        "macro": [],
+        "actions": [],
+        "levels": []
+      },
+      "TranscriptNote": "",
+      "VideoID": "wE7RPLCr7_M"
     },
     {
       "Name": "George Gammon",
