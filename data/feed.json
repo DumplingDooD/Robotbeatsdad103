@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T02:54:04.782027+00:00",
+  "last_updated": "2026-04-09T07:48:06.788001+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Michael Saylor: Bitcoin Volatility Is Satoshi's Gift to You",
-      "Published": "2026-04-08",
-      "URL": "https://www.youtube.com/shorts/wE7RPLCr7_M",
+      "Video Title": "Russell Okung: Why I Became the First NFL Player Paid in Bitcoin",
+      "Published": "2026-04-09",
+      "URL": "https://www.youtube.com/shorts/kxZa2ya-W3M",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "wE7RPLCr7_M"
+      "VideoID": "kxZa2ya-W3M"
     },
     {
       "Name": "George Gammon",
