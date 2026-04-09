@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T19:27:03.411273+00:00",
+  "last_updated": "2026-04-09T02:54:04.782027+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Stocks and Geopolitical Conflict",
-      "Published": "2026-04-07",
-      "URL": "https://www.youtube.com/watch?v=hqph0v44yxI",
+      "Video Title": "Bitcoin: Bear Market Resistance Band",
+      "Published": "2026-04-08",
+      "URL": "https://www.youtube.com/watch?v=4rkqfmzKFpU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hqph0v44yxI"
+      "VideoID": "4rkqfmzKFpU"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "How Can Space-Based Data Centers Scale?",
+      "Video Title": "SpaceX To The Moon | The Brainstorm EP 126",
       "Published": "2026-04-08",
-      "URL": "https://www.youtube.com/shorts/ZpsZr1QA2BY",
+      "URL": "https://www.youtube.com/watch?v=KbH8C7XOo_Q",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ZpsZr1QA2BY"
+      "VideoID": "KbH8C7XOo_Q"
     }
   ]
 }
