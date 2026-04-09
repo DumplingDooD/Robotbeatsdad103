@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T13:59:22.415048+00:00",
+  "last_updated": "2026-04-09T19:18:50.552962+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Crypto’s Decentralisation Is Almost Gone. How Safe Is Your Money?",
-      "Published": "2026-04-08",
-      "URL": "https://www.youtube.com/watch?v=0t1HS3Rcv5c",
+      "Video Title": "IMF Announces Real-World Fiat Reset (What Happens Now?)",
+      "Published": "2026-04-09",
+      "URL": "https://www.youtube.com/watch?v=ExRJ9oAoKSM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "0t1HS3Rcv5c"
+      "VideoID": "ExRJ9oAoKSM"
     },
     {
       "Name": "Mark Moss",
