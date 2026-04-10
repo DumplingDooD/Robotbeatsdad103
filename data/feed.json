@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-09T19:18:50.552962+00:00",
+  "last_updated": "2026-04-10T03:26:35.390986+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "My Portfolio Deep Dive: Technical Analysis & New Predictions 📊💻",
-      "Published": "2026-04-08",
-      "URL": "https://www.youtube.com/watch?v=qd3wOotzu_o",
+      "Video Title": "Autonomy End Game: Cyberbulls Warn Wall Street 🧠🔥",
+      "Published": "2026-04-09",
+      "URL": "https://www.youtube.com/watch?v=X2OdOELSYbM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "qd3wOotzu_o"
+      "VideoID": "X2OdOELSYbM"
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "IMF Announces Real-World Fiat Reset (What Happens Now?)",
-      "Published": "2026-04-09",
-      "URL": "https://www.youtube.com/watch?v=ExRJ9oAoKSM",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,14 +33,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ExRJ9oAoKSM"
+      "VideoID": null
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The Formula I Used to Build Real Wealth",
-      "Published": "2026-04-07",
-      "URL": "https://www.youtube.com/watch?v=cOmwlyO_L7E",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "cOmwlyO_L7E"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Bear Market Resistance Band",
-      "Published": "2026-04-08",
-      "URL": "https://www.youtube.com/watch?v=4rkqfmzKFpU",
+      "Video Title": "\"What Are The Odds Bitcoin Goes Lower?\" (Chart Shown: BTC/USD)",
+      "Published": "2026-04-09",
+      "URL": "https://www.youtube.com/shorts/dvcmXYCs2Gc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "4rkqfmzKFpU"
+      "VideoID": "dvcmXYCs2Gc"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "SpaceX To The Moon | The Brainstorm EP 126",
-      "Published": "2026-04-08",
-      "URL": "https://www.youtube.com/watch?v=KbH8C7XOo_Q",
+      "Video Title": "Inflation, Jobs, War: Kalshi’s Signals | ITK With Cathie Wood",
+      "Published": "2026-04-10",
+      "URL": "https://www.youtube.com/watch?v=PdVv_vLkUgk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "KbH8C7XOo_Q"
+      "VideoID": "PdVv_vLkUgk"
     }
   ]
 }
