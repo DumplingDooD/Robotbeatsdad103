@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T13:13:56.762451+00:00",
+  "last_updated": "2026-04-11T18:56:32.980065+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "BRICS Just Changed Global Money. Is Your Crypto at Risk?",
-      "Published": "2026-04-10",
-      "URL": "https://www.youtube.com/watch?v=drmzdA3g2Qs",
+      "Video Title": "Diesel Disaster: Why Your Food Bill Is About to Explode",
+      "Published": "2026-04-11",
+      "URL": "https://www.youtube.com/watch?v=zwuRQE76Ovc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "drmzdA3g2Qs"
+      "VideoID": "zwuRQE76Ovc"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Russell Okung: NFL Players Bought Bitcoin Because They Believed in Me",
+      "Video Title": "Michael Saylor: $2M to $40M With One Simple Bitcoin Strategy",
       "Published": "2026-04-11",
-      "URL": "https://www.youtube.com/shorts/6FdfT3KZ04I",
+      "URL": "https://www.youtube.com/shorts/BxYClOh-Mlo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "6FdfT3KZ04I"
+      "VideoID": "BxYClOh-Mlo"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Inflation Trends: PPI vs CPI",
-      "Published": "2026-04-10",
-      "URL": "https://www.youtube.com/shorts/Aam0JUPWwcw",
+      "Video Title": "askARK: What Major Breakthroughs Do You Foresee In Robotaxis?",
+      "Published": "2026-04-11",
+      "URL": "https://www.youtube.com/shorts/pqN1gnwLbvE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Aam0JUPWwcw"
+      "VideoID": "pqN1gnwLbvE"
     }
   ]
 }
