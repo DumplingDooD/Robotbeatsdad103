@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T02:50:27.145387+00:00",
+  "last_updated": "2026-04-11T07:10:42.393999+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "LIVE: MIT Bitcoin Expo 2026 | Day 2",
-      "Published": "2026-04-10",
-      "URL": "https://www.youtube.com/watch?v=bi1XJRR9GDg",
+      "Video Title": "Russell Okung: NFL Players Bought Bitcoin Because They Believed in Me",
+      "Published": "2026-04-11",
+      "URL": "https://www.youtube.com/shorts/6FdfT3KZ04I",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "bi1XJRR9GDg"
+      "VideoID": "6FdfT3KZ04I"
     },
     {
       "Name": "George Gammon",
