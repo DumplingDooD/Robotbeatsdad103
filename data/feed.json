@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T13:15:59.404802+00:00",
+  "last_updated": "2026-04-12T19:00:26.533509+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "LIVE: MIT Bitcoin Expo 2026 | Day 1",
-      "Published": "2026-04-11",
-      "URL": "https://www.youtube.com/watch?v=QoIqsKgqfHg",
+      "Video Title": "LIVE: MIT Bitcoin Expo 2026 | Day 2",
+      "Published": "2026-04-10",
+      "URL": "https://www.youtube.com/watch?v=bi1XJRR9GDg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "QoIqsKgqfHg"
+      "VideoID": "bi1XJRR9GDg"
     },
     {
       "Name": "George Gammon",
