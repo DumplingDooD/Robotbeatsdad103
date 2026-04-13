@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T08:14:58.947917+00:00",
+  "last_updated": "2026-04-13T13:57:15.957787+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "askARK: What Major Breakthroughs Do You Foresee In Robotaxis?",
-      "Published": "2026-04-11",
-      "URL": "https://www.youtube.com/shorts/pqN1gnwLbvE",
+      "Video Title": "Big Ideas 2026: AI Productivity",
+      "Published": "2026-04-13",
+      "URL": "https://www.youtube.com/watch?v=jh7mI-qO5gU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "pqN1gnwLbvE"
+      "VideoID": "jh7mI-qO5gU"
     }
   ]
 }
