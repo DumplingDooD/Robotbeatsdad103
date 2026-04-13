@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T03:36:52.735919+00:00",
+  "last_updated": "2026-04-13T08:14:58.947917+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Peter McCormack: How Real Bedford Won 7 Trophies With Bitcoin",
+      "Video Title": "Bitcoin Fixes Fiat's Leaky Bucket",
       "Published": "2026-04-13",
-      "URL": "https://www.youtube.com/shorts/ILT8CwA518M",
+      "URL": "https://www.youtube.com/shorts/DDzBbXDQDeg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ILT8CwA518M"
+      "VideoID": "DDzBbXDQDeg"
     },
     {
       "Name": "George Gammon",
