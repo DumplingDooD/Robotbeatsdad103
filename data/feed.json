@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T13:57:15.957787+00:00",
+  "last_updated": "2026-04-13T19:22:42.010471+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Catastrophic Helium Shortage: AI & Crypto at Risk?",
-      "Published": "2026-04-12",
-      "URL": "https://www.youtube.com/watch?v=ZbWiSEExBgs",
+      "Video Title": "Polymarket’s Big Switch: New Fees, Big Risks for Crypto",
+      "Published": "2026-04-13",
+      "URL": "https://www.youtube.com/watch?v=OnNQRyMcXXg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ZbWiSEExBgs"
+      "VideoID": "OnNQRyMcXXg"
     },
     {
       "Name": "Mark Moss",
