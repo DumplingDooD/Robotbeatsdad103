@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T14:01:31.234176+00:00",
+  "last_updated": "2026-04-14T19:26:00.470520+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Polymarket’s Big Switch: New Fees, Big Risks for Crypto",
-      "Published": "2026-04-13",
-      "URL": "https://www.youtube.com/watch?v=OnNQRyMcXXg",
+      "Video Title": "Crypto Leverage Shocker: $61B Risks EXPOSED [Full Report]",
+      "Published": "2026-04-14",
+      "URL": "https://www.youtube.com/watch?v=DTBbLxSWbb8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "OnNQRyMcXXg"
+      "VideoID": "DTBbLxSWbb8"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin Fixes Fiat's Leaky Bucket",
-      "Published": "2026-04-13",
-      "URL": "https://www.youtube.com/shorts/DDzBbXDQDeg",
+      "Video Title": "You'll Pay The Price For Bitcoin That You Deserve",
+      "Published": "2026-04-14",
+      "URL": "https://www.youtube.com/shorts/EeDvxILLdXI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "DDzBbXDQDeg"
+      "VideoID": "EeDvxILLdXI"
     },
     {
       "Name": "George Gammon",
