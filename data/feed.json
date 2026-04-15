@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T07:58:45.265714+00:00",
+  "last_updated": "2026-04-15T13:54:30.200767+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "SpaceX's Lead Is Accelerating",
-      "Published": "2026-04-14",
-      "URL": "https://www.youtube.com/shorts/DGJ052mYb_o",
+      "Video Title": "The $20 Trillion AI Race",
+      "Published": "2026-04-15",
+      "URL": "https://www.youtube.com/shorts/-6XXFfmOnY4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "DGJ052mYb_o"
+      "VideoID": "-6XXFfmOnY4"
     }
   ]
 }
