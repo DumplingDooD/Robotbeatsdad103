@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T13:54:30.200767+00:00",
+  "last_updated": "2026-04-15T19:37:29.742597+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Crypto Leverage Shocker: $61B Risks EXPOSED [Full Report]",
-      "Published": "2026-04-14",
-      "URL": "https://www.youtube.com/watch?v=DTBbLxSWbb8",
+      "Video Title": "CME Goes 24/7: TradFi Just Hijacked Crypto’s Soul",
+      "Published": "2026-04-15",
+      "URL": "https://www.youtube.com/watch?v=hNtC36vN6Rs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "DTBbLxSWbb8"
+      "VideoID": "hNtC36vN6Rs"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Stocks Rally Back Near The Highs",
+      "Video Title": "Bitcoin Can Do This",
       "Published": "2026-04-15",
-      "URL": "https://www.youtube.com/watch?v=UW4xMQX0Vqk",
+      "URL": "https://www.youtube.com/shorts/jV98XhnR4VU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "UW4xMQX0Vqk"
+      "VideoID": "jV98XhnR4VU"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "The $20 Trillion AI Race",
+      "Video Title": "Defense Spending Pressures US Deficit",
       "Published": "2026-04-15",
-      "URL": "https://www.youtube.com/shorts/-6XXFfmOnY4",
+      "URL": "https://www.youtube.com/shorts/P0MN0UaP9Xk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "-6XXFfmOnY4"
+      "VideoID": "P0MN0UaP9Xk"
     }
   ]
 }
