@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T07:58:36.071459+00:00",
+  "last_updated": "2026-04-16T14:03:13.478055+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Can Do This",
-      "Published": "2026-04-15",
-      "URL": "https://www.youtube.com/shorts/jV98XhnR4VU",
+      "Video Title": "NFA Live! Bitcoin in 2026",
+      "Published": "2026-04-16",
+      "URL": "https://www.youtube.com/watch?v=dLf8cfhelRs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "jV98XhnR4VU"
+      "VideoID": "dLf8cfhelRs"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Mark Moss: The 4 Phases of Every Revolutionary Technology",
+      "Video Title": "Natalie Brunell on the Sovereign Bitcoin Race Worldwide | Bitcoin Magazine Podcast Ep 7",
       "Published": "2026-04-16",
-      "URL": "https://www.youtube.com/shorts/pbQMYUg_eTU",
+      "URL": "https://www.youtube.com/watch?v=EUlq4iW3QhI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "pbQMYUg_eTU"
+      "VideoID": "EUlq4iW3QhI"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Mythos And AI Safety | The Brainstorm EP 127",
-      "Published": "2026-04-15",
-      "URL": "https://www.youtube.com/watch?v=CR1STjbGQJ0",
+      "Video Title": "AI Productivity 3 Takeaways | Big Ideas 2026",
+      "Published": "2026-04-16",
+      "URL": "https://www.youtube.com/shorts/YsJXYN_F1fk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "CR1STjbGQJ0"
+      "VideoID": "YsJXYN_F1fk"
     }
   ]
 }
