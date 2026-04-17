@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T13:46:25.165760+00:00",
+  "last_updated": "2026-04-17T19:11:34.083067+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Wall Street’s Secret Bitcoin Takeover (Exposed!)",
-      "Published": "2026-04-16",
-      "URL": "https://www.youtube.com/watch?v=rxefOzcMhPo",
+      "Video Title": "If Hyperliquid Fails, Does Crypto Survive?",
+      "Published": "2026-04-17",
+      "URL": "https://www.youtube.com/watch?v=8m2UUfg3nc0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "rxefOzcMhPo"
+      "VideoID": "8m2UUfg3nc0"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "AI Productivity 3 Takeaways | Big Ideas 2026",
-      "Published": "2026-04-16",
-      "URL": "https://www.youtube.com/shorts/YsJXYN_F1fk",
+      "Video Title": "Foreign Investment Into The US",
+      "Published": "2026-04-17",
+      "URL": "https://www.youtube.com/shorts/kxUZlftPHDQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "YsJXYN_F1fk"
+      "VideoID": "kxUZlftPHDQ"
     }
   ]
 }
