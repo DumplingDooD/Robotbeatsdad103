@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-16T19:25:24.128972+00:00",
+  "last_updated": "2026-04-17T03:28:03.621047+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "🚨 $1.6 Trillion CHIP WAR: Tesla vs. Nvidia ⚔️ & Best AI Stocks to Own! 🚀📈",
-      "Published": "2026-04-16",
-      "URL": "https://www.youtube.com/watch?v=BMBzo1joQn4",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "BMBzo1joQn4"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "This Has Only Happened 4 Times in 50 Years. It Just Happened Again.",
-      "Published": "2026-04-09",
-      "URL": "https://www.youtube.com/watch?v=Qwqn12D20iw",
+      "Video Title": "There’s a Shockwave in the Economy... And It’s Coming For You",
+      "Published": "2026-04-16",
+      "URL": "https://www.youtube.com/watch?v=GpZgFD98WFg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Qwqn12D20iw"
+      "VideoID": "GpZgFD98WFg"
     },
     {
       "Name": "CTO Larsson",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Natalie Brunell on the Sovereign Bitcoin Race Worldwide | Bitcoin Magazine Podcast Ep 7",
-      "Published": "2026-04-16",
-      "URL": "https://www.youtube.com/watch?v=EUlq4iW3QhI",
+      "Video Title": "Natalie Brunell: Why You'll REGRET Not Buying This Bear Market",
+      "Published": "2026-04-17",
+      "URL": "https://www.youtube.com/shorts/AsT4Y9Jgn64",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "EUlq4iW3QhI"
+      "VideoID": "AsT4Y9Jgn64"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Trillion Dollar Shadow Bank Just Went Into CRISIS MODE (It's Systemic)",
-      "Published": "2026-03-26",
-      "URL": "https://www.youtube.com/watch?v=hacy1D-Bcxs",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,7 +118,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hacy1D-Bcxs"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
