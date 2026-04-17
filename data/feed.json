@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T07:59:08.090816+00:00",
+  "last_updated": "2026-04-17T13:46:25.165760+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "NFA Live! Bitcoin in 2026",
-      "Published": "2026-04-16",
-      "URL": "https://www.youtube.com/watch?v=dLf8cfhelRs",
+      "Video Title": "Bitcoin: Dubious Speculation",
+      "Published": "2026-04-17",
+      "URL": "https://www.youtube.com/watch?v=TWax8cGppRQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "dLf8cfhelRs"
+      "VideoID": "TWax8cGppRQ"
     },
     {
       "Name": "Bitcoin Magazine",
