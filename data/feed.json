@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-17T03:28:03.621047+00:00",
+  "last_updated": "2026-04-17T07:59:08.090816+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
+      "Video Title": "🚨 $1.6 Trillion CHIP WAR: Tesla vs. Nvidia ⚔️ & Best AI Stocks to Own! 🚀📈",
+      "Published": "2026-04-16",
+      "URL": "https://www.youtube.com/watch?v=BMBzo1joQn4",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "BMBzo1joQn4"
     },
     {
       "Name": "Coin Bureau",
@@ -105,10 +105,10 @@
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
+      "Video Title": "Trillion Dollar Shadow Bank Just Went Into CRISIS MODE (It's Systemic)",
+      "Published": "2026-03-26",
+      "URL": "https://www.youtube.com/watch?v=hacy1D-Bcxs",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,7 +118,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "hacy1D-Bcxs"
     },
     {
       "Name": "ArkInvest",
