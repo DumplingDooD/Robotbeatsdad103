@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T13:16:53.322323+00:00",
+  "last_updated": "2026-04-18T19:01:54.289559+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "If Hyperliquid Fails, Does Crypto Survive?",
-      "Published": "2026-04-17",
-      "URL": "https://www.youtube.com/watch?v=8m2UUfg3nc0",
+      "Video Title": "The Private Credit Trap: Next Financial Crisis?",
+      "Published": "2026-04-18",
+      "URL": "https://www.youtube.com/watch?v=kr3xb09brcE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "8m2UUfg3nc0"
+      "VideoID": "kr3xb09brcE"
     },
     {
       "Name": "Mark Moss",
