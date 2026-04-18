@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T07:19:42.684160+00:00",
+  "last_updated": "2026-04-18T13:16:53.322323+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Natalie Brunell: Why You'll REGRET Not Buying This Bear Market",
-      "Published": "2026-04-17",
-      "URL": "https://www.youtube.com/shorts/AsT4Y9Jgn64",
+      "Video Title": "Unmasking Satoshi Is Bad for Bitcoin | Bitcoin Policy Hour Episode 34",
+      "Published": "2026-04-18",
+      "URL": "https://www.youtube.com/watch?v=Yo8WskjkELU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "AsT4Y9Jgn64"
+      "VideoID": "Yo8WskjkELU"
     },
     {
       "Name": "George Gammon",
