@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19T07:40:14.433240+00:00",
+  "last_updated": "2026-04-19T13:16:51.311024+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The Private Credit Trap: Next Financial Crisis?",
-      "Published": "2026-04-18",
-      "URL": "https://www.youtube.com/watch?v=kr3xb09brcE",
+      "Video Title": "How VCs Dump Tokens and Retail Pays the Price",
+      "Published": "2026-04-19",
+      "URL": "https://www.youtube.com/watch?v=1Cdz5uu3aMs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "kr3xb09brcE"
+      "VideoID": "1Cdz5uu3aMs"
     },
     {
       "Name": "Mark Moss",
