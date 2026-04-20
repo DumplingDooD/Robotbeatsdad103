@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20T14:00:20.017257+00:00",
+  "last_updated": "2026-04-20T19:17:19.625662+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "How VCs Dump Tokens and Retail Pays the Price",
-      "Published": "2026-04-19",
-      "URL": "https://www.youtube.com/watch?v=1Cdz5uu3aMs",
+      "Video Title": "This Hack Just Broke DeFi… And Exposed Everything",
+      "Published": "2026-04-20",
+      "URL": "https://www.youtube.com/watch?v=hV7JuhA3_Y4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "1Cdz5uu3aMs"
+      "VideoID": "hV7JuhA3_Y4"
     },
     {
       "Name": "Mark Moss",
