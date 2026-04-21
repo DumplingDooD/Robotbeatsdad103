@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T13:59:28.696268+00:00",
+  "last_updated": "2026-04-21T19:22:25.729478+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "This Hack Just Broke DeFi… And Exposed Everything",
-      "Published": "2026-04-20",
-      "URL": "https://www.youtube.com/watch?v=hV7JuhA3_Y4",
+      "Video Title": "Is Strategy a Bitcoin Ponzi Scheme?",
+      "Published": "2026-04-21",
+      "URL": "https://www.youtube.com/watch?v=D0CXDq-4dDs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,13 +33,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hV7JuhA3_Y4"
+      "VideoID": "D0CXDq-4dDs"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "There’s a Shockwave in the Economy... And It’s Coming For You",
-      "Published": "2026-04-16",
-      "URL": "https://www.youtube.com/watch?v=GpZgFD98WFg",
+      "Video Title": "If you think it's too late to build a great retirement... You're wrong!",
+      "Published": "2026-04-21",
+      "URL": "https://www.youtube.com/shorts/m6GgPYm4Ew4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,13 +50,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "GpZgFD98WFg"
+      "VideoID": "m6GgPYm4Ew4"
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Are We Back?",
-      "Published": "2026-04-08",
-      "URL": "https://www.youtube.com/watch?v=PSoPx7PbBOU",
+      "Video Title": "You Don't Want to Regret This",
+      "Published": "2026-04-21",
+      "URL": "https://www.youtube.com/watch?v=xv1jTgVZbFE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,13 +67,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "PSoPx7PbBOU"
+      "VideoID": "xv1jTgVZbFE"
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "This Is What Makes It A Market",
-      "Published": "2026-04-20",
-      "URL": "https://www.youtube.com/shorts/anlNaN-lL_E",
+      "Video Title": "Gold: Dubious Speculation",
+      "Published": "2026-04-21",
+      "URL": "https://www.youtube.com/watch?v=hMkHnOuVLIw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "anlNaN-lL_E"
+      "VideoID": "hMkHnOuVLIw"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Unmasking Satoshi Is Bad for Bitcoin | Bitcoin Policy Hour Episode 34",
-      "Published": "2026-04-18",
-      "URL": "https://www.youtube.com/watch?v=Yo8WskjkELU",
+      "Video Title": "Bitcoin Las Vegas | Day 3 Livestream",
+      "Published": "2026-04-21",
+      "URL": "https://www.youtube.com/watch?v=KXBp1g9e3cA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Yo8WskjkELU"
+      "VideoID": "KXBp1g9e3cA"
     },
     {
       "Name": "George Gammon",
