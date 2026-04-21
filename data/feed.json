@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-21T03:28:48.941845+00:00",
+  "last_updated": "2026-04-21T08:03:34.960467+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
+      "Video Title": "MSTR & IBIT snag nearly 10 Yrs of Supply (Why $120K is Next) 🚀",
+      "Published": "2026-04-20",
+      "URL": "https://www.youtube.com/watch?v=NCF0EqJl8bQ",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "NCF0EqJl8bQ"
     },
     {
       "Name": "Coin Bureau",
@@ -37,10 +37,10 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
+      "Video Title": "There’s a Shockwave in the Economy... And It’s Coming For You",
+      "Published": "2026-04-16",
+      "URL": "https://www.youtube.com/watch?v=GpZgFD98WFg",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "GpZgFD98WFg"
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
+      "Video Title": "Are We Back?",
+      "Published": "2026-04-08",
+      "URL": "https://www.youtube.com/watch?v=PSoPx7PbBOU",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "PSoPx7PbBOU"
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
+      "Video Title": "This Is What Makes It A Market",
+      "Published": "2026-04-20",
+      "URL": "https://www.youtube.com/shorts/anlNaN-lL_E",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "anlNaN-lL_E"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
+      "Video Title": "Unmasking Satoshi Is Bad for Bitcoin | Bitcoin Policy Hour Episode 34",
+      "Published": "2026-04-18",
+      "URL": "https://www.youtube.com/watch?v=Yo8WskjkELU",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "Yo8WskjkELU"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
+      "Video Title": "Trillion Dollar Shadow Bank Just Went Into CRISIS MODE (It's Systemic)",
+      "Published": "2026-03-26",
+      "URL": "https://www.youtube.com/watch?v=hacy1D-Bcxs",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "hacy1D-Bcxs"
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
+      "Video Title": "askARK Will AI Agents Increase The Unemployment Rate?",
+      "Published": "2026-04-20",
+      "URL": "https://www.youtube.com/shorts/AfUj3su_1j4",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "AfUj3su_1j4"
     }
   ]
 }
