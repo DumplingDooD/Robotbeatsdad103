@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-20T19:17:19.625662+00:00",
+  "last_updated": "2026-04-21T03:28:48.941845+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "DUMP Diversification? Top AI Stocks, IPO Proxies & Why AI NEEDS BTC! 🤖🚀",
-      "Published": "2026-04-19",
-      "URL": "https://www.youtube.com/watch?v=vsx2W6pztFM",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "vsx2W6pztFM"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
@@ -37,10 +37,10 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "There’s a Shockwave in the Economy... And It’s Coming For You",
-      "Published": "2026-04-16",
-      "URL": "https://www.youtube.com/watch?v=GpZgFD98WFg",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "GpZgFD98WFg"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Are We Back?",
-      "Published": "2026-04-08",
-      "URL": "https://www.youtube.com/watch?v=PSoPx7PbBOU",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "PSoPx7PbBOU"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Rallies to the Bear Market Resistance Band",
-      "Published": "2026-04-20",
-      "URL": "https://www.youtube.com/watch?v=tZ05ZUlaO8w",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "tZ05ZUlaO8w"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Unmasking Satoshi Is Bad for Bitcoin | Bitcoin Policy Hour Episode 34",
-      "Published": "2026-04-18",
-      "URL": "https://www.youtube.com/watch?v=Yo8WskjkELU",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Yo8WskjkELU"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Trillion Dollar Shadow Bank Just Went Into CRISIS MODE (It's Systemic)",
-      "Published": "2026-03-26",
-      "URL": "https://www.youtube.com/watch?v=hacy1D-Bcxs",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hacy1D-Bcxs"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Foreign Investment Into The US",
-      "Published": "2026-04-17",
-      "URL": "https://www.youtube.com/shorts/kxUZlftPHDQ",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "kxUZlftPHDQ"
+      "VideoID": null
     }
   ]
 }
