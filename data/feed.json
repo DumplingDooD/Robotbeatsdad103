@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T08:05:51.414363+00:00",
+  "last_updated": "2026-04-23T14:01:20.481808+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,7 +20,7 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "World Liberty EXPOSED: The Trump DeFi 'Backdoor' Scandal",
+      "Video Title": "This DeFi Giant Is COLLAPSING. Your Crypto Might Be Next!",
       "Published": "2026-04-22",
       "URL": "https://www.youtube.com/watch?v=hNfmeN3qqLg",
       "Summary": "Transcript unavailable.",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin & Gold",
-      "Published": "2026-04-22",
-      "URL": "https://www.youtube.com/shorts/Q67V1CJQLdA",
+      "Video Title": "NFA Live! Bitcoin in 2026!",
+      "Published": "2026-04-23",
+      "URL": "https://www.youtube.com/watch?v=ltLH5NOqxiU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Q67V1CJQLdA"
+      "VideoID": "ltLH5NOqxiU"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Why You're Working Harder and Still Falling Behind Financially",
-      "Published": "2026-04-22",
-      "URL": "https://www.youtube.com/shorts/aopiDDVzcPY",
+      "Video Title": "Finding Satoshi Would Destroy Bitcoin's Greatest Strength",
+      "Published": "2026-04-23",
+      "URL": "https://www.youtube.com/shorts/5Fmn_8w6YLY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "aopiDDVzcPY"
+      "VideoID": "5Fmn_8w6YLY"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Verifying Humanity In An AI World | The Brainstorm EP 128",
-      "Published": "2026-04-22",
-      "URL": "https://www.youtube.com/watch?v=y3iQY7DExDg",
+      "Video Title": "The Token Economy: AI Infrastructure And The Future Of Compute",
+      "Published": "2026-04-23",
+      "URL": "https://www.youtube.com/watch?v=cqQNZ_NOP8E",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "y3iQY7DExDg"
+      "VideoID": "cqQNZ_NOP8E"
     }
   ]
 }
