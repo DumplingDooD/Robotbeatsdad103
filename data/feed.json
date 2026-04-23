@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T14:01:20.481808+00:00",
+  "last_updated": "2026-04-23T19:22:32.813376+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "This DeFi Giant Is COLLAPSING. Your Crypto Might Be Next!",
-      "Published": "2026-04-22",
-      "URL": "https://www.youtube.com/watch?v=hNfmeN3qqLg",
+      "Video Title": "How To Know You’re Going To Lose Money In Crypto",
+      "Published": "2026-04-23",
+      "URL": "https://www.youtube.com/watch?v=CZAGw-7k_YA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hNfmeN3qqLg"
+      "VideoID": "CZAGw-7k_YA"
     },
     {
       "Name": "Mark Moss",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "You Don't Want to Regret This",
-      "Published": "2026-04-21",
-      "URL": "https://www.youtube.com/watch?v=xv1jTgVZbFE",
+      "Video Title": "I’m BULLISH",
+      "Published": "2026-04-23",
+      "URL": "https://www.youtube.com/watch?v=LlpevL2R1UI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,13 +67,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "xv1jTgVZbFE"
+      "VideoID": "LlpevL2R1UI"
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "NFA Live! Bitcoin in 2026!",
+      "Video Title": "Market Discussion with Gareth Soloway, Mike McGlone, And Scott Melker",
       "Published": "2026-04-23",
-      "URL": "https://www.youtube.com/watch?v=ltLH5NOqxiU",
+      "URL": "https://www.youtube.com/watch?v=Nt96daUeqm8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ltLH5NOqxiU"
+      "VideoID": "Nt96daUeqm8"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "The Token Economy: AI Infrastructure And The Future Of Compute",
+      "Video Title": "Is AI The Answer To Margin Compression?",
       "Published": "2026-04-23",
-      "URL": "https://www.youtube.com/watch?v=cqQNZ_NOP8E",
+      "URL": "https://www.youtube.com/shorts/S5XMRJ9ivCE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "cqQNZ_NOP8E"
+      "VideoID": "S5XMRJ9ivCE"
     }
   ]
 }
