@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-23T19:22:32.813376+00:00",
+  "last_updated": "2026-04-24T03:32:20.671869+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Tesla Q1: The Most Insane Valuation Disconnect EVER ⚡️⚡️",
-      "Published": "2026-04-22",
-      "URL": "https://www.youtube.com/watch?v=LNkiuOVak58",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "LNkiuOVak58"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "How To Know You’re Going To Lose Money In Crypto",
-      "Published": "2026-04-23",
-      "URL": "https://www.youtube.com/watch?v=CZAGw-7k_YA",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,14 +33,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "CZAGw-7k_YA"
+      "VideoID": null
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "65 Years Old With A Broken 401K",
-      "Published": "2026-04-22",
-      "URL": "https://www.youtube.com/shorts/K6BbhfHtyac",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "K6BbhfHtyac"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "I’m BULLISH",
-      "Published": "2026-04-23",
-      "URL": "https://www.youtube.com/watch?v=LlpevL2R1UI",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "LlpevL2R1UI"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Market Discussion with Gareth Soloway, Mike McGlone, And Scott Melker",
-      "Published": "2026-04-23",
-      "URL": "https://www.youtube.com/watch?v=Nt96daUeqm8",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Nt96daUeqm8"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Finding Satoshi Would Destroy Bitcoin's Greatest Strength",
-      "Published": "2026-04-23",
-      "URL": "https://www.youtube.com/shorts/5Fmn_8w6YLY",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "5Fmn_8w6YLY"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Trillion Dollar Shadow Bank Just Went Into CRISIS MODE (It's Systemic)",
-      "Published": "2026-03-26",
-      "URL": "https://www.youtube.com/watch?v=hacy1D-Bcxs",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hacy1D-Bcxs"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Is AI The Answer To Margin Compression?",
-      "Published": "2026-04-23",
-      "URL": "https://www.youtube.com/shorts/S5XMRJ9ivCE",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "S5XMRJ9ivCE"
+      "VideoID": null
     }
   ]
 }
