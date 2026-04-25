@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T13:20:02.896121+00:00",
+  "last_updated": "2026-04-25T19:04:08.689066+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "How One Ruling Could End Kalshi & Polymarket",
-      "Published": "2026-04-24",
-      "URL": "https://www.youtube.com/watch?v=HcHsu0Ia_Rc",
+      "Video Title": "AI Is Tearing DeFi Apart! $1 Can Hack Your Crypto Now",
+      "Published": "2026-04-25",
+      "URL": "https://www.youtube.com/watch?v=o0pvDGUmHBU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "HcHsu0Ia_Rc"
+      "VideoID": "o0pvDGUmHBU"
     },
     {
       "Name": "Mark Moss",
