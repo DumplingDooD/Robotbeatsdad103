@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T07:39:16.881826+00:00",
+  "last_updated": "2026-04-25T13:20:02.896121+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin is Your Defense Against the Debt Train",
-      "Published": "2026-04-24",
-      "URL": "https://www.youtube.com/shorts/7dgZw-b869k",
+      "Video Title": "The Bitcoin Virtual Machine Breakthrough Nobody Saw Coming w/ Robin Linus",
+      "Published": "2026-04-25",
+      "URL": "https://www.youtube.com/watch?v=lx9ZfbxEyUU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "7dgZw-b869k"
+      "VideoID": "lx9ZfbxEyUU"
     },
     {
       "Name": "George Gammon",
