@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T07:48:23.927661+00:00",
+  "last_updated": "2026-04-26T13:21:08.655172+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The Bitcoin Virtual Machine Breakthrough Nobody Saw Coming w/ Robin Linus",
-      "Published": "2026-04-25",
-      "URL": "https://www.youtube.com/watch?v=lx9ZfbxEyUU",
+      "Video Title": "Nik Bhatia: Stablecoins Are a Trojan Horse for Bitcoin | Bitcoin Policy Hour Ep 35",
+      "Published": "2026-04-26",
+      "URL": "https://www.youtube.com/watch?v=bsAN3zkLhBU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "lx9ZfbxEyUU"
+      "VideoID": "bsAN3zkLhBU"
     },
     {
       "Name": "George Gammon",
