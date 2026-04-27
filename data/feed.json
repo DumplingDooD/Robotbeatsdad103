@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T08:36:41.073977+00:00",
+  "last_updated": "2026-04-27T14:11:55.136709+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "askARK What's The Difference Between Prediction Markets And Gambling?",
-      "Published": "2026-04-24",
-      "URL": "https://www.youtube.com/shorts/dx1MyfIYVsM",
+      "Video Title": "Big Ideas 2026: Bitcoin",
+      "Published": "2026-04-27",
+      "URL": "https://www.youtube.com/watch?v=YrBMPujUcEY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "dx1MyfIYVsM"
+      "VideoID": "YrBMPujUcEY"
     }
   ]
 }
