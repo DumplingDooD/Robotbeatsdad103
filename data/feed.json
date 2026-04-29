@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-28T19:49:49.359204+00:00",
+  "last_updated": "2026-04-29T03:46:01.357361+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Is AI Black Swan HERE 📉 OpenAI Burns + Bitcoin's Supply Crunch loading? 💥",
-      "Published": "2026-04-28",
-      "URL": "https://www.youtube.com/watch?v=VbPj6QCaipE",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "VbPj6QCaipE"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
@@ -37,10 +37,10 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The Man Who Ran US Treasury In 2008 Just Told Everyone To Prepare...",
-      "Published": "2026-04-23",
-      "URL": "https://www.youtube.com/watch?v=9tO_KDxjJoE",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "9tO_KDxjJoE"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "BUY NOW?",
-      "Published": "2026-04-28",
-      "URL": "https://www.youtube.com/watch?v=BNCMSYBILTI",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "BNCMSYBILTI"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Battle at the Bear Market Resistance Band",
-      "Published": "2026-04-27",
-      "URL": "https://www.youtube.com/watch?v=xtqv4gEWGv0",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "xtqv4gEWGv0"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin 2026 | Day 2 Livestream",
-      "Published": "2026-04-21",
-      "URL": "https://www.youtube.com/watch?v=OWkBqts2NP0",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "OWkBqts2NP0"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Trillion Dollar Shadow Bank Just Went Into CRISIS MODE (It's Systemic)",
-      "Published": "2026-03-26",
-      "URL": "https://www.youtube.com/watch?v=hacy1D-Bcxs",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hacy1D-Bcxs"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Why The US Could Stay In A Deficit For Years",
-      "Published": "2026-04-28",
-      "URL": "https://www.youtube.com/shorts/VqKqyOYA-pQ",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "VqKqyOYA-pQ"
+      "VideoID": null
     }
   ]
 }
