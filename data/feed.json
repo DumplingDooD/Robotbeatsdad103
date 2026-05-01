@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T08:21:13.168510+00:00",
+  "last_updated": "2026-05-01T13:42:45.683282+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "If Bitcoin Is the Answer, Why Don't They See It?",
+      "Video Title": "The Exodus Summit",
       "Published": "2026-05-01",
-      "URL": "https://www.youtube.com/shorts/MVwarw0eQOg",
+      "URL": "https://www.youtube.com/watch?v=uRJMkxxCAVM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "MVwarw0eQOg"
+      "VideoID": "uRJMkxxCAVM"
     },
     {
       "Name": "George Gammon",
