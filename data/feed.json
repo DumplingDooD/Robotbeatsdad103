@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T13:42:45.683282+00:00",
+  "last_updated": "2026-05-01T19:20:59.476726+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Stripe & Coinbase Break Banking Forever",
-      "Published": "2026-04-30",
-      "URL": "https://www.youtube.com/watch?v=I-BRrCkz-F4",
+      "Video Title": "South Africa Just Proved They CAN Steal Your Bitcoin",
+      "Published": "2026-05-01",
+      "URL": "https://www.youtube.com/watch?v=bzFs_Mm6H5Q",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "I-BRrCkz-F4"
+      "VideoID": "bzFs_Mm6H5Q"
     },
     {
       "Name": "Mark Moss",
@@ -71,7 +71,7 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Jerome Powell's Last FOMC as Chair",
+      "Video Title": "Jerome Powell: \"I Won't See You Next Time\"",
       "Published": "2026-05-01",
       "URL": "https://www.youtube.com/watch?v=bUm30jMoOJU",
       "Summary": "Transcript unavailable.",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The Exodus Summit",
+      "Video Title": "Strike Just Got $2.1B From Tether for Bitcoiners",
       "Published": "2026-05-01",
-      "URL": "https://www.youtube.com/watch?v=uRJMkxxCAVM",
+      "URL": "https://www.youtube.com/shorts/-wd-89mFtCc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "uRJMkxxCAVM"
+      "VideoID": "-wd-89mFtCc"
     },
     {
       "Name": "George Gammon",
