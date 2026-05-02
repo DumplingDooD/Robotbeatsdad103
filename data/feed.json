@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T13:26:43.781638+00:00",
+  "last_updated": "2026-05-02T19:10:40.999586+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "South Africa Just Proved They CAN Steal Your Bitcoin",
-      "Published": "2026-05-01",
-      "URL": "https://www.youtube.com/watch?v=bzFs_Mm6H5Q",
+      "Video Title": "Satoshi's Stash Gets Grabbed in eCash Bitcoin Fork",
+      "Published": "2026-05-02",
+      "URL": "https://www.youtube.com/watch?v=itJpwsK3WVg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "bzFs_Mm6H5Q"
+      "VideoID": "itJpwsK3WVg"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Understanding the Quantum Attack Vectors | Bitcoin 2026",
+      "Video Title": "Write Code or Suit Up: Should Bitcoiners Run for Office or Focus on Building? | Bitcoin 2026",
       "Published": "2026-05-02",
-      "URL": "https://www.youtube.com/watch?v=j63F1ln4QlI",
+      "URL": "https://www.youtube.com/watch?v=GZSZUF2akXE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "j63F1ln4QlI"
+      "VideoID": "GZSZUF2akXE"
     },
     {
       "Name": "George Gammon",
