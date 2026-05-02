@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T07:53:25.956272+00:00",
+  "last_updated": "2026-05-02T13:26:43.781638+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Jerome Powell: \"I Won't See You Next Time\"",
-      "Published": "2026-05-01",
-      "URL": "https://www.youtube.com/watch?v=bUm30jMoOJU",
+      "Video Title": "Bitcoin: Dubious Speculation",
+      "Published": "2026-05-02",
+      "URL": "https://www.youtube.com/watch?v=6RBevGGz1Pw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "bUm30jMoOJU"
+      "VideoID": "6RBevGGz1Pw"
     },
     {
       "Name": "Bitcoin Magazine",
