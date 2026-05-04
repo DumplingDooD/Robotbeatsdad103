@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T08:38:19.966989+00:00",
+  "last_updated": "2026-05-04T14:19:48.773563+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Fixing the Quantum Issue on a Wallet Level | Bitcoin 2026",
+      "Video Title": "Strategies for Bitcoin Personal Finance | Bitcoin 2026",
       "Published": "2026-05-04",
-      "URL": "https://www.youtube.com/watch?v=szdRnFoGVxg",
+      "URL": "https://www.youtube.com/watch?v=G1HTIB2Ita4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "szdRnFoGVxg"
+      "VideoID": "G1HTIB2Ita4"
     },
     {
       "Name": "George Gammon",
