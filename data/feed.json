@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T03:52:13.153378+00:00",
+  "last_updated": "2026-05-04T08:38:19.966989+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Building the Next Financial System on Bitcoin | Bitcoin 2026",
+      "Video Title": "Fixing the Quantum Issue on a Wallet Level | Bitcoin 2026",
       "Published": "2026-05-04",
-      "URL": "https://www.youtube.com/watch?v=NDFDmumQ0jA",
+      "URL": "https://www.youtube.com/watch?v=szdRnFoGVxg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "NDFDmumQ0jA"
+      "VideoID": "szdRnFoGVxg"
     },
     {
       "Name": "George Gammon",
