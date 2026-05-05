@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T08:20:34.954369+00:00",
+  "last_updated": "2026-05-05T19:44:09.499775+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "SELL Bitcoin Now? Why This Month Matters!",
-      "Published": "2026-05-04",
-      "URL": "https://www.youtube.com/watch?v=YLHHLa3G8kU",
+      "Video Title": "Morgan Stanley Calls Out Crypto Manipulation! Here’s Proof",
+      "Published": "2026-05-05",
+      "URL": "https://www.youtube.com/watch?v=2AEA3oEkRQU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "YLHHLa3G8kU"
+      "VideoID": "2AEA3oEkRQU"
     },
     {
       "Name": "Mark Moss",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "IT’S NOT LOOKING GOOD",
-      "Published": "2026-04-30",
-      "URL": "https://www.youtube.com/watch?v=qzUHH6HBtwY",
+      "Video Title": "8 Years. Now It’s Time.",
+      "Published": "2026-05-05",
+      "URL": "https://www.youtube.com/watch?v=DTjz0rEdCJo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,13 +67,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "qzUHH6HBtwY"
+      "VideoID": "DTjz0rEdCJo"
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Dubious Speculation",
-      "Published": "2026-05-02",
-      "URL": "https://www.youtube.com/watch?v=6RBevGGz1Pw",
+      "Video Title": "Bitcoin Bear Goggles",
+      "Published": "2026-05-05",
+      "URL": "https://www.youtube.com/watch?v=C5Y4zGO4Gxs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "6RBevGGz1Pw"
+      "VideoID": "C5Y4zGO4Gxs"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Through the Eyes of a Cypherpunk Legend: Hyperbitcoinization = HyperAmericanization | Bitcoin 2026",
+      "Video Title": "Sovereignty & Purpose in the Information Era w/ Matt Hill | Bitcoin 2026",
       "Published": "2026-05-05",
-      "URL": "https://www.youtube.com/watch?v=mX-EOOTkziA",
+      "URL": "https://www.youtube.com/watch?v=H78VkpxmD1o",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "mX-EOOTkziA"
+      "VideoID": "H78VkpxmD1o"
     },
     {
       "Name": "George Gammon",
