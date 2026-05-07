@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T08:43:43.260814+00:00",
+  "last_updated": "2026-05-07T14:33:00.429567+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "JPMorgan’s Desperate Move Exposed: Clarity Act Fallout",
-      "Published": "2026-05-06",
-      "URL": "https://www.youtube.com/watch?v=KfsnUYAtKGM",
+      "Video Title": "Wall Street Was Wrong! Bitcoin Refuses to Die",
+      "Published": "2026-05-07",
+      "URL": "https://www.youtube.com/watch?v=BZfL6vxnFeU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "KfsnUYAtKGM"
+      "VideoID": "BZfL6vxnFeU"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Bear Goggles",
-      "Published": "2026-05-05",
-      "URL": "https://www.youtube.com/watch?v=C5Y4zGO4Gxs",
+      "Video Title": "Bitcoin: The Beauty of Mathematics (Part 70)",
+      "Published": "2026-05-07",
+      "URL": "https://www.youtube.com/watch?v=E6xmZR6HRGw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "C5Y4zGO4Gxs"
+      "VideoID": "E6xmZR6HRGw"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Megacap Recap | The Brainstorm EP 130",
-      "Published": "2026-05-06",
-      "URL": "https://www.youtube.com/watch?v=Aq09TDcnnpM",
+      "Video Title": "From Binance To Beyond: CZ Predicts Crypto’s Next Phase",
+      "Published": "2026-05-07",
+      "URL": "https://www.youtube.com/watch?v=u5L9oGtwZAU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Aq09TDcnnpM"
+      "VideoID": "u5L9oGtwZAU"
     }
   ]
 }
