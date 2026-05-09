@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-08T19:38:41.119824+00:00",
+  "last_updated": "2026-05-09T03:39:38.652038+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "AI's Brutal 5D Power Play: Crypto's New Role & The Next $Trillion Winners! 📈🤖",
-      "Published": "2026-05-07",
-      "URL": "https://www.youtube.com/watch?v=BXVjkfNFyfA",
+      "Video Title": "The Supercycle IS HERE… Just Not the One Expected ⚡",
+      "Published": "2026-05-08",
+      "URL": "https://www.youtube.com/watch?v=NKHwq51YEJ4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "BXVjkfNFyfA"
+      "VideoID": "NKHwq51YEJ4"
     },
     {
       "Name": "Coin Bureau",
@@ -37,10 +37,10 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "You Bought Bitcoin… But You’ll Still Lose (Here’s Why)",
-      "Published": "2026-05-05",
-      "URL": "https://www.youtube.com/watch?v=HVrmH_h-hLA",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "HVrmH_h-hLA"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Dream Scenario ON!",
-      "Published": "2026-05-08",
-      "URL": "https://www.youtube.com/watch?v=TggtJIGIeAM",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "TggtJIGIeAM"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
@@ -88,10 +88,10 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The Evolution of Bitcoin Mining to AI | Bitcoin 2026",
-      "Published": "2026-05-08",
-      "URL": "https://www.youtube.com/watch?v=FtMN63GkSks",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "FtMN63GkSks"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Trillion Dollar Shadow Bank Just Went Into CRISIS MODE (It's Systemic)",
-      "Published": "2026-03-26",
-      "URL": "https://www.youtube.com/watch?v=hacy1D-Bcxs",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hacy1D-Bcxs"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "From Binance To Beyond: CZ Predicts Crypto’s Next Phase",
-      "Published": "2026-05-07",
-      "URL": "https://www.youtube.com/watch?v=u5L9oGtwZAU",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "u5L9oGtwZAU"
+      "VideoID": null
     }
   ]
 }
