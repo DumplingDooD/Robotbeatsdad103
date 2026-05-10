@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T08:18:19.805710+00:00",
+  "last_updated": "2026-05-10T13:43:23.191862+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "BitMine’s Collapse: Ethereum Holders Beware",
-      "Published": "2026-05-09",
-      "URL": "https://www.youtube.com/watch?v=9sVnDqksMwE",
+      "Video Title": "Kevin Warsh Puts $200M Crypto on the Line",
+      "Published": "2026-05-10",
+      "URL": "https://www.youtube.com/watch?v=WJVVjE0CF18",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "9sVnDqksMwE"
+      "VideoID": "WJVVjE0CF18"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Have Public Markets Been a Net Positive for Bitcoin? | Bitcoin 2026",
+      "Video Title": "Why AI Agents Want Bitcoin | Bitcoin 2026",
       "Published": "2026-05-10",
-      "URL": "https://www.youtube.com/watch?v=zn1RGqWph8c",
+      "URL": "https://www.youtube.com/watch?v=ApuXgFoKkQc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "zn1RGqWph8c"
+      "VideoID": "ApuXgFoKkQc"
     },
     {
       "Name": "George Gammon",
