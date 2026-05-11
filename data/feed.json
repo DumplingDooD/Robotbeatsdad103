@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T15:27:29.025550+00:00",
+  "last_updated": "2026-05-11T19:57:04.931914+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Fed Chair’s Secret Crypto Bet Changes Everything",
-      "Published": "2026-05-10",
-      "URL": "https://www.youtube.com/watch?v=WJVVjE0CF18",
+      "Video Title": "The Real Reason Zcash (ZEC) Is Pumping",
+      "Published": "2026-05-11",
+      "URL": "https://www.youtube.com/watch?v=KCF268guYPc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "WJVVjE0CF18"
+      "VideoID": "KCF268guYPc"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Approaches an Important Level",
+      "Video Title": "Bitcoin: Comparing Cycles, What's Been Difficult...",
       "Published": "2026-05-11",
-      "URL": "https://www.youtube.com/watch?v=Ox0mi5n3Ju4",
+      "URL": "https://www.youtube.com/shorts/Li3m6eEWECA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Ox0mi5n3Ju4"
+      "VideoID": "Li3m6eEWECA"
     },
     {
       "Name": "Bitcoin Magazine",
