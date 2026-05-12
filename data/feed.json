@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T14:39:34.627933+00:00",
+  "last_updated": "2026-05-12T20:02:28.406626+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,7 +20,7 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Saylor Breaks 'Never Sell' Vow. Bitcoin Panic Begins",
+      "Video Title": "Saylor Sells Out: Bitcoin Holders Are NOT Safe",
       "Published": "2026-05-12",
       "URL": "https://www.youtube.com/watch?v=sCn-_XZmT1k",
       "Summary": "Transcript unavailable.",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "You Bought Bitcoin… But You’ll Still Lose (Here’s Why)",
-      "Published": "2026-05-05",
-      "URL": "https://www.youtube.com/watch?v=HVrmH_h-hLA",
+      "Video Title": "$114 Trillion is Moving to the Wrong Network. You Have 5 Years",
+      "Published": "2026-05-12",
+      "URL": "https://www.youtube.com/watch?v=Jzrc-pSGsMg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "HVrmH_h-hLA"
+      "VideoID": "Jzrc-pSGsMg"
     },
     {
       "Name": "CTO Larsson",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Comparing Cycles, What's Been Difficult...",
-      "Published": "2026-05-11",
-      "URL": "https://www.youtube.com/shorts/Li3m6eEWECA",
+      "Video Title": "Bitcoin's 200 Day Moving Average",
+      "Published": "2026-05-12",
+      "URL": "https://www.youtube.com/shorts/RxD-bxH6tMg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Li3m6eEWECA"
+      "VideoID": "RxD-bxH6tMg"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Heating Entrepreneurs Productizing Waste Heat | Bitcoin 2026",
+      "Video Title": "Keeping Your Cool in a World of Hot Compute | Bitcoin 2026",
       "Published": "2026-05-12",
-      "URL": "https://www.youtube.com/watch?v=tV62kDRUyJw",
+      "URL": "https://www.youtube.com/watch?v=tMf67c_1ta0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "tV62kDRUyJw"
+      "VideoID": "tMf67c_1ta0"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Bullish On Money Supply?",
-      "Published": "2026-05-11",
-      "URL": "https://www.youtube.com/shorts/ZHOCRK4kbSQ",
+      "Video Title": "Meta Might Be The Most Misunderstood Mega Cap In The Market Right Now",
+      "Published": "2026-05-12",
+      "URL": "https://www.youtube.com/shorts/BilB0TSYHUo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ZHOCRK4kbSQ"
+      "VideoID": "BilB0TSYHUo"
     }
   ]
 }
