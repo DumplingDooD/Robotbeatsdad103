@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T08:52:49.947384+00:00",
+  "last_updated": "2026-05-13T14:50:02.632739+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Saylor Sells Out: Bitcoin Holders Are NOT Safe",
-      "Published": "2026-05-12",
-      "URL": "https://www.youtube.com/watch?v=sCn-_XZmT1k",
+      "Video Title": "How Trump Nearly Tripled His Wealth with Crypto",
+      "Published": "2026-05-13",
+      "URL": "https://www.youtube.com/watch?v=xDjbpGYHz4k",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "sCn-_XZmT1k"
+      "VideoID": "xDjbpGYHz4k"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin's 200 Day Moving Average",
-      "Published": "2026-05-12",
-      "URL": "https://www.youtube.com/shorts/RxD-bxH6tMg",
+      "Video Title": "Market Returns by Political Party",
+      "Published": "2026-05-13",
+      "URL": "https://www.youtube.com/watch?v=9a-LA7tm8Mo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "RxD-bxH6tMg"
+      "VideoID": "9a-LA7tm8Mo"
     },
     {
       "Name": "Bitcoin Magazine",
