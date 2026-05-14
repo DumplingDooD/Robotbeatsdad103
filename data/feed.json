@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T08:45:52.973893+00:00",
+  "last_updated": "2026-05-14T14:29:54.295348+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "How Trump Nearly Tripled His Wealth with Crypto",
-      "Published": "2026-05-13",
-      "URL": "https://www.youtube.com/watch?v=xDjbpGYHz4k",
+      "Video Title": "Today’s Crypto Vote Could Change Everything",
+      "Published": "2026-05-14",
+      "URL": "https://www.youtube.com/watch?v=WBUKHSP3TNs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "xDjbpGYHz4k"
+      "VideoID": "WBUKHSP3TNs"
     },
     {
       "Name": "Mark Moss",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Dream Scenario ON!",
-      "Published": "2026-05-08",
-      "URL": "https://www.youtube.com/watch?v=TggtJIGIeAM",
+      "Video Title": "⁠You’re Looking at the WRONG Assets",
+      "Published": "2026-05-14",
+      "URL": "https://www.youtube.com/watch?v=3lvjyVFkx70",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "TggtJIGIeAM"
+      "VideoID": "3lvjyVFkx70"
     },
     {
       "Name": "Benjamin Cowen",
