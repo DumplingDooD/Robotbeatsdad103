@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T19:54:45.487568+00:00",
+  "last_updated": "2026-05-15T04:03:13.286107+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "There's Not A Single Negative Year Under This Political Makeup",
+      "Video Title": "Bitcoin: Dubious Speculation",
       "Published": "2026-05-14",
-      "URL": "https://www.youtube.com/shorts/zFIXrjvMGik",
+      "URL": "https://www.youtube.com/watch?v=zKHgKnv51r0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "zFIXrjvMGik"
+      "VideoID": "zKHgKnv51r0"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Can Data Centers Deliver on The AI Promise? | Bitcoin 2026",
+      "Video Title": "Outplaying the House: Beating the Banks at Their Own Game | Bitcoin 2026",
       "Published": "2026-05-14",
-      "URL": "https://www.youtube.com/watch?v=T5b-UTqwyLc",
+      "URL": "https://www.youtube.com/watch?v=qmQ-CKg339I",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "T5b-UTqwyLc"
+      "VideoID": "qmQ-CKg339I"
     },
     {
       "Name": "George Gammon",
