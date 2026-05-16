@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T19:47:10.140412+00:00",
+  "last_updated": "2026-05-16T03:45:36.672961+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Dubious Speculation",
-      "Published": "2026-05-14",
-      "URL": "https://www.youtube.com/watch?v=zKHgKnv51r0",
+      "Video Title": "Powell Steps Down as Chair of the Federal Reserve",
+      "Published": "2026-05-15",
+      "URL": "https://www.youtube.com/watch?v=FgxAe_NAh5c",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "zKHgKnv51r0"
+      "VideoID": "FgxAe_NAh5c"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The Network Effect of Bitcoin Education | Bitcoin 2026",
+      "Video Title": "Secure & Secret: Advancing Bitcoin Privacy as the Default | Bitcoin 2026",
       "Published": "2026-05-15",
-      "URL": "https://www.youtube.com/watch?v=xIXha_rPwHc",
+      "URL": "https://www.youtube.com/watch?v=AO7Nxd3pG1Y",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "xIXha_rPwHc"
+      "VideoID": "AO7Nxd3pG1Y"
     },
     {
       "Name": "George Gammon",
