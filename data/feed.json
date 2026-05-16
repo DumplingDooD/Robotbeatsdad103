@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T08:12:01.060118+00:00",
+  "last_updated": "2026-05-16T13:46:57.977819+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Secure & Secret: Advancing Bitcoin Privacy as the Default | Bitcoin 2026",
-      "Published": "2026-05-15",
-      "URL": "https://www.youtube.com/watch?v=AO7Nxd3pG1Y",
+      "Video Title": "The Banks Lose The Yield Fight: Inside The CLARITY Act Stablecoin Battle | BPH EP 37",
+      "Published": "2026-05-16",
+      "URL": "https://www.youtube.com/watch?v=G0MAYOzm4MM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "AO7Nxd3pG1Y"
+      "VideoID": "G0MAYOzm4MM"
     },
     {
       "Name": "George Gammon",
