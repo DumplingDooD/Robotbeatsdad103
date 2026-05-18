@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T15:48:03.154037+00:00",
+  "last_updated": "2026-05-18T19:53:38.851758+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The Banks Lose The Yield Fight: Inside The CLARITY Act Stablecoin Battle | BPH EP 37",
-      "Published": "2026-05-16",
-      "URL": "https://www.youtube.com/watch?v=G0MAYOzm4MM",
+      "Video Title": "Mining Stewardship: Creating Value, Jobs & Opportunities for Local Communities | Bitcoin 2026",
+      "Published": "2026-05-18",
+      "URL": "https://www.youtube.com/watch?v=z0sp1znU5Yw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "G0MAYOzm4MM"
+      "VideoID": "z0sp1znU5Yw"
     },
     {
       "Name": "George Gammon",
