@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T09:58:14.049595+00:00",
+  "last_updated": "2026-05-19T15:39:46.195445+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The Crypto Drama About to Explode in Washington",
-      "Published": "2026-05-18",
-      "URL": "https://www.youtube.com/watch?v=tmHltY2f12Q",
+      "Video Title": "Why BlackRock Thinks Bitcoin Goes to $1M",
+      "Published": "2026-05-19",
+      "URL": "https://www.youtube.com/watch?v=77Zgm1wbv2I",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "tmHltY2f12Q"
+      "VideoID": "77Zgm1wbv2I"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Upgrading Wallets for Users from Now to 2140 | Bitcoin 2026",
+      "Video Title": "DATUM: The Mining Upgrade that Pays for Itself | Bitcoin 2026",
       "Published": "2026-05-19",
-      "URL": "https://www.youtube.com/watch?v=_gh0G86uh3A",
+      "URL": "https://www.youtube.com/watch?v=qpJ4KDXNPZI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "_gh0G86uh3A"
+      "VideoID": "qpJ4KDXNPZI"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "A Humanoid Robot Broke The Human Half Marathon World Record",
-      "Published": "2026-05-14",
-      "URL": "https://www.youtube.com/shorts/qBMk8voYZ-Y",
+      "Video Title": "Anthropic + SpaceX Deal",
+      "Published": "2026-05-19",
+      "URL": "https://www.youtube.com/shorts/cHz5i9HH3mI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "qBMk8voYZ-Y"
+      "VideoID": "cHz5i9HH3mI"
     }
   ]
 }
