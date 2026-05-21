@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T09:55:03.690527+00:00",
+  "last_updated": "2026-05-21T15:42:38.043950+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Why Bitcoin Keeps FAILING at $80k",
-      "Published": "2026-05-20",
-      "URL": "https://www.youtube.com/watch?v=C59b7lGIZ7k",
+      "Video Title": "The Secret Battle Between Crypto And TradFi Is Ending",
+      "Published": "2026-05-21",
+      "URL": "https://www.youtube.com/watch?v=D15pNnf956s",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "C59b7lGIZ7k"
+      "VideoID": "D15pNnf956s"
     },
     {
       "Name": "Mark Moss",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Forget Bitcoin For Now — These Assets Look Better",
-      "Published": "2026-05-14",
-      "URL": "https://www.youtube.com/watch?v=3lvjyVFkx70",
+      "Video Title": "Learn Money",
+      "Published": "2026-05-21",
+      "URL": "https://www.youtube.com/watch?v=a7B2Jm7pMBU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,13 +67,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "3lvjyVFkx70"
+      "VideoID": "a7B2Jm7pMBU"
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Ethereum: Rejected off the Bear Market Resistance Band",
+      "Video Title": "NFA Live",
       "Published": "2026-05-21",
-      "URL": "https://www.youtube.com/watch?v=mwrgOz852wI",
+      "URL": "https://www.youtube.com/watch?v=8PQee-onXrU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "mwrgOz852wI"
+      "VideoID": "8PQee-onXrU"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The UK Is Lumping Bitcoin In With Meme Coins and NFTs",
-      "Published": "2026-05-20",
-      "URL": "https://www.youtube.com/shorts/TsQINWJPxDU",
+      "Video Title": "Senator Lummis: America Should Be Bitcoin's Global Capital",
+      "Published": "2026-05-21",
+      "URL": "https://www.youtube.com/shorts/xwHz_gayjd4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "TsQINWJPxDU"
+      "VideoID": "xwHz_gayjd4"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Hyperliquid And SpaceX Synthetic Trading | The Brainstorm EP 132",
-      "Published": "2026-05-20",
-      "URL": "https://www.youtube.com/watch?v=lh1SfZju2zM",
+      "Video Title": "Quantum Risk And Bitcoin: Preparing For A Post-Quantum World",
+      "Published": "2026-05-21",
+      "URL": "https://www.youtube.com/watch?v=rPk3q0flaPU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "lh1SfZju2zM"
+      "VideoID": "rPk3q0flaPU"
     }
   ]
 }
