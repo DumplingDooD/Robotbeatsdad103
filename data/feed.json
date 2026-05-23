@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T08:27:01.709826+00:00",
+  "last_updated": "2026-05-23T13:51:42.801305+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The Senate AI Panel That Invited the Chinese Communist Party",
-      "Published": "2026-05-22",
-      "URL": "https://www.youtube.com/shorts/tABTOqMtrNE",
+      "Video Title": "The Real AI Bottleneck Isn't Chips — It's Energy",
+      "Published": "2026-05-23",
+      "URL": "https://www.youtube.com/shorts/X_d4eWZM4Ig",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "tABTOqMtrNE"
+      "VideoID": "X_d4eWZM4Ig"
     },
     {
       "Name": "George Gammon",
