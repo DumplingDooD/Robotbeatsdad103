@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T19:25:14.583917+00:00",
+  "last_updated": "2026-05-25T04:25:25.720869+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "NFA Live",
-      "Published": "2026-05-21",
-      "URL": "https://www.youtube.com/watch?v=8PQee-onXrU",
+      "Video Title": "Bitcoin: Bear Market Resistance Band",
+      "Published": "2026-05-25",
+      "URL": "https://www.youtube.com/watch?v=dy3E7Jzte88",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "8PQee-onXrU"
+      "VideoID": "dy3E7Jzte88"
     },
     {
       "Name": "Bitcoin Magazine",
