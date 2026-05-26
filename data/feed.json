@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T10:10:06.106372+00:00",
+  "last_updated": "2026-05-26T15:56:38.411062+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Bitcoin Is Near A Break Point Nobody Sees Coming",
-      "Published": "2026-05-25",
-      "URL": "https://www.youtube.com/watch?v=cYM55xzN410",
+      "Video Title": "The Secret Battle Over the New Crypto Stock Market",
+      "Published": "2026-05-26",
+      "URL": "https://www.youtube.com/watch?v=Idlu1Ja-oFA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "cYM55xzN410"
+      "VideoID": "Idlu1Ja-oFA"
     },
     {
       "Name": "Mark Moss",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "The Real “Alt Season”",
-      "Published": "2026-05-21",
-      "URL": "https://www.youtube.com/watch?v=a7B2Jm7pMBU",
+      "Video Title": "NOW IS THE TIME",
+      "Published": "2026-05-26",
+      "URL": "https://www.youtube.com/watch?v=rFl8mD4Np-U",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "a7B2Jm7pMBU"
+      "VideoID": "rFl8mD4Np-U"
     },
     {
       "Name": "Benjamin Cowen",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Tim Draper: Not Holding Bitcoin Is Irresponsible for Families, Companies, and Countries",
-      "Published": "2026-05-25",
-      "URL": "https://www.youtube.com/shorts/FnTYkXPq2Ms",
+      "Video Title": "Saylor: The World Runs on Credit — Soon It'll Be Digital Credit",
+      "Published": "2026-05-26",
+      "URL": "https://www.youtube.com/shorts/WT6Zg8tf-5A",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "FnTYkXPq2Ms"
+      "VideoID": "WT6Zg8tf-5A"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Quantum Risk And Bitcoin: Preparing For A Post-Quantum World",
-      "Published": "2026-05-21",
-      "URL": "https://www.youtube.com/watch?v=rPk3q0flaPU",
+      "Video Title": "Big Ideas 2026: AI Infrastructure",
+      "Published": "2026-05-26",
+      "URL": "https://www.youtube.com/watch?v=JUi3CrfdcHA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "rPk3q0flaPU"
+      "VideoID": "JUi3CrfdcHA"
     }
   ]
 }
