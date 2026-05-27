@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-27T16:00:44.133689+00:00",
+  "last_updated": "2026-05-27T20:25:19.960939+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "BTC Demand Falls Off a Cliff 🚨 Tesla, SpaceX & Micron Take Over",
-      "Published": "2026-05-26",
-      "URL": "https://www.youtube.com/watch?v=BlmGKmY_-gk",
+      "Video Title": "⚠️ What’s Running Out of Steam? BTC, MU, NVDA & TSLA Trade Setups This Week",
+      "Published": "2026-05-27",
+      "URL": "https://www.youtube.com/watch?v=CjTqOkh3pdE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,11 +16,11 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "BlmGKmY_-gk"
+      "VideoID": "CjTqOkh3pdE"
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Is Bitcoin Becoming a New Religion?",
+      "Video Title": "Was Satoshi Even Human?",
       "Published": "2026-05-27",
       "URL": "https://www.youtube.com/watch?v=AiUhJfeADek",
       "Summary": "Transcript unavailable.",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin Is About Revolution, NOT Lambos",
+      "Video Title": "Tristan Thompson: \"It's Still Not Too Late for Bitcoin'\"",
       "Published": "2026-05-27",
-      "URL": "https://www.youtube.com/shorts/NlaT0clWJH0",
+      "URL": "https://www.youtube.com/shorts/-IthaOkQwKU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "NlaT0clWJH0"
+      "VideoID": "-IthaOkQwKU"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Big Ideas 2026: AI Infrastructure",
-      "Published": "2026-05-26",
-      "URL": "https://www.youtube.com/watch?v=JUi3CrfdcHA",
+      "Video Title": "SpaceX And The Historic IPO Wave",
+      "Published": "2026-05-27",
+      "URL": "https://www.youtube.com/watch?v=Z1Md0LIFx6E",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "JUi3CrfdcHA"
+      "VideoID": "Z1Md0LIFx6E"
     }
   ]
 }
