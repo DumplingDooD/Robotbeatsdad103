@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T10:07:38.218335+00:00",
+  "last_updated": "2026-05-27T16:00:44.133689+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The Secret Battle Over the New Crypto Stock Market",
-      "Published": "2026-05-26",
-      "URL": "https://www.youtube.com/watch?v=Idlu1Ja-oFA",
+      "Video Title": "Is Bitcoin Becoming a New Religion?",
+      "Published": "2026-05-27",
+      "URL": "https://www.youtube.com/watch?v=AiUhJfeADek",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Idlu1Ja-oFA"
+      "VideoID": "AiUhJfeADek"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Evidence For Why Bitcoin's 4 Year Cycle Isn't Dead",
+      "Video Title": "S&P 500: Outlook for the Rest of 2026",
       "Published": "2026-05-27",
-      "URL": "https://www.youtube.com/shorts/hCJIH37qfN8",
+      "URL": "https://www.youtube.com/watch?v=Ibh7wDgNGCE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hCJIH37qfN8"
+      "VideoID": "Ibh7wDgNGCE"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Why Tristan Thompson Treats Bitcoin Like a 401k",
+      "Video Title": "Bitcoin Is About Revolution, NOT Lambos",
       "Published": "2026-05-27",
-      "URL": "https://www.youtube.com/shorts/s0ul1KvEkPg",
+      "URL": "https://www.youtube.com/shorts/NlaT0clWJH0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "s0ul1KvEkPg"
+      "VideoID": "NlaT0clWJH0"
     },
     {
       "Name": "George Gammon",
