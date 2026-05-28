@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T10:15:44.488185+00:00",
+  "last_updated": "2026-05-28T16:15:26.960867+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Was Satoshi Even Human?",
-      "Published": "2026-05-27",
-      "URL": "https://www.youtube.com/watch?v=AiUhJfeADek",
+      "Video Title": "Why Wall Street Is Really Afraid of Hyperliquid",
+      "Published": "2026-05-28",
+      "URL": "https://www.youtube.com/watch?v=HRLzu9xdLDQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "AiUhJfeADek"
+      "VideoID": "HRLzu9xdLDQ"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Falls Below The Bear Market Resistance Band",
+      "Video Title": "NFA Live! Bitcoin in 2026",
       "Published": "2026-05-28",
-      "URL": "https://www.youtube.com/watch?v=slTIiS-Y65k",
+      "URL": "https://www.youtube.com/watch?v=Tj7mvTHDe1U",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "slTIiS-Y65k"
+      "VideoID": "Tj7mvTHDe1U"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "SpaceX IPO Story Is Bigger Than Rockets | The Brainstorm EP 133",
-      "Published": "2026-05-27",
-      "URL": "https://www.youtube.com/watch?v=B7aoVqHR8oQ",
+      "Video Title": "What Quantum Means For Bitcoin’s Future",
+      "Published": "2026-05-28",
+      "URL": "https://www.youtube.com/watch?v=304oLDxx30c",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "B7aoVqHR8oQ"
+      "VideoID": "304oLDxx30c"
     }
   ]
 }
