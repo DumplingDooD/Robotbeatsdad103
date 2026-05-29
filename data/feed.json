@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T10:05:53.819325+00:00",
+  "last_updated": "2026-05-29T15:58:04.643572+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Why Wall Street Is Really Afraid of Hyperliquid",
-      "Published": "2026-05-28",
-      "URL": "https://www.youtube.com/watch?v=HRLzu9xdLDQ",
+      "Video Title": "The Corporate Meltdown That Could Crush Bitcoin",
+      "Published": "2026-05-29",
+      "URL": "https://www.youtube.com/watch?v=3dMXzYO6kkk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "HRLzu9xdLDQ"
+      "VideoID": "3dMXzYO6kkk"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Debt Doesn't Have to Be a Bad Word with Bitcoin",
-      "Published": "2026-05-28",
-      "URL": "https://www.youtube.com/shorts/F3dPvTvZx9c",
+      "Video Title": "The Debanking Era Is Fading — Here's What's Next for Bitcoin",
+      "Published": "2026-05-29",
+      "URL": "https://www.youtube.com/shorts/6RgWpqfuQpU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "F3dPvTvZx9c"
+      "VideoID": "6RgWpqfuQpU"
     },
     {
       "Name": "George Gammon",
