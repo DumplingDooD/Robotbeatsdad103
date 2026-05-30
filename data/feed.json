@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T08:35:31.940487+00:00",
+  "last_updated": "2026-05-30T13:54:54.436366+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The Debanking Era Is Fading — Here's What's Next for Bitcoin",
-      "Published": "2026-05-29",
-      "URL": "https://www.youtube.com/shorts/6RgWpqfuQpU",
+      "Video Title": "Adam Back: Bitcoin ETFs Are the Gateway to Adoption",
+      "Published": "2026-05-30",
+      "URL": "https://www.youtube.com/shorts/PTOoAQdBZiw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "6RgWpqfuQpU"
+      "VideoID": "PTOoAQdBZiw"
     },
     {
       "Name": "George Gammon",
