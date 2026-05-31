@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T08:55:42.164152+00:00",
+  "last_updated": "2026-05-31T13:59:46.828678+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The Secret Fight To Keep Crypto Out",
-      "Published": "2026-05-30",
-      "URL": "https://www.youtube.com/watch?v=UFe6yDFRkvA",
+      "Video Title": "The Dark Side of Tokenized Startup Shares",
+      "Published": "2026-05-31",
+      "URL": "https://www.youtube.com/watch?v=eiso4UTsyKM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "UFe6yDFRkvA"
+      "VideoID": "eiso4UTsyKM"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The 3.8M Bitcoin Lawsuit Could Set a Dangerous Precedent | BPH Ep 39",
-      "Published": "2026-05-30",
-      "URL": "https://www.youtube.com/watch?v=mSeC3WOq7JI",
+      "Video Title": "STRC Is Growing Like Wildfire",
+      "Published": "2026-05-31",
+      "URL": "https://www.youtube.com/shorts/YFLYN654NDA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "mSeC3WOq7JI"
+      "VideoID": "YFLYN654NDA"
     },
     {
       "Name": "George Gammon",
