@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T04:58:26.486281+00:00",
+  "last_updated": "2026-06-01T11:48:27.451667+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Asymmetric Tail Curvature in Bitcoin Price Quantiles",
-      "Published": "2026-05-30",
-      "URL": "https://www.youtube.com/watch?v=uFn3KUE-VTI",
+      "Video Title": "Bitcoin Closes Below the Bear Market Resistance Band",
+      "Published": "2026-06-01",
+      "URL": "https://www.youtube.com/watch?v=1pAlH-EAm04",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "uFn3KUE-VTI"
+      "VideoID": "1pAlH-EAm04"
     },
     {
       "Name": "Bitcoin Magazine",
