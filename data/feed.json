@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T17:55:00.893627+00:00",
+  "last_updated": "2026-06-01T21:40:07.181678+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "STRC Is Growing Like Wildfire",
-      "Published": "2026-05-31",
-      "URL": "https://www.youtube.com/shorts/YFLYN654NDA",
+      "Video Title": "Jeremy Rubin on Char: The Infrastructure Bet Underneath Every Bitcoin L2",
+      "Published": "2026-06-01",
+      "URL": "https://www.youtube.com/watch?v=OygF8WKnMg8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "YFLYN654NDA"
+      "VideoID": "OygF8WKnMg8"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "What Quantum Means For Bitcoin’s Future",
-      "Published": "2026-05-28",
-      "URL": "https://www.youtube.com/watch?v=304oLDxx30c",
+      "Video Title": "SpaceX And The Historic IPO Wave",
+      "Published": "2026-06-01",
+      "URL": "https://www.youtube.com/watch?v=Lw04baYeu6A",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "304oLDxx30c"
+      "VideoID": "Lw04baYeu6A"
     }
   ]
 }
