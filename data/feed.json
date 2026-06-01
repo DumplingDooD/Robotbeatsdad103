@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T11:48:27.451667+00:00",
+  "last_updated": "2026-06-01T17:55:00.893627+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The Dark Side of Tokenized Startup Shares",
-      "Published": "2026-05-31",
-      "URL": "https://www.youtube.com/watch?v=eiso4UTsyKM",
+      "Video Title": "Why JPMorgan Fears Crypto More Than Ever",
+      "Published": "2026-06-01",
+      "URL": "https://www.youtube.com/watch?v=xQLwEusHCmc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "eiso4UTsyKM"
+      "VideoID": "xQLwEusHCmc"
     },
     {
       "Name": "Mark Moss",
