@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T10:47:11.221752+00:00",
+  "last_updated": "2026-06-02T16:46:17.903053+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Why JPMorgan Fears Crypto More Than Ever",
-      "Published": "2026-06-01",
-      "URL": "https://www.youtube.com/watch?v=xQLwEusHCmc",
+      "Video Title": "The Billion Dollar Plan To Save Ethereum",
+      "Published": "2026-06-02",
+      "URL": "https://www.youtube.com/watch?v=U0qHKPoSqHs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "xQLwEusHCmc"
+      "VideoID": "U0qHKPoSqHs"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Closes Below the Bear Market Resistance Band",
-      "Published": "2026-06-01",
-      "URL": "https://www.youtube.com/watch?v=1pAlH-EAm04",
+      "Video Title": "If I Had To Guess What's Likely To Happen",
+      "Published": "2026-06-02",
+      "URL": "https://www.youtube.com/shorts/LcAgFngQUMo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "1pAlH-EAm04"
+      "VideoID": "LcAgFngQUMo"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "There's a Massive AI Adoption Gap for Businesses Right Now",
-      "Published": "2026-06-02",
-      "URL": "https://www.youtube.com/shorts/ysQBuF-n25I",
+      "Video Title": "Oslo Freedom Forum 2026 | Freedom Tech Track Livestream",
+      "Published": "2026-06-01",
+      "URL": "https://www.youtube.com/watch?v=Q-7xMYnMXfc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ysQBuF-n25I"
+      "VideoID": "Q-7xMYnMXfc"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "SpaceX And The Historic IPO Wave",
-      "Published": "2026-06-01",
-      "URL": "https://www.youtube.com/watch?v=Lw04baYeu6A",
+      "Video Title": "Your SpaceX IPO Questions, Answered",
+      "Published": "2026-06-02",
+      "URL": "https://www.youtube.com/watch?v=4kxByplIlrI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Lw04baYeu6A"
+      "VideoID": "4kxByplIlrI"
     }
   ]
 }
