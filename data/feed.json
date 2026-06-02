@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T16:46:17.903053+00:00",
+  "last_updated": "2026-06-02T21:16:58.047099+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The U.S. is About to Buy 5% of All Bitcoin Without Spending a Dollar",
-      "Published": "2026-05-29",
-      "URL": "https://www.youtube.com/watch?v=MLu7gmh1nfw",
+      "Video Title": "LEAKED: Trump's 10-Year Plan to Reset the Dollar",
+      "Published": "2026-06-02",
+      "URL": "https://www.youtube.com/watch?v=uCKyprwz77U",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "MLu7gmh1nfw"
+      "VideoID": "uCKyprwz77U"
     },
     {
       "Name": "CTO Larsson",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "If I Had To Guess What's Likely To Happen",
+      "Video Title": "Bitcoin: A Date with Destiny",
       "Published": "2026-06-02",
-      "URL": "https://www.youtube.com/shorts/LcAgFngQUMo",
+      "URL": "https://www.youtube.com/watch?v=icDF_qFXATM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "LcAgFngQUMo"
+      "VideoID": "icDF_qFXATM"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Oslo Freedom Forum 2026 | Freedom Tech Track Livestream",
-      "Published": "2026-06-01",
-      "URL": "https://www.youtube.com/watch?v=Q-7xMYnMXfc",
+      "Video Title": "Ben Cowen: Why the BTC Bear Market Isn't Over & the Case for a Q4 Bottom | BMP Ep 11",
+      "Published": "2026-06-02",
+      "URL": "https://www.youtube.com/watch?v=-ZGzOPhJgnQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Q-7xMYnMXfc"
+      "VideoID": "-ZGzOPhJgnQ"
     },
     {
       "Name": "George Gammon",
