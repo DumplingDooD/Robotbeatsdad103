@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-01T21:40:07.181678+00:00",
+  "last_updated": "2026-06-02T04:44:59.299701+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "$2T Flywheel, Stacking Strategy 🚀 Avoid the IPO Trap!🚨 are ALTS Dead? 💀",
-      "Published": "2026-05-30",
-      "URL": "https://www.youtube.com/watch?v=UY1CeiYBqG0",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "UY1CeiYBqG0"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
@@ -37,10 +37,10 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The U.S. is About to Buy 5% of All Bitcoin Without Spending a Dollar",
-      "Published": "2026-05-29",
-      "URL": "https://www.youtube.com/watch?v=MLu7gmh1nfw",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "MLu7gmh1nfw"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "NOW IS THE TIME",
-      "Published": "2026-05-26",
-      "URL": "https://www.youtube.com/watch?v=rFl8mD4Np-U",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "rFl8mD4Np-U"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Closes Below the Bear Market Resistance Band",
-      "Published": "2026-06-01",
-      "URL": "https://www.youtube.com/watch?v=1pAlH-EAm04",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "1pAlH-EAm04"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Jeremy Rubin on Char: The Infrastructure Bet Underneath Every Bitcoin L2",
-      "Published": "2026-06-01",
-      "URL": "https://www.youtube.com/watch?v=OygF8WKnMg8",
+      "Video Title": "The Lawsuit That Could Declare Your Dormant Bitcoin \"Lost Property\"",
+      "Published": "2026-06-02",
+      "URL": "https://www.youtube.com/shorts/JEApq9KZoZs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "OygF8WKnMg8"
+      "VideoID": "JEApq9KZoZs"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Trillion Dollar Shadow Bank Just Went Into CRISIS MODE (It's Systemic)",
-      "Published": "2026-03-26",
-      "URL": "https://www.youtube.com/watch?v=hacy1D-Bcxs",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hacy1D-Bcxs"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "SpaceX And The Historic IPO Wave",
-      "Published": "2026-06-01",
-      "URL": "https://www.youtube.com/watch?v=Lw04baYeu6A",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Lw04baYeu6A"
+      "VideoID": null
     }
   ]
 }
