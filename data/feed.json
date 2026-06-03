@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T17:02:34.960479+00:00",
+  "last_updated": "2026-06-03T21:23:19.643986+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Phong Le: STRC Won't Stop at a Million Bitcoin",
+      "Video Title": "The Bears Sound Smart, But The Bulls Make Money",
       "Published": "2026-06-03",
-      "URL": "https://www.youtube.com/shorts/yWrKp9cuwGg",
+      "URL": "https://www.youtube.com/shorts/Mh49al5A360",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "yWrKp9cuwGg"
+      "VideoID": "Mh49al5A360"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Your SpaceX IPO Questions, Answered",
-      "Published": "2026-06-02",
-      "URL": "https://www.youtube.com/watch?v=4kxByplIlrI",
+      "Video Title": "Satoshi's Coins: Burn Or Leave?",
+      "Published": "2026-06-03",
+      "URL": "https://www.youtube.com/shorts/fYpSNFWg-PE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "4kxByplIlrI"
+      "VideoID": "fYpSNFWg-PE"
     }
   ]
 }
