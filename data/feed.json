@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T10:06:00.862559+00:00",
+  "last_updated": "2026-06-04T15:31:02.926892+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Michael Saylor Sold! Bitcoin Continues the Collapse",
-      "Published": "2026-06-03",
-      "URL": "https://www.youtube.com/watch?v=vRohP7AeVAA",
+      "Video Title": "Inside the Secret Crypto Deals Shielded by Trump Officials",
+      "Published": "2026-06-04",
+      "URL": "https://www.youtube.com/watch?v=RHKOVOSAIMo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "vRohP7AeVAA"
+      "VideoID": "RHKOVOSAIMo"
     },
     {
       "Name": "Mark Moss",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "NOW IS THE TIME",
-      "Published": "2026-05-26",
-      "URL": "https://www.youtube.com/watch?v=rFl8mD4Np-U",
+      "Video Title": "What Now?",
+      "Published": "2026-06-04",
+      "URL": "https://www.youtube.com/watch?v=D5Snj1R23qA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,13 +67,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "rFl8mD4Np-U"
+      "VideoID": "D5Snj1R23qA"
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Cliff Dwellers",
+      "Video Title": "NFA Live! Bitcoin in 2026",
       "Published": "2026-06-04",
-      "URL": "https://www.youtube.com/watch?v=QMn7cm4nfYU",
+      "URL": "https://www.youtube.com/watch?v=G_UgtpMwOKM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "QMn7cm4nfYU"
+      "VideoID": "G_UgtpMwOKM"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "SpaceX And Blue Origin’s ‘Boom’ | The Brainstorm EP 134",
-      "Published": "2026-06-03",
-      "URL": "https://www.youtube.com/watch?v=5awG2VZt0KY",
+      "Video Title": "SpaceX And The Historic IPO Wave",
+      "Published": "2026-06-04",
+      "URL": "https://www.youtube.com/watch?v=NEx1_Nfv_MQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "5awG2VZt0KY"
+      "VideoID": "NEx1_Nfv_MQ"
     }
   ]
 }
