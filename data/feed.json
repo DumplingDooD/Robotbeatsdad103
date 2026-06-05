@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T10:03:27.345479+00:00",
+  "last_updated": "2026-06-05T15:18:57.234292+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Trump Is Purging Crypto Regulators",
-      "Published": "2026-06-04",
-      "URL": "https://www.youtube.com/watch?v=RHKOVOSAIMo",
+      "Video Title": "Crypto Feels Dead... But This Is When Fortunes Are Made",
+      "Published": "2026-06-05",
+      "URL": "https://www.youtube.com/watch?v=1vPLdLWps5Y",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "RHKOVOSAIMo"
+      "VideoID": "1vPLdLWps5Y"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Falls to the 200W Moving Average",
+      "Video Title": "Bitcoin Cliff Dwellers",
       "Published": "2026-06-05",
-      "URL": "https://www.youtube.com/watch?v=ulDJeCNJo3Y",
+      "URL": "https://www.youtube.com/watch?v=aUXzkmscdAI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ulDJeCNJo3Y"
+      "VideoID": "aUXzkmscdAI"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The US Can't Be a Global Empire AND Hold the World's Debt",
+      "Video Title": "The Hidden Agenda Behind US Stablecoins",
       "Published": "2026-06-05",
-      "URL": "https://www.youtube.com/shorts/WA0QHUEbiG8",
+      "URL": "https://www.youtube.com/shorts/EKlFh85Lt5Y",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "WA0QHUEbiG8"
+      "VideoID": "EKlFh85Lt5Y"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "A Full Year Without Aging? Bryan Johnson On Biological Age",
-      "Published": "2026-06-04",
-      "URL": "https://www.youtube.com/shorts/zsincwmzJ1c",
+      "Video Title": "$700 Billion In Data Centers: What's The Return?",
+      "Published": "2026-06-05",
+      "URL": "https://www.youtube.com/shorts/Hyb49TCmdaw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "zsincwmzJ1c"
+      "VideoID": "Hyb49TCmdaw"
     }
   ]
 }
