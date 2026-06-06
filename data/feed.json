@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T08:41:59.867842+00:00",
+  "last_updated": "2026-06-06T13:58:23.972519+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "This Is Just a Normal Bitcoin Bear Cycle",
+      "Video Title": "The US Not Having a Bitcoin Wallet Is a Policy Blunder",
       "Published": "2026-06-06",
-      "URL": "https://www.youtube.com/shorts/DbtHSb3263s",
+      "URL": "https://www.youtube.com/shorts/75GkXY6IYzg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "DbtHSb3263s"
+      "VideoID": "75GkXY6IYzg"
     },
     {
       "Name": "George Gammon",
