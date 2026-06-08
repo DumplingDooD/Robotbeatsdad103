@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T11:10:04.535573+00:00",
+  "last_updated": "2026-06-08T16:07:21.048678+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Ethereum’s Future Just Took a Sharp Turn",
-      "Published": "2026-06-07",
-      "URL": "https://www.youtube.com/watch?v=HAAhbq_lefc",
+      "Video Title": "The ZEC Exploit That Changes EVERYTHING",
+      "Published": "2026-06-08",
+      "URL": "https://www.youtube.com/watch?v=LmoD4bpnYS0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "HAAhbq_lefc"
+      "VideoID": "LmoD4bpnYS0"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Booming Jobs Report, Plummeting Market: What's Going On? | ITK With Cathie Wood",
-      "Published": "2026-06-05",
-      "URL": "https://www.youtube.com/watch?v=Z2M8sxjxxgE",
+      "Video Title": "Are The Pre-IPO Valuations Too High? Cathie Wood Answers On Fox Business",
+      "Published": "2026-06-08",
+      "URL": "https://www.youtube.com/shorts/yWcyBe6wmOc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Z2M8sxjxxgE"
+      "VideoID": "yWcyBe6wmOc"
     }
   ]
 }
