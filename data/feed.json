@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T19:41:48.084628+00:00",
+  "last_updated": "2026-06-08T04:46:56.264249+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Enters the 3rd Stage of the Bear Market",
-      "Published": "2026-06-07",
-      "URL": "https://www.youtube.com/watch?v=gkDqbvMnMHI",
+      "Video Title": "Bitcoin: Dubious Speculation",
+      "Published": "2026-06-08",
+      "URL": "https://www.youtube.com/watch?v=SG3tuA8zqs8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "gkDqbvMnMHI"
+      "VideoID": "SG3tuA8zqs8"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "If We Don't Protect Peer-to-Peer Cash Now, We Will Lose It Forever",
-      "Published": "2026-06-07",
-      "URL": "https://www.youtube.com/shorts/MqVji9g0zcg",
+      "Video Title": "Every Asset Will Bleed Back to the King",
+      "Published": "2026-06-08",
+      "URL": "https://www.youtube.com/shorts/p9GtSLJbB9I",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "MqVji9g0zcg"
+      "VideoID": "p9GtSLJbB9I"
     },
     {
       "Name": "George Gammon",
