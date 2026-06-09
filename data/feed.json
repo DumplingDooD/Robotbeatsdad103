@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T09:56:19.647365+00:00",
+  "last_updated": "2026-06-09T15:19:10.232040+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The ZEC Exploit That Changes EVERYTHING",
-      "Published": "2026-06-08",
-      "URL": "https://www.youtube.com/watch?v=LmoD4bpnYS0",
+      "Video Title": "Are Big Banks Taking Over Crypto?",
+      "Published": "2026-06-09",
+      "URL": "https://www.youtube.com/watch?v=reWyTMo8C9I",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "LmoD4bpnYS0"
+      "VideoID": "reWyTMo8C9I"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "What Phong Le Would Tell Apple",
-      "Published": "2026-06-08",
-      "URL": "https://www.youtube.com/shorts/Vm6IENtxOPM",
+      "Video Title": "Why Adam Back Isn't Worried About Quantum Computing Destroying Bitcoin | Bitcoin Backstage",
+      "Published": "2026-06-09",
+      "URL": "https://www.youtube.com/watch?v=Fhpw8C69Ocs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Vm6IENtxOPM"
+      "VideoID": "Fhpw8C69Ocs"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Are The Pre-IPO Valuations Too High? Cathie Wood Answers On Fox Business",
-      "Published": "2026-06-08",
-      "URL": "https://www.youtube.com/shorts/yWcyBe6wmOc",
+      "Video Title": "Big Ideas 2026: Tokenized Assets",
+      "Published": "2026-06-09",
+      "URL": "https://www.youtube.com/watch?v=Qvwc3xwn2vs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "yWcyBe6wmOc"
+      "VideoID": "Qvwc3xwn2vs"
     }
   ]
 }
