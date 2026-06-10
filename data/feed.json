@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T10:14:14.942603+00:00",
+  "last_updated": "2026-06-10T15:53:26.604938+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Are Big Banks Taking Over Crypto?",
-      "Published": "2026-06-09",
-      "URL": "https://www.youtube.com/watch?v=reWyTMo8C9I",
+      "Video Title": "The Clarity Act is in Trouble.",
+      "Published": "2026-06-10",
+      "URL": "https://www.youtube.com/watch?v=F8GJE2FmaoY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "reWyTMo8C9I"
+      "VideoID": "F8GJE2FmaoY"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Why Adam Back Isn't Worried About Quantum Computing Destroying Bitcoin | Bitcoin Backstage",
-      "Published": "2026-06-09",
-      "URL": "https://www.youtube.com/watch?v=Fhpw8C69Ocs",
+      "Video Title": "\"The Fiat System Has Terminal Cancer\" - Digital Credit is the Answer | BMP w/ Matt Cole Ep 12",
+      "Published": "2026-06-10",
+      "URL": "https://www.youtube.com/watch?v=B91GCQ0JwpI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Fhpw8C69Ocs"
+      "VideoID": "B91GCQ0JwpI"
     },
     {
       "Name": "George Gammon",
