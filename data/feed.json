@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T10:49:15.574486+00:00",
+  "last_updated": "2026-06-11T16:14:14.132545+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The Clarity Act is in Trouble.",
-      "Published": "2026-06-10",
-      "URL": "https://www.youtube.com/watch?v=F8GJE2FmaoY",
+      "Video Title": "How to Research Crypto Like a Pro in 2026",
+      "Published": "2026-06-11",
+      "URL": "https://www.youtube.com/watch?v=JbnZ4AzZ2ik",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "F8GJE2FmaoY"
+      "VideoID": "JbnZ4AzZ2ik"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The 60/40 Portfolio is Dead — Here's What Replaces It",
+      "Video Title": "Adam Back On Why We'll Never Know Who Satoshi Really Is",
       "Published": "2026-06-11",
-      "URL": "https://www.youtube.com/shorts/QlORoUQztmA",
+      "URL": "https://www.youtube.com/shorts/ljOb2eJQRUs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "QlORoUQztmA"
+      "VideoID": "ljOb2eJQRUs"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Apple WWDC, Siri AI, And SpaceX Data Centers | The Brainstorm EP 135",
-      "Published": "2026-06-10",
-      "URL": "https://www.youtube.com/watch?v=hc6JGYC5Zcg",
+      "Video Title": "The Number That Kills The Inflation Narrative",
+      "Published": "2026-06-11",
+      "URL": "https://www.youtube.com/shorts/vmLy-tIbZFc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hc6JGYC5Zcg"
+      "VideoID": "vmLy-tIbZFc"
     }
   ]
 }
