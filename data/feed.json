@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T20:29:04.838052+00:00",
+  "last_updated": "2026-06-12T04:45:20.778868+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,7 +37,7 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The Fed Buried The Last 3 Crashes. The Next One Can't Be.",
+      "Video Title": "The Last 3 Crashes All Had An Exit. This One Doesn't.",
       "Published": "2026-06-11",
       "URL": "https://www.youtube.com/watch?v=g0YV9hVN3Mg",
       "Summary": "Transcript unavailable.",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: The Cost Basis of the Network",
-      "Published": "2026-06-11",
-      "URL": "https://www.youtube.com/watch?v=R9vEpIpyj2s",
+      "Video Title": "Bitcoin: Using On-Chain Metrics To Identify Market Cycle Bottoms",
+      "Published": "2026-06-12",
+      "URL": "https://www.youtube.com/watch?v=Di8YR9nX8Q8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "R9vEpIpyj2s"
+      "VideoID": "Di8YR9nX8Q8"
     },
     {
       "Name": "Bitcoin Magazine",
