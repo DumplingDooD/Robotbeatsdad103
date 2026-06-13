@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T14:14:44.502728+00:00",
+  "last_updated": "2026-06-13T19:45:30.577159+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The SpaceX IPO Proves Bitcoin Is the Market's Smoke Alarm",
-      "Published": "2026-06-12",
-      "URL": "https://www.youtube.com/shorts/RBsIObLcINc",
+      "Video Title": "How the CLARITY Act Will Accelerate Bitcoin Adoption",
+      "Published": "2026-06-13",
+      "URL": "https://www.youtube.com/shorts/5EKRbBaCrcc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "RBsIObLcINc"
+      "VideoID": "5EKRbBaCrcc"
     },
     {
       "Name": "George Gammon",
