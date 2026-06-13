@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T20:19:40.598979+00:00",
+  "last_updated": "2026-06-13T04:24:04.751403+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin Flips the Script: Retail Knows More Than Institutions",
-      "Published": "2026-06-11",
-      "URL": "https://www.youtube.com/shorts/oHB-SeyGBJ8",
+      "Video Title": "The SpaceX IPO Proves Bitcoin Is the Market's Smoke Alarm",
+      "Published": "2026-06-12",
+      "URL": "https://www.youtube.com/shorts/RBsIObLcINc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "oHB-SeyGBJ8"
+      "VideoID": "RBsIObLcINc"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "$5T In Private Value, Created From Nothing",
-      "Published": "2026-06-11",
-      "URL": "https://www.youtube.com/shorts/rPFLop94H3A",
+      "Video Title": "Cathie Wood Doesn't See A Tech And Telecom Bubble And Bust",
+      "Published": "2026-06-12",
+      "URL": "https://www.youtube.com/shorts/dh5ohmlJ634",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "rPFLop94H3A"
+      "VideoID": "dh5ohmlJ634"
     }
   ]
 }
