@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T05:07:42.977218+00:00",
+  "last_updated": "2026-06-15T12:31:38.324992+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "A Million Dollar Warning for Bitcoin",
-      "Published": "2026-06-14",
-      "URL": "https://www.youtube.com/shorts/JVNSTy__yhQ",
+      "Video Title": "Michael Saylor: The Only Credit Instrument That Beats the S&P 500",
+      "Published": "2026-06-15",
+      "URL": "https://www.youtube.com/shorts/IG25xAc14oM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "JVNSTy__yhQ"
+      "VideoID": "IG25xAc14oM"
     },
     {
       "Name": "George Gammon",
