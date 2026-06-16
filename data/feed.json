@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T11:24:37.064735+00:00",
+  "last_updated": "2026-06-16T17:08:49.211239+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Why Big Money Is Rushing Into Hyperliquid",
-      "Published": "2026-06-15",
-      "URL": "https://www.youtube.com/watch?v=Kqk8nAfI-O0",
+      "Video Title": "The AI Exploit That Could Destroy DeFi",
+      "Published": "2026-06-16",
+      "URL": "https://www.youtube.com/watch?v=04tT68HWa8g",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Kqk8nAfI-O0"
+      "VideoID": "04tT68HWa8g"
     },
     {
       "Name": "Mark Moss",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "What Now?",
-      "Published": "2026-06-04",
-      "URL": "https://www.youtube.com/watch?v=D5Snj1R23qA",
+      "Video Title": "Big Move from Here!!",
+      "Published": "2026-06-16",
+      "URL": "https://www.youtube.com/watch?v=0KGhPXPhFz8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,13 +67,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "D5Snj1R23qA"
+      "VideoID": "0KGhPXPhFz8"
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "I Think The Worst Thing A Person Can Do Is",
+      "Video Title": "The SpaceX IPO",
       "Published": "2026-06-16",
-      "URL": "https://www.youtube.com/shorts/vTcABO_0Exg",
+      "URL": "https://www.youtube.com/watch?v=gFiKyyPXMFo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "vTcABO_0Exg"
+      "VideoID": "gFiKyyPXMFo"
     },
     {
       "Name": "Bitcoin Magazine",
