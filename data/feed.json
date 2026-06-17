@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T15:52:41.875670+00:00",
+  "last_updated": "2026-06-17T20:22:38.075636+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -54,10 +54,10 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: HTTPSConnectionPool(host='www.youtube.com', port=443): Read timed out. (read timeout=20)",
+      "Video Title": "Big Move from Here!!",
+      "Published": "2026-06-16",
+      "URL": "https://www.youtube.com/watch?v=0KGhPXPhFz8",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "0KGhPXPhFz8"
     },
     {
       "Name": "Benjamin Cowen",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Spotlight Series Ep. 2: Rep. Nick Begich",
+      "Video Title": "Kenny Florian: Why a UFC Fighter Bet Early on Bitcoin",
       "Published": "2026-06-17",
-      "URL": "https://www.youtube.com/watch?v=WhqzyNIShlA",
+      "URL": "https://www.youtube.com/shorts/5aknyxJCv7A",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "WhqzyNIShlA"
+      "VideoID": "5aknyxJCv7A"
     },
     {
       "Name": "George Gammon",
