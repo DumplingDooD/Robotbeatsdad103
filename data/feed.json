@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T11:08:37.833639+00:00",
+  "last_updated": "2026-06-17T15:52:41.875670+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The AI Exploit That Could Destroy DeFi",
-      "Published": "2026-06-16",
-      "URL": "https://www.youtube.com/watch?v=04tT68HWa8g",
+      "Video Title": "Justin Sun Is Going After Trump",
+      "Published": "2026-06-17",
+      "URL": "https://www.youtube.com/watch?v=jFdThHQlPio",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "04tT68HWa8g"
+      "VideoID": "jFdThHQlPio"
     },
     {
       "Name": "Mark Moss",
@@ -54,10 +54,10 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Big Move from Here!!",
-      "Published": "2026-06-16",
-      "URL": "https://www.youtube.com/watch?v=0KGhPXPhFz8",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: HTTPSConnectionPool(host='www.youtube.com', port=443): Read timed out. (read timeout=20)",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "0KGhPXPhFz8"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Most People Don't Realize How Broken the Financial System Is",
+      "Video Title": "Spotlight Series Ep. 2: Rep. Nick Begich",
       "Published": "2026-06-17",
-      "URL": "https://www.youtube.com/shorts/wwotAT-ug2M",
+      "URL": "https://www.youtube.com/watch?v=WhqzyNIShlA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "wwotAT-ug2M"
+      "VideoID": "WhqzyNIShlA"
     },
     {
       "Name": "George Gammon",
