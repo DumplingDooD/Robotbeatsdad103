@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T10:40:02.547695+00:00",
+  "last_updated": "2026-06-18T15:40:43.185233+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Justin Sun Is Going After Trump",
-      "Published": "2026-06-17",
-      "URL": "https://www.youtube.com/watch?v=jFdThHQlPio",
+      "Video Title": "Europe Is About to Cut Its Crypto Industry by 90%",
+      "Published": "2026-06-18",
+      "URL": "https://www.youtube.com/watch?v=oc8hc9MAKaI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "jFdThHQlPio"
+      "VideoID": "oc8hc9MAKaI"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Kevin Warsh's First FOMC as Fed Chair",
+      "Video Title": "NFA Live! Bitcoin, AI, FOMC, SpaceX, World Cup",
       "Published": "2026-06-18",
-      "URL": "https://www.youtube.com/watch?v=zKPohkQdq_Q",
+      "URL": "https://www.youtube.com/watch?v=xutthOFM_RA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "zKPohkQdq_Q"
+      "VideoID": "xutthOFM_RA"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "\"What Insulin Is to a Diabetic, Bitcoin Is to an African\"",
+      "Video Title": "Bitcoin Hasn't Even Grown Up Yet",
       "Published": "2026-06-18",
-      "URL": "https://www.youtube.com/shorts/eqmIj5Mzfxc",
+      "URL": "https://www.youtube.com/shorts/wCQIzLhCQHw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "eqmIj5Mzfxc"
+      "VideoID": "wCQIzLhCQHw"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "askARK Why Has Bitcoin Been Transitioning From Primarily Retail To Institutional Ownership?",
-      "Published": "2026-06-17",
-      "URL": "https://www.youtube.com/shorts/SWKk0L2CpCY",
+      "Video Title": "Betting On The Unconventional With Draper Associates’ Andy Tang",
+      "Published": "2026-06-18",
+      "URL": "https://www.youtube.com/watch?v=CZeQbypPrm8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "SWKk0L2CpCY"
+      "VideoID": "CZeQbypPrm8"
     }
   ]
 }
