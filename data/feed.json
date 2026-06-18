@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T04:44:18.490620+00:00",
+  "last_updated": "2026-06-18T10:40:02.547695+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,10 +20,10 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
+      "Video Title": "Justin Sun Is Going After Trump",
+      "Published": "2026-06-17",
+      "URL": "https://www.youtube.com/watch?v=jFdThHQlPio",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "jFdThHQlPio"
     },
     {
       "Name": "Mark Moss",
@@ -54,43 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
-      "Sentiment": "🟣 Unknown",
-      "KeyPoints": [],
-      "Entities": {
-        "tickers": [],
-        "macro": [],
-        "actions": [],
-        "levels": []
-      },
-      "TranscriptNote": "",
-      "VideoID": null
-    },
-    {
-      "Name": "Benjamin Cowen",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
-      "Sentiment": "🟣 Unknown",
-      "KeyPoints": [],
-      "Entities": {
-        "tickers": [],
-        "macro": [],
-        "actions": [],
-        "levels": []
-      },
-      "TranscriptNote": "",
-      "VideoID": null
-    },
-    {
-      "Name": "Bitcoin Magazine",
-      "Video Title": "How Bitcoin-Backed Loans Are Transforming Real Businesses in Africa",
-      "Published": "2026-06-18",
-      "URL": "https://www.youtube.com/shorts/8dR8T2bzYFk",
+      "Video Title": "Big Move from Here!!",
+      "Published": "2026-06-16",
+      "URL": "https://www.youtube.com/watch?v=0KGhPXPhFz8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,14 +67,48 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "8dR8T2bzYFk"
+      "VideoID": "0KGhPXPhFz8"
+    },
+    {
+      "Name": "Benjamin Cowen",
+      "Video Title": "Kevin Warsh's First FOMC as Fed Chair",
+      "Published": "2026-06-18",
+      "URL": "https://www.youtube.com/watch?v=zKPohkQdq_Q",
+      "Summary": "Transcript unavailable.",
+      "Sentiment": "🟣 Unknown",
+      "KeyPoints": [],
+      "Entities": {
+        "tickers": [],
+        "macro": [],
+        "actions": [],
+        "levels": []
+      },
+      "TranscriptNote": "",
+      "VideoID": "zKPohkQdq_Q"
+    },
+    {
+      "Name": "Bitcoin Magazine",
+      "Video Title": "\"What Insulin Is to a Diabetic, Bitcoin Is to an African\"",
+      "Published": "2026-06-18",
+      "URL": "https://www.youtube.com/shorts/eqmIj5Mzfxc",
+      "Summary": "Transcript unavailable.",
+      "Sentiment": "🟣 Unknown",
+      "KeyPoints": [],
+      "Entities": {
+        "tickers": [],
+        "macro": [],
+        "actions": [],
+        "levels": []
+      },
+      "TranscriptNote": "",
+      "VideoID": "eqmIj5Mzfxc"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
+      "Video Title": "SpaceX, Iran, OpenAI IPO...Here's My Controversial Stock Strategy For 2026",
+      "Published": "2026-06-18",
+      "URL": "https://www.youtube.com/watch?v=QxR6yvf8ueU",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "QxR6yvf8ueU"
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
+      "Video Title": "askARK Why Has Bitcoin Been Transitioning From Primarily Retail To Institutional Ownership?",
+      "Published": "2026-06-17",
+      "URL": "https://www.youtube.com/shorts/SWKk0L2CpCY",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "SWKk0L2CpCY"
     }
   ]
 }
