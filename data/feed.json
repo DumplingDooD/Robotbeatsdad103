@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-06-17T20:22:38.075636+00:00",
+  "last_updated": "2026-06-18T04:44:18.490620+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "🚨  EVERYBODY BOUGHT THE DIP!  🟠",
-      "Published": "2026-06-15",
-      "URL": "https://www.youtube.com/watch?v=OAunugIo61Q",
+      "Video Title": "The Great HODL: Extreme Fear, Tokenized Stocks & AI Replacing Apps 😱",
+      "Published": "2026-06-17",
+      "URL": "https://www.youtube.com/watch?v=3OiqCCpBDhU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "OAunugIo61Q"
+      "VideoID": "3OiqCCpBDhU"
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Justin Sun Is Going After Trump",
-      "Published": "2026-06-17",
-      "URL": "https://www.youtube.com/watch?v=jFdThHQlPio",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "jFdThHQlPio"
+      "VideoID": null
     },
     {
       "Name": "Mark Moss",
@@ -54,10 +54,10 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Big Move from Here!!",
-      "Published": "2026-06-16",
-      "URL": "https://www.youtube.com/watch?v=0KGhPXPhFz8",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "0KGhPXPhFz8"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "The SpaceX IPO",
-      "Published": "2026-06-16",
-      "URL": "https://www.youtube.com/watch?v=gFiKyyPXMFo",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "gFiKyyPXMFo"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Kenny Florian: Why a UFC Fighter Bet Early on Bitcoin",
-      "Published": "2026-06-17",
-      "URL": "https://www.youtube.com/shorts/5aknyxJCv7A",
+      "Video Title": "How Bitcoin-Backed Loans Are Transforming Real Businesses in Africa",
+      "Published": "2026-06-18",
+      "URL": "https://www.youtube.com/shorts/8dR8T2bzYFk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "5aknyxJCv7A"
+      "VideoID": "8dR8T2bzYFk"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Trillion Dollar Shadow Bank Just Went Into CRISIS MODE (It's Systemic)",
-      "Published": "2026-03-26",
-      "URL": "https://www.youtube.com/watch?v=hacy1D-Bcxs",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hacy1D-Bcxs"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Cathie Wood Wishes She Had Started ARK Earlier",
-      "Published": "2026-06-16",
-      "URL": "https://www.youtube.com/shorts/GZZp9E872_8",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "GZZp9E872_8"
+      "VideoID": null
     }
   ]
 }
