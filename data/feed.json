@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T05:03:52.719477+00:00",
+  "last_updated": "2026-06-19T10:48:34.457799+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "NFA Live! Bitcoin, AI, FOMC, SpaceX, World Cup",
-      "Published": "2026-06-18",
-      "URL": "https://www.youtube.com/watch?v=xutthOFM_RA",
+      "Video Title": "Bitcoin Social Risk",
+      "Published": "2026-06-19",
+      "URL": "https://www.youtube.com/watch?v=gAf6tPzkcgg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "xutthOFM_RA"
+      "VideoID": "gAf6tPzkcgg"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The Real Bitcoin Thesis Is Playing Out in Africa First",
-      "Published": "2026-06-18",
-      "URL": "https://www.youtube.com/shorts/HXPiPiHU6Q8",
+      "Video Title": "Adam Back: Cypherpunks Knew They Needed Free Market Capitalists",
+      "Published": "2026-06-19",
+      "URL": "https://www.youtube.com/shorts/qKdF-RUrzis",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "HXPiPiHU6Q8"
+      "VideoID": "qKdF-RUrzis"
     },
     {
       "Name": "George Gammon",
