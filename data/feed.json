@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T20:33:40.316131+00:00",
+  "last_updated": "2026-06-19T05:03:52.719477+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,7 +37,7 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "STRC's Bitcoin Yield Has “Crashed” 4 Times, Here’s What’s Next",
+      "Video Title": "STRC's Bitcoin Yield Just Crashed For The 4th Time, But Now It’s Different",
       "Published": "2026-06-18",
       "URL": "https://www.youtube.com/watch?v=ZAZCkZ87aTU",
       "Summary": "Transcript unavailable.",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Cathie Wood On The 2022 Rate Hike “Mistake”",
+      "Video Title": "SpaceX IPO, Anthropic Fable 5, And Roku | The Brainstorm EP 136",
       "Published": "2026-06-18",
-      "URL": "https://www.youtube.com/shorts/nCt0jy4vQIo",
+      "URL": "https://www.youtube.com/watch?v=fRav7Mln28A",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "nCt0jy4vQIo"
+      "VideoID": "fRav7Mln28A"
     }
   ]
 }
