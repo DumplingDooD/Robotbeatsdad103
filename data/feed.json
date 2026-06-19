@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T10:48:34.457799+00:00",
+  "last_updated": "2026-06-19T15:33:35.147240+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Adam Back: Cypherpunks Knew They Needed Free Market Capitalists",
+      "Video Title": "Uncensorable Chat With No Phone Number, No Accounts—BitChat Explained",
       "Published": "2026-06-19",
-      "URL": "https://www.youtube.com/shorts/qKdF-RUrzis",
+      "URL": "https://www.youtube.com/shorts/fMIQF0X-bNc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "qKdF-RUrzis"
+      "VideoID": "fMIQF0X-bNc"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "SpaceX IPO, Anthropic Fable 5, And Roku | The Brainstorm EP 136",
-      "Published": "2026-06-18",
-      "URL": "https://www.youtube.com/watch?v=fRav7Mln28A",
+      "Video Title": "What If Your Cancer Drug Was Made Just For You?",
+      "Published": "2026-06-19",
+      "URL": "https://www.youtube.com/shorts/uPh02zk5EF4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "fRav7Mln28A"
+      "VideoID": "uPh02zk5EF4"
     }
   ]
 }
