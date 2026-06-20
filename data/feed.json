@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T14:19:07.747655+00:00",
+  "last_updated": "2026-06-20T19:46:18.907686+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "What If Your Cancer Drug Was Made Just For You?",
-      "Published": "2026-06-19",
-      "URL": "https://www.youtube.com/shorts/uPh02zk5EF4",
+      "Video Title": "The Robotaxi Got A Ticket",
+      "Published": "2026-06-20",
+      "URL": "https://www.youtube.com/shorts/t0j9oTDoZLU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "uPh02zk5EF4"
+      "VideoID": "t0j9oTDoZLU"
     }
   ]
 }
