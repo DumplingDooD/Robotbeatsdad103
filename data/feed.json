@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T19:46:18.907686+00:00",
+  "last_updated": "2026-06-21T05:00:43.413375+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Social Risk",
-      "Published": "2026-06-19",
-      "URL": "https://www.youtube.com/watch?v=gAf6tPzkcgg",
+      "Video Title": "Bitcoin: MVRV Z-Score",
+      "Published": "2026-06-21",
+      "URL": "https://www.youtube.com/watch?v=hXlR5xu0HK4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "gAf6tPzkcgg"
+      "VideoID": "hXlR5xu0HK4"
     },
     {
       "Name": "Bitcoin Magazine",
