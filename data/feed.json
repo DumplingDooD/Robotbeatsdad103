@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T05:08:30.361738+00:00",
+  "last_updated": "2026-06-22T12:17:36.912210+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "One Of The Ways To Get People To Care Again",
-      "Published": "2026-06-21",
-      "URL": "https://www.youtube.com/shorts/5feBKA1-w-Q",
+      "Video Title": "Bitcoin: Bear Market Resistance Band",
+      "Published": "2026-06-22",
+      "URL": "https://www.youtube.com/watch?v=d71wYhwKpFY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "5feBKA1-w-Q"
+      "VideoID": "d71wYhwKpFY"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "The Robotaxi Got A Ticket",
-      "Published": "2026-06-20",
-      "URL": "https://www.youtube.com/shorts/t0j9oTDoZLU",
+      "Video Title": "Big Ideas 2026: Distributed Energy",
+      "Published": "2026-06-22",
+      "URL": "https://www.youtube.com/watch?v=AaU5of9xYaA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "t0j9oTDoZLU"
+      "VideoID": "AaU5of9xYaA"
     }
   ]
 }
