@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T09:55:52.705276+00:00",
+  "last_updated": "2026-06-23T15:15:22.342124+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Is Solana DEAD? Watch This NOW!",
-      "Published": "2026-06-22",
-      "URL": "https://www.youtube.com/watch?v=mBlhy3XIiQw",
+      "Video Title": "Crypto Markets Will Go Crazy! US Perps Are Here",
+      "Published": "2026-06-23",
+      "URL": "https://www.youtube.com/watch?v=pbeF_NwVBMk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "mBlhy3XIiQw"
+      "VideoID": "pbeF_NwVBMk"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Downside Inflation Surprise?",
-      "Published": "2026-06-22",
-      "URL": "https://www.youtube.com/shorts/t_KsI8S3fNc",
+      "Video Title": "The Uber Moment For Robotaxis",
+      "Published": "2026-06-23",
+      "URL": "https://www.youtube.com/shorts/Btx0GVZL7fM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "t_KsI8S3fNc"
+      "VideoID": "Btx0GVZL7fM"
     }
   ]
 }
