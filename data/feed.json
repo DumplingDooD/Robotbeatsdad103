@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-23T20:14:18.691064+00:00",
+  "last_updated": "2026-06-24T04:09:12.471739+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "What Assets to Own for Next 30 Years 🚨 Why BTC Ignores Fed & is MSTR a \"Buy\"📈",
-      "Published": "2026-06-22",
-      "URL": "https://www.youtube.com/watch?v=ox1Tt2HBjRk",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ox1Tt2HBjRk"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
@@ -54,10 +54,10 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Big Move from Here!!",
-      "Published": "2026-06-16",
-      "URL": "https://www.youtube.com/watch?v=0KGhPXPhFz8",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,13 +67,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "0KGhPXPhFz8"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Bear Market Resistance Band",
-      "Published": "2026-06-22",
-      "URL": "https://www.youtube.com/watch?v=d71wYhwKpFY",
+      "Video Title": "It Never Went Below That Low, And That's Been 16 Years Ago",
+      "Published": "2026-06-24",
+      "URL": "https://www.youtube.com/shorts/L5XGhGQFISs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "d71wYhwKpFY"
+      "VideoID": "L5XGhGQFISs"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Saylor Reveals the 100-Year-Old Tax Loophole That's Now Your Advantage",
-      "Published": "2026-06-21",
-      "URL": "https://www.youtube.com/shorts/qfyembILmhc",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "qfyembILmhc"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "You Won't Believe What Just Happened To Interest Rates (New Fed Changed Everything)",
-      "Published": "2026-06-20",
-      "URL": "https://www.youtube.com/watch?v=8QKGzMIhuh0",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "8QKGzMIhuh0"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "The Uber Moment For Robotaxis",
-      "Published": "2026-06-23",
-      "URL": "https://www.youtube.com/shorts/Btx0GVZL7fM",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Btx0GVZL7fM"
+      "VideoID": null
     }
   ]
 }
