@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T09:34:40.514234+00:00",
+  "last_updated": "2026-06-25T14:45:14.908013+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Is It Too Late to Buy Bitcoin?",
-      "Published": "2026-06-24",
-      "URL": "https://www.youtube.com/watch?v=8j3DotIC0ss",
+      "Video Title": "Only Crypto Can Save AI.",
+      "Published": "2026-06-25",
+      "URL": "https://www.youtube.com/watch?v=TcKHJKvtbho",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "8j3DotIC0ss"
+      "VideoID": "TcKHJKvtbho"
     },
     {
       "Name": "Mark Moss",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Big Move from Here!!",
-      "Published": "2026-06-16",
-      "URL": "https://www.youtube.com/watch?v=0KGhPXPhFz8",
+      "Video Title": "Just when you’re about to quit",
+      "Published": "2026-06-25",
+      "URL": "https://www.youtube.com/watch?v=F6ooPTOVJD0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,13 +67,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "0KGhPXPhFz8"
+      "VideoID": "F6ooPTOVJD0"
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: A Path to the Bottom",
-      "Published": "2026-06-24",
-      "URL": "https://www.youtube.com/watch?v=OjfITR_jrmQ",
+      "Video Title": "NFA Live! Where the Next Bull Run is Hiding",
+      "Published": "2026-06-25",
+      "URL": "https://www.youtube.com/watch?v=5nIhiijBQt4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "OjfITR_jrmQ"
+      "VideoID": "5nIhiijBQt4"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Senator Lummis: Why the CLARITY Act Could Keep America the World Center for Digital Assets",
+      "Video Title": "Senator Lummis: \"I Want to Be Known as a Spark\" for Bitcoin in America",
       "Published": "2026-06-25",
-      "URL": "https://www.youtube.com/shorts/u1G6pqXLZWg",
+      "URL": "https://www.youtube.com/shorts/TMAK38ILZ_Q",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "u1G6pqXLZWg"
+      "VideoID": "TMAK38ILZ_Q"
     },
     {
       "Name": "George Gammon",
