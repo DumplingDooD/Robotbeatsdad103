@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T11:13:34.364309+00:00",
+  "last_updated": "2026-06-29T15:58:40.446340+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "BlackRock Wants To BEAT Michael Saylor",
-      "Published": "2026-06-28",
-      "URL": "https://www.youtube.com/watch?v=ndt2OukXjZ4",
+      "Video Title": "Bitcoin's New Low: When Will It Stop?",
+      "Published": "2026-06-29",
+      "URL": "https://www.youtube.com/watch?v=olws5D4RRZA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ndt2OukXjZ4"
+      "VideoID": "olws5D4RRZA"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Robotaxi x Real Estate",
-      "Published": "2026-06-26",
-      "URL": "https://www.youtube.com/shorts/82SjtW7oMkU",
+      "Video Title": "Meet The Team - Destiny Miranda",
+      "Published": "2026-06-29",
+      "URL": "https://www.youtube.com/shorts/jPQythRjrzg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "82SjtW7oMkU"
+      "VideoID": "jPQythRjrzg"
     }
   ]
 }
