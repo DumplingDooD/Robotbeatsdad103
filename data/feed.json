@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T09:24:56.866758+00:00",
+  "last_updated": "2026-07-02T14:19:05.482453+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Half of Europe's Crypto Just Vanished!",
-      "Published": "2026-07-01",
-      "URL": "https://www.youtube.com/watch?v=8jEhdLmoM8k",
+      "Video Title": "Can the CLARITY Act Still Save Crypto",
+      "Published": "2026-07-02",
+      "URL": "https://www.youtube.com/watch?v=uyY2DeIT3hs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "8jEhdLmoM8k"
+      "VideoID": "uyY2DeIT3hs"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Simulation Confirmed",
-      "Published": "2026-07-01",
-      "URL": "https://www.youtube.com/watch?v=8TmOvGK235I",
+      "Video Title": "NFA Live! Bitcoin Hit a New Low",
+      "Published": "2026-07-02",
+      "URL": "https://www.youtube.com/watch?v=oj2n8nkTTTE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "8TmOvGK235I"
+      "VideoID": "oj2n8nkTTTE"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "River Is the Reason to Finally Delete Your Bank Account",
+      "Video Title": "The Secret to Surviving as a Bitcoin Company? Holding Cash",
       "Published": "2026-07-02",
-      "URL": "https://www.youtube.com/shorts/27MrJVlhVos",
+      "URL": "https://www.youtube.com/shorts/DeTstftoxQ4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "27MrJVlhVos"
+      "VideoID": "DeTstftoxQ4"
     },
     {
       "Name": "George Gammon",
