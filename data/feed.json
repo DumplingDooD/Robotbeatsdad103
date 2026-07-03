@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T03:53:06.802736+00:00",
+  "last_updated": "2026-07-03T09:29:00.687679+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "NFA Live! Bitcoin Hit a New Low",
-      "Published": "2026-07-02",
-      "URL": "https://www.youtube.com/watch?v=oj2n8nkTTTE",
+      "Video Title": "Bitcoin: The Beauty of Mathematics (Part 71)",
+      "Published": "2026-07-03",
+      "URL": "https://www.youtube.com/watch?v=uoF9yzXHmt4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "oj2n8nkTTTE"
+      "VideoID": "uoF9yzXHmt4"
     },
     {
       "Name": "Bitcoin Magazine",
