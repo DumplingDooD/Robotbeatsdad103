@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T19:41:33.362211+00:00",
+  "last_updated": "2026-07-03T03:53:06.802736+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Building in the Bear Market Is How You Win the Next Bull",
+      "Video Title": "The Bitcoin-Backed Stablecoin That Ditches US Treasuries w/ David Seroy",
       "Published": "2026-07-02",
-      "URL": "https://www.youtube.com/shorts/F_XK4ikR1IE",
+      "URL": "https://www.youtube.com/watch?v=FGq4QaAnuMo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "F_XK4ikR1IE"
+      "VideoID": "FGq4QaAnuMo"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Sneak Peek - In The Know With Cathie Wood",
+      "Video Title": "This Jobs Report Screams Recession. Why We Disagree | ITK With Cathie Wood",
       "Published": "2026-07-02",
-      "URL": "https://www.youtube.com/watch?v=DMkXwCiFH80",
+      "URL": "https://www.youtube.com/watch?v=V5W2rJ2fi3A",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "DMkXwCiFH80"
+      "VideoID": "V5W2rJ2fi3A"
     }
   ]
 }
