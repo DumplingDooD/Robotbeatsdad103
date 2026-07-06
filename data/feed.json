@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T10:51:31.218305+00:00",
+  "last_updated": "2026-07-06T15:48:21.264039+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Why Ethereum Keeps Losing Its Best Builders",
-      "Published": "2026-07-05",
-      "URL": "https://www.youtube.com/watch?v=2uhB5n639x0",
+      "Video Title": "Wall Street is Turning ETFs Into BTC Buying Machines",
+      "Published": "2026-07-06",
+      "URL": "https://www.youtube.com/watch?v=jlWgyiF9Rn8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "2uhB5n639x0"
+      "VideoID": "jlWgyiF9Rn8"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "This Jobs Report Screams Recession. Why We Disagree | ITK With Cathie Wood",
-      "Published": "2026-07-02",
-      "URL": "https://www.youtube.com/watch?v=V5W2rJ2fi3A",
+      "Video Title": "Autonomous Logistics 3 Takeaways | Big Ideas 2026",
+      "Published": "2026-07-06",
+      "URL": "https://www.youtube.com/shorts/5MB7xobFURY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "V5W2rJ2fi3A"
+      "VideoID": "5MB7xobFURY"
     }
   ]
 }
