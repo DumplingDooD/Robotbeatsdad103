@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T14:51:39.784073+00:00",
+  "last_updated": "2026-07-07T20:05:23.791428+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Ryan Long Explains HIs Trading Strategy: Buy High, Sell Low, Repeat",
+      "Video Title": "Ryan Long Fact Checks His Own Bitcoin Take... and Loses",
       "Published": "2026-07-07",
-      "URL": "https://www.youtube.com/shorts/0Uxqr1hdJ_E",
+      "URL": "https://www.youtube.com/shorts/iVwfl9FhF54",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "0Uxqr1hdJ_E"
+      "VideoID": "iVwfl9FhF54"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "The SpaceX Lockup Detail You May Be Missing",
-      "Published": "2026-07-06",
-      "URL": "https://www.youtube.com/shorts/JFV3hiSrwgs",
+      "Video Title": "Apple's Raising Prices. Who's To Blame?",
+      "Published": "2026-07-07",
+      "URL": "https://www.youtube.com/shorts/dot-nkgzaxQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "JFV3hiSrwgs"
+      "VideoID": "dot-nkgzaxQ"
     }
   ]
 }
