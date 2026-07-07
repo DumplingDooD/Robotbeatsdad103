@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T09:53:23.488876+00:00",
+  "last_updated": "2026-07-07T14:51:39.784073+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Wall Street is Turning ETFs Into BTC Buying Machines",
-      "Published": "2026-07-06",
-      "URL": "https://www.youtube.com/watch?v=jlWgyiF9Rn8",
+      "Video Title": "Andrew Tate is The WORST Trader Ever",
+      "Published": "2026-07-07",
+      "URL": "https://www.youtube.com/watch?v=twsDPkNouzM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "jlWgyiF9Rn8"
+      "VideoID": "twsDPkNouzM"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: The Four Year Cycle Strikes Again",
-      "Published": "2026-07-06",
-      "URL": "https://www.youtube.com/watch?v=sy6AxBbgico",
+      "Video Title": "Bitcoin Deja Vu",
+      "Published": "2026-07-07",
+      "URL": "https://www.youtube.com/shorts/rxekpAAHwRs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "sy6AxBbgico"
+      "VideoID": "rxekpAAHwRs"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Ryan Long Still Doesn't Understand MicroStrategy",
-      "Published": "2026-07-06",
-      "URL": "https://www.youtube.com/shorts/FQYfUKjNgaU",
+      "Video Title": "Ryan Long Explains HIs Trading Strategy: Buy High, Sell Low, Repeat",
+      "Published": "2026-07-07",
+      "URL": "https://www.youtube.com/shorts/0Uxqr1hdJ_E",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "FQYfUKjNgaU"
+      "VideoID": "0Uxqr1hdJ_E"
     },
     {
       "Name": "George Gammon",
