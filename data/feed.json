@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T14:29:42.179416+00:00",
+  "last_updated": "2026-07-08T19:43:58.662179+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Ryan Long Fact Checks His Own Bitcoin Take... and Loses",
-      "Published": "2026-07-07",
-      "URL": "https://www.youtube.com/shorts/iVwfl9FhF54",
+      "Video Title": "\"Bitcoin Is the Hurdle Rate\": How Strive Stacked 14,000 BTC w/ Matt Cole | Bitcoin Backstage",
+      "Published": "2026-07-08",
+      "URL": "https://www.youtube.com/watch?v=kFNho9-es3I",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "iVwfl9FhF54"
+      "VideoID": "kFNho9-es3I"
     },
     {
       "Name": "George Gammon",
