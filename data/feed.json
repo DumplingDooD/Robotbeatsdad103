@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T08:38:28.306934+00:00",
+  "last_updated": "2026-07-08T14:29:42.179416+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Andrew Tate is The WORST Trader Ever",
-      "Published": "2026-07-07",
-      "URL": "https://www.youtube.com/watch?v=twsDPkNouzM",
+      "Video Title": "Blackrock is Taking Over Crypto",
+      "Published": "2026-07-08",
+      "URL": "https://www.youtube.com/watch?v=5IbPJ52qwKU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "twsDPkNouzM"
+      "VideoID": "5IbPJ52qwKU"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Deja Vu",
-      "Published": "2026-07-07",
-      "URL": "https://www.youtube.com/shorts/rxekpAAHwRs",
+      "Video Title": "Bitcoin: Brief Window of Strength",
+      "Published": "2026-07-08",
+      "URL": "https://www.youtube.com/watch?v=n9yTkx3r904",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "rxekpAAHwRs"
+      "VideoID": "n9yTkx3r904"
     },
     {
       "Name": "Bitcoin Magazine",
