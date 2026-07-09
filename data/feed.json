@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-09T03:55:06.284547+00:00",
+  "last_updated": "2026-07-09T09:56:13.209213+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
+      "Video Title": "TA MASTERCLASS: Any REAL Trades Left in the Summer Slump? 📉🔥",
+      "Published": "2026-07-08",
+      "URL": "https://www.youtube.com/watch?v=clOw1C1C4po",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "clOw1C1C4po"
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
+      "Video Title": "Blackrock is Taking Over Crypto",
+      "Published": "2026-07-08",
+      "URL": "https://www.youtube.com/watch?v=5IbPJ52qwKU",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "5IbPJ52qwKU"
     },
     {
       "Name": "Mark Moss",
@@ -71,10 +71,10 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
+      "Video Title": "Bitcoin: Brief Window of Strength",
+      "Published": "2026-07-08",
+      "URL": "https://www.youtube.com/watch?v=n9yTkx3r904",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "n9yTkx3r904"
     },
     {
       "Name": "Bitcoin Magazine",
