@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-08T19:43:58.662179+00:00",
+  "last_updated": "2026-07-09T03:55:06.284547+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "🔥Global Liquidity Pump + Dump all at the same time + Record Fast Dip Buying 📈",
-      "Published": "2026-07-07",
-      "URL": "https://www.youtube.com/watch?v=yNBdpQAcWuc",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "yNBdpQAcWuc"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Blackrock is Taking Over Crypto",
-      "Published": "2026-07-08",
-      "URL": "https://www.youtube.com/watch?v=5IbPJ52qwKU",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "5IbPJ52qwKU"
+      "VideoID": null
     },
     {
       "Name": "Mark Moss",
@@ -71,10 +71,10 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Brief Window of Strength",
-      "Published": "2026-07-08",
-      "URL": "https://www.youtube.com/watch?v=n9yTkx3r904",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "n9yTkx3r904"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "\"Bitcoin Is the Hurdle Rate\": How Strive Stacked 14,000 BTC w/ Matt Cole | Bitcoin Backstage",
+      "Video Title": "The Fed Is Laundering Money THROUGH Wall Street",
       "Published": "2026-07-08",
-      "URL": "https://www.youtube.com/watch?v=kFNho9-es3I",
+      "URL": "https://www.youtube.com/shorts/hz7XOycJTyQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,13 +101,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "kFNho9-es3I"
+      "VideoID": "hz7XOycJTyQ"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Are We On The Brink Of Another Financial Crisis? (Answer Will Surprise You)",
-      "Published": "2026-07-04",
-      "URL": "https://www.youtube.com/watch?v=5GkdhYhW2-c",
+      "Video Title": "This Multi Trillion Dollar Bubble May Have Just Broken The Economy",
+      "Published": "2026-07-09",
+      "URL": "https://www.youtube.com/watch?v=Ca0X4O2t9Mo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -118,13 +118,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "5GkdhYhW2-c"
+      "VideoID": "Ca0X4O2t9Mo"
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "SpaceX's AI Master Plan",
-      "Published": "2026-07-07",
-      "URL": "https://www.youtube.com/watch?v=4CX9304WooA",
+      "Video Title": "Did Tesla Just Release The “Perfect\" Car? | The Brainstorm 139",
+      "Published": "2026-07-08",
+      "URL": "https://www.youtube.com/watch?v=6KR2rU55DIM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "4CX9304WooA"
+      "VideoID": "6KR2rU55DIM"
     }
   ]
 }
