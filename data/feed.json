@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T09:56:13.209213+00:00",
+  "last_updated": "2026-07-09T15:24:57.043493+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Blackrock is Taking Over Crypto",
-      "Published": "2026-07-08",
-      "URL": "https://www.youtube.com/watch?v=5IbPJ52qwKU",
+      "Video Title": "The TRUTH About The New Dollar",
+      "Published": "2026-07-09",
+      "URL": "https://www.youtube.com/watch?v=MnEJ9vmyeg8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "5IbPJ52qwKU"
+      "VideoID": "MnEJ9vmyeg8"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Brief Window of Strength",
-      "Published": "2026-07-08",
-      "URL": "https://www.youtube.com/watch?v=n9yTkx3r904",
+      "Video Title": "NFA Live! Bitcoin, World Cup (Not Football Advice)",
+      "Published": "2026-07-09",
+      "URL": "https://www.youtube.com/watch?v=OgvqZ2BiHZw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "n9yTkx3r904"
+      "VideoID": "OgvqZ2BiHZw"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The Fed Is Laundering Money THROUGH Wall Street",
-      "Published": "2026-07-08",
-      "URL": "https://www.youtube.com/shorts/hz7XOycJTyQ",
+      "Video Title": "Bitcoin Is the Hurdle Rate That Breaks Every Business Model",
+      "Published": "2026-07-09",
+      "URL": "https://www.youtube.com/shorts/rfmweAOtwj4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hz7XOycJTyQ"
+      "VideoID": "rfmweAOtwj4"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Did Tesla Just Release The “Perfect\" Car? | The Brainstorm 139",
-      "Published": "2026-07-08",
-      "URL": "https://www.youtube.com/watch?v=6KR2rU55DIM",
+      "Video Title": "Advanced Micro Devices (AMD): ARK's Stock Stories",
+      "Published": "2026-07-09",
+      "URL": "https://www.youtube.com/watch?v=gJYT51uRikc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "6KR2rU55DIM"
+      "VideoID": "gJYT51uRikc"
     }
   ]
 }
