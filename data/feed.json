@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T14:42:32.583939+00:00",
+  "last_updated": "2026-07-10T19:42:16.450526+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "NFA Live! Bitcoin, World Cup (Not Football Advice)",
-      "Published": "2026-07-09",
-      "URL": "https://www.youtube.com/watch?v=OgvqZ2BiHZw",
+      "Video Title": "Bitcoin: Dubious Speculation",
+      "Published": "2026-07-10",
+      "URL": "https://www.youtube.com/watch?v=sigSZCnSa6M",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "OgvqZ2BiHZw"
+      "VideoID": "sigSZCnSa6M"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "How \"Financial Professionals\" Destroyed Silicon Valley Bank With One Trade",
+      "Video Title": "Why Bank Failures Will NEVER Stop",
       "Published": "2026-07-10",
-      "URL": "https://www.youtube.com/shorts/mUeVu1FA4Rs",
+      "URL": "https://www.youtube.com/shorts/CTH54PWEPAs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "mUeVu1FA4Rs"
+      "VideoID": "CTH54PWEPAs"
     },
     {
       "Name": "George Gammon",
