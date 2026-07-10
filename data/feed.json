@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T09:47:07.262862+00:00",
+  "last_updated": "2026-07-10T14:42:32.583939+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "BitGo CEO: Bitcoin Will Be Quantum-Resistant Before It Matters",
-      "Published": "2026-07-09",
-      "URL": "https://www.youtube.com/shorts/UqlJ36r0YHM",
+      "Video Title": "How \"Financial Professionals\" Destroyed Silicon Valley Bank With One Trade",
+      "Published": "2026-07-10",
+      "URL": "https://www.youtube.com/shorts/mUeVu1FA4Rs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "UqlJ36r0YHM"
+      "VideoID": "mUeVu1FA4Rs"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Advanced Micro Devices (AMD): ARK's Stock Stories",
-      "Published": "2026-07-09",
-      "URL": "https://www.youtube.com/watch?v=gJYT51uRikc",
+      "Video Title": "Cathie Wood On Why Deflation Is Coming",
+      "Published": "2026-07-10",
+      "URL": "https://www.youtube.com/shorts/S8-5m0vCysU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "gJYT51uRikc"
+      "VideoID": "S8-5m0vCysU"
     }
   ]
 }
