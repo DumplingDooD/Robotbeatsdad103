@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T13:41:18.162292+00:00",
+  "last_updated": "2026-07-11T19:13:44.308661+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The TRUTH About The New Dollar",
-      "Published": "2026-07-09",
-      "URL": "https://www.youtube.com/watch?v=MnEJ9vmyeg8",
+      "Video Title": "Why BIG BANKS Are Betting On Chainlink",
+      "Published": "2026-07-11",
+      "URL": "https://www.youtube.com/watch?v=LDda79aVd-E",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "MnEJ9vmyeg8"
+      "VideoID": "LDda79aVd-E"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Cathie Wood On Why Deflation Is Coming",
-      "Published": "2026-07-10",
-      "URL": "https://www.youtube.com/shorts/S8-5m0vCysU",
+      "Video Title": "Why Space Players Are Locking Up Communications Assets",
+      "Published": "2026-07-11",
+      "URL": "https://www.youtube.com/shorts/V896Ce134vM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "S8-5m0vCysU"
+      "VideoID": "V896Ce134vM"
     }
   ]
 }
