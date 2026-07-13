@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T14:49:43.840159+00:00",
+  "last_updated": "2026-07-13T19:38:10.388255+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Why Space Players Are Locking Up Communications Assets",
-      "Published": "2026-07-11",
-      "URL": "https://www.youtube.com/shorts/V896Ce134vM",
+      "Video Title": "Meet The Team - Ovid Amadi, PhD",
+      "Published": "2026-07-13",
+      "URL": "https://www.youtube.com/shorts/luABGsSt55w",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "V896Ce134vM"
+      "VideoID": "luABGsSt55w"
     }
   ]
 }
