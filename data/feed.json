@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T13:59:37.083320+00:00",
+  "last_updated": "2026-07-14T19:35:39.997928+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "China Is Quietly Winning the AI Race",
-      "Published": "2026-07-13",
-      "URL": "https://www.youtube.com/watch?v=inPu89p-Xdo",
+      "Video Title": "Jamie Dimon Wants To Kill Stablecoins",
+      "Published": "2026-07-14",
+      "URL": "https://www.youtube.com/watch?v=5Ko-KXICQHs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "inPu89p-Xdo"
+      "VideoID": "5Ko-KXICQHs"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Understanding This Bitcoin Bear Market",
+      "Video Title": "Rich and Wrong vs  Poor and Right - Ego's Price",
       "Published": "2026-07-14",
-      "URL": "https://www.youtube.com/watch?v=Wf7vUIoGQrE",
+      "URL": "https://www.youtube.com/shorts/zyPPtwewGaQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Wf7vUIoGQrE"
+      "VideoID": "zyPPtwewGaQ"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Meet The Team - Ovid Amadi, PhD",
-      "Published": "2026-07-13",
-      "URL": "https://www.youtube.com/shorts/luABGsSt55w",
+      "Video Title": "Why AI Adopters Are Hiring More, Not Less",
+      "Published": "2026-07-14",
+      "URL": "https://www.youtube.com/shorts/0LF6iWX7sVo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "luABGsSt55w"
+      "VideoID": "0LF6iWX7sVo"
     }
   ]
 }
