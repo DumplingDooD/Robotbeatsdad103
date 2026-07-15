@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-14T19:35:39.997928+00:00",
+  "last_updated": "2026-07-15T02:55:41.416219+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "61 Days of Chop Left? 📉 Why Smart Money is Buying the $60K Floor 💰",
-      "Published": "2026-07-13",
-      "URL": "https://www.youtube.com/watch?v=4UJuXaWqs1g",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "4UJuXaWqs1g"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Jamie Dimon Wants To Kill Stablecoins",
-      "Published": "2026-07-14",
-      "URL": "https://www.youtube.com/watch?v=5Ko-KXICQHs",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,14 +33,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "5Ko-KXICQHs"
+      "VideoID": null
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The Middle Class Is the New Poor (Here's the Way Out)",
-      "Published": "2026-07-03",
-      "URL": "https://www.youtube.com/watch?v=hy0cNCsY290",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hy0cNCsY290"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "JUST WHEN YOU'RE ABOUT TO QUIT!",
-      "Published": "2026-06-25",
-      "URL": "https://www.youtube.com/watch?v=F6ooPTOVJD0",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "F6ooPTOVJD0"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Rich and Wrong vs  Poor and Right - Ego's Price",
-      "Published": "2026-07-14",
-      "URL": "https://www.youtube.com/shorts/zyPPtwewGaQ",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "zyPPtwewGaQ"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Why Bank Failures Will NEVER Stop",
-      "Published": "2026-07-10",
-      "URL": "https://www.youtube.com/shorts/CTH54PWEPAs",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "CTH54PWEPAs"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "The Next Subprime Crisis Was Just Triggered...And It's Bigger Than 2008",
-      "Published": "2026-07-11",
-      "URL": "https://www.youtube.com/watch?v=42cunoNk_HA",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "42cunoNk_HA"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Why AI Adopters Are Hiring More, Not Less",
-      "Published": "2026-07-14",
-      "URL": "https://www.youtube.com/shorts/0LF6iWX7sVo",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "0LF6iWX7sVo"
+      "VideoID": null
     }
   ]
 }
