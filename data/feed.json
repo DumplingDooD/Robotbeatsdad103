@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T08:24:16.257490+00:00",
+  "last_updated": "2026-07-16T14:08:27.510160+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "What Is The Best AI Model In 2026? | The Brainstorm 140",
-      "Published": "2026-07-15",
-      "URL": "https://www.youtube.com/watch?v=FUdfXNEFmNA",
+      "Video Title": "How Businesses Can Gamify Loyalty With Lucra's Dylan Robbins",
+      "Published": "2026-07-16",
+      "URL": "https://www.youtube.com/watch?v=Lw5WDTdjblA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "FUdfXNEFmNA"
+      "VideoID": "Lw5WDTdjblA"
     }
   ]
 }
