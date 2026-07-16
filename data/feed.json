@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-15T19:21:28.808701+00:00",
+  "last_updated": "2026-07-16T03:17:59.432939+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "The Floors, The Shift and the AI Future📈",
-      "Published": "2026-07-15",
-      "URL": "https://www.youtube.com/watch?v=2ADT4lol1sY",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "2ADT4lol1sY"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
@@ -54,10 +54,10 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "JUST WHEN YOU'RE ABOUT TO QUIT!",
-      "Published": "2026-06-25",
-      "URL": "https://www.youtube.com/watch?v=F6ooPTOVJD0",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "F6ooPTOVJD0"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Inflation and Bitcoin",
-      "Published": "2026-07-15",
-      "URL": "https://www.youtube.com/watch?v=rWfLRMiyQVY",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "rWfLRMiyQVY"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Why Tech Bros and Big Companies Are BOTH Wrong About AI",
-      "Published": "2026-07-15",
-      "URL": "https://www.youtube.com/shorts/pNYt8hLlalk",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,13 +101,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "pNYt8hLlalk"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "The Next Subprime Crisis Was Just Triggered...And It's Bigger Than 2008",
-      "Published": "2026-07-11",
-      "URL": "https://www.youtube.com/watch?v=42cunoNk_HA",
+      "Video Title": "It's Official, The AI Bubble Just Popped (Here's Why)",
+      "Published": "2026-07-16",
+      "URL": "https://www.youtube.com/watch?v=paLy21TVecw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "42cunoNk_HA"
+      "VideoID": "paLy21TVecw"
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Rocket Lab's $8 Billion Iridium Acquisition Explained",
-      "Published": "2026-07-14",
-      "URL": "https://www.youtube.com/shorts/870nR-3-Sh4",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "870nR-3-Sh4"
+      "VideoID": null
     }
   ]
 }
