@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T14:08:27.510160+00:00",
+  "last_updated": "2026-07-16T19:21:52.742682+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "WARNING! These Crypto Mistakes Could Cost You Everything",
-      "Published": "2026-07-15",
-      "URL": "https://www.youtube.com/watch?v=Z6j-eOB8pZk",
+      "Video Title": "The EU's Plan To Kill DeFi",
+      "Published": "2026-07-16",
+      "URL": "https://www.youtube.com/watch?v=Jd-PPibcWnQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Z6j-eOB8pZk"
+      "VideoID": "Jd-PPibcWnQ"
     },
     {
       "Name": "Mark Moss",
