@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-16T19:21:52.742682+00:00",
+  "last_updated": "2026-07-17T03:21:04.100687+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "The Floors, The Shift and the AI Future📈",
-      "Published": "2026-07-15",
-      "URL": "https://www.youtube.com/watch?v=2ADT4lol1sY",
+      "Video Title": "Is $2M Enough to Retire?  The Math on \"FU Money\" + Global Arbitrage 🌍💰",
+      "Published": "2026-07-16",
+      "URL": "https://www.youtube.com/watch?v=-5rFq-cnask",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "2ADT4lol1sY"
+      "VideoID": "-5rFq-cnask"
     },
     {
       "Name": "Coin Bureau",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The Middle Class Is the New Poor (Here's the Way Out)",
-      "Published": "2026-07-03",
-      "URL": "https://www.youtube.com/watch?v=hy0cNCsY290",
+      "Video Title": "Wall Street Just Bet Against the Biggest Inflation Drop in 6 Years",
+      "Published": "2026-07-16",
+      "URL": "https://www.youtube.com/watch?v=y36SdQQw11o",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hy0cNCsY290"
+      "VideoID": "y36SdQQw11o"
     },
     {
       "Name": "CTO Larsson",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Inflation and Bitcoin",
-      "Published": "2026-07-15",
-      "URL": "https://www.youtube.com/watch?v=rWfLRMiyQVY",
+      "Video Title": "Bitcoin Market Cycles",
+      "Published": "2026-07-16",
+      "URL": "https://www.youtube.com/watch?v=XQN1M-sIuGs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "rWfLRMiyQVY"
+      "VideoID": "XQN1M-sIuGs"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Why Tech Bros and Big Companies Are BOTH Wrong About AI",
-      "Published": "2026-07-15",
-      "URL": "https://www.youtube.com/shorts/pNYt8hLlalk",
+      "Video Title": "Making Bitcoin Privacy the Default: Inside the Payjoin Dev Kit",
+      "Published": "2026-07-16",
+      "URL": "https://www.youtube.com/watch?v=zb5Bkg-dqo8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "pNYt8hLlalk"
+      "VideoID": "zb5Bkg-dqo8"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "How Businesses Can Gamify Loyalty With Lucra's Dylan Robbins",
+      "Video Title": "3 Things To Watch For During Tonight's Starship Flight",
       "Published": "2026-07-16",
-      "URL": "https://www.youtube.com/watch?v=Lw5WDTdjblA",
+      "URL": "https://www.youtube.com/shorts/iqpbUQVQkqI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Lw5WDTdjblA"
+      "VideoID": "iqpbUQVQkqI"
     }
   ]
 }
