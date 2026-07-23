@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T19:35:49.224363+00:00",
+  "last_updated": "2026-07-23T03:29:21.453801+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -105,9 +105,9 @@
     },
     {
       "Name": "George Gammon",
-      "Video Title": "WARNING: This Is An Economic Sign That Can't Be Ignored",
-      "Published": "2026-07-18",
-      "URL": "https://www.youtube.com/watch?v=YD5IrExMPVk",
+      "Video Title": "WARNING: They Just Created A $10 Trillion Derivatives Timebomb",
+      "Published": "2026-07-23",
+      "URL": "https://www.youtube.com/watch?v=YbIKPH-rK8w",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -118,13 +118,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "YD5IrExMPVk"
+      "VideoID": "YbIKPH-rK8w"
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Won Rewards Vs Free Coupons",
-      "Published": "2026-07-21",
-      "URL": "https://www.youtube.com/shorts/P78PZRNvXr4",
+      "Video Title": "Will China’s Kimi K3 Win The AI Model Race?| The Brainstorm 141",
+      "Published": "2026-07-22",
+      "URL": "https://www.youtube.com/watch?v=aQ-BxFtxVWE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "P78PZRNvXr4"
+      "VideoID": "aQ-BxFtxVWE"
     }
   ]
 }
