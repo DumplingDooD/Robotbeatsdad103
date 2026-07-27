@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T10:02:25.307464+00:00",
+  "last_updated": "2026-07-27T14:50:16.097293+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "How to Avoid Bad Altcoins in 2026",
-      "Published": "2026-07-26",
-      "URL": "https://www.youtube.com/watch?v=Nlti3UK2DwY",
+      "Video Title": "Trillions Are Flowing Into AI, But It's Getting WORSE",
+      "Published": "2026-07-27",
+      "URL": "https://www.youtube.com/watch?v=g9OpXjO1rXg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Nlti3UK2DwY"
+      "VideoID": "g9OpXjO1rXg"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Will China’s Kimi K3 Win The AI Model Race?| The Brainstorm 141",
-      "Published": "2026-07-22",
-      "URL": "https://www.youtube.com/watch?v=aQ-BxFtxVWE",
+      "Video Title": "OpenAI And Anthropic Are Lucky They're Still Private",
+      "Published": "2026-07-27",
+      "URL": "https://www.youtube.com/shorts/YX0YbK21gGc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "aQ-BxFtxVWE"
+      "VideoID": "YX0YbK21gGc"
     }
   ]
 }
