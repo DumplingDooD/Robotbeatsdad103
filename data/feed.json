@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T08:45:11.799232+00:00",
+  "last_updated": "2026-07-28T14:24:32.863089+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Trillions Are Flowing Into AI, But It's Getting WORSE",
-      "Published": "2026-07-27",
-      "URL": "https://www.youtube.com/watch?v=g9OpXjO1rXg",
+      "Video Title": "The History of Financial Crashes & Why People NEVER Learn.",
+      "Published": "2026-07-28",
+      "URL": "https://www.youtube.com/watch?v=Ca1NV79sqbs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "g9OpXjO1rXg"
+      "VideoID": "Ca1NV79sqbs"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "OpenAI And Anthropic Are Lucky They're Still Private",
-      "Published": "2026-07-27",
-      "URL": "https://www.youtube.com/shorts/YX0YbK21gGc",
+      "Video Title": "Cathie Wood On The AI Race With China | Fox Business",
+      "Published": "2026-07-28",
+      "URL": "https://www.youtube.com/shorts/eCZe0Xm_3GY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "YX0YbK21gGc"
+      "VideoID": "eCZe0Xm_3GY"
     }
   ]
 }
