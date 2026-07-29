@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T08:49:49.529812+00:00",
+  "last_updated": "2026-07-29T14:23:32.291171+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The History of Financial Crashes & Why People NEVER Learn.",
-      "Published": "2026-07-28",
-      "URL": "https://www.youtube.com/watch?v=Ca1NV79sqbs",
+      "Video Title": "Why the Biggest Crypto Bill Just COLLAPSED (Clarity Act Chaos)",
+      "Published": "2026-07-29",
+      "URL": "https://www.youtube.com/watch?v=A2VlNi3i248",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,11 +33,11 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Ca1NV79sqbs"
+      "VideoID": "A2VlNi3i248"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The Next Market Crash Will Be Nothing Like 2008",
+      "Video Title": "The Fed Will Sacrifice the Dollar to Save This Market (Prepare)",
       "Published": "2026-07-28",
       "URL": "https://www.youtube.com/watch?v=0Wb2C9_zT90",
       "Summary": "Transcript unavailable.",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Is The App Worth More Than The Blockchain?",
-      "Published": "2026-07-28",
-      "URL": "https://www.youtube.com/shorts/gcokc1X7sGk",
+      "Video Title": "Robinhood (HOOD): ARK's Stock Stories",
+      "Published": "2026-07-29",
+      "URL": "https://www.youtube.com/watch?v=ogkUwufF8ns",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "gcokc1X7sGk"
+      "VideoID": "ogkUwufF8ns"
     }
   ]
 }
