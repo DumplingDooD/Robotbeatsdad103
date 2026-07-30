@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-29T19:26:40.031797+00:00",
+  "last_updated": "2026-07-30T02:51:27.385824+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Retail Panic vs. Smart Plays: CAPEX Scare, Fed Selloff & NVDA Massive AI Bet 🧠📉",
-      "Published": "2026-07-28",
-      "URL": "https://www.youtube.com/watch?v=ls6-dGt5wA0",
+      "Video Title": "Is Sell Off Overblown? Is China’s Chip Machine the End of AI?",
+      "Published": "2026-07-29",
+      "URL": "https://www.youtube.com/watch?v=0fXohpjNllM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ls6-dGt5wA0"
+      "VideoID": "0fXohpjNllM"
     },
     {
       "Name": "Coin Bureau",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin's July Rally",
-      "Published": "2026-07-28",
-      "URL": "https://www.youtube.com/shorts/oDvuDHTv2zo",
+      "Video Title": "The Fed Holds Rates Steady | Bond Market Revolts",
+      "Published": "2026-07-29",
+      "URL": "https://www.youtube.com/watch?v=uJ0DsQCvY7s",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "oDvuDHTv2zo"
+      "VideoID": "uJ0DsQCvY7s"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Robinhood (HOOD): ARK's Stock Stories",
+      "Video Title": "SpaceX's Starship Flight 13 | The Brainstorm 142",
       "Published": "2026-07-29",
-      "URL": "https://www.youtube.com/watch?v=ogkUwufF8ns",
+      "URL": "https://www.youtube.com/watch?v=XWZWiTKqafs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ogkUwufF8ns"
+      "VideoID": "XWZWiTKqafs"
     }
   ]
 }
