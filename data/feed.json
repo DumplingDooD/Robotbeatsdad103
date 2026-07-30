@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T08:38:32.016588+00:00",
+  "last_updated": "2026-07-30T14:19:40.433100+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Why the Biggest Crypto Bill Just COLLAPSED (Clarity Act Chaos)",
-      "Published": "2026-07-29",
-      "URL": "https://www.youtube.com/watch?v=A2VlNi3i248",
+      "Video Title": "BlackRock is Betting BIG on Ethereum",
+      "Published": "2026-07-30",
+      "URL": "https://www.youtube.com/watch?v=5K8_5lpeUY0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,11 +33,11 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "A2VlNi3i248"
+      "VideoID": "5K8_5lpeUY0"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The Next Market Crash Will Be Nothing Like 2008",
+      "Video Title": "The Fed Will Sacrifice the Dollar to Save This Market (Prepare)",
       "Published": "2026-07-28",
       "URL": "https://www.youtube.com/watch?v=0Wb2C9_zT90",
       "Summary": "Transcript unavailable.",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "The Fed Holds Rates Steady | Bond Market Revolts",
-      "Published": "2026-07-29",
-      "URL": "https://www.youtube.com/watch?v=uJ0DsQCvY7s",
+      "Video Title": "NFA Live! Inflation Numbers are OUT! Bitcoin Responds",
+      "Published": "2026-07-30",
+      "URL": "https://www.youtube.com/watch?v=q2QLLihl6cc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "uJ0DsQCvY7s"
+      "VideoID": "q2QLLihl6cc"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "SpaceX's Starship Flight 13 | The Brainstorm 142",
-      "Published": "2026-07-29",
-      "URL": "https://www.youtube.com/watch?v=XWZWiTKqafs",
+      "Video Title": "The Age Of Free Food Delivery: Manna Air Delivery With Bobby Healy",
+      "Published": "2026-07-30",
+      "URL": "https://www.youtube.com/watch?v=Z4EcNtxw62A",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "XWZWiTKqafs"
+      "VideoID": "Z4EcNtxw62A"
     }
   ]
 }
