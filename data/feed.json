@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T19:43:43.781450+00:00",
+  "last_updated": "2026-08-01T03:33:42.376408+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Kraken Co-CEO: Sovereign Bitcoin Accumulation is an \"Inevitability\"",
-      "Published": "2026-07-30",
-      "URL": "https://www.youtube.com/watch?v=YlYCCLyXt3c",
+      "Video Title": "Coinbase’s John D’Agostino: Why Bitcoin Doesn’t Need the Clarity Act to Win",
+      "Published": "2026-08-01",
+      "URL": "https://www.youtube.com/watch?v=U7wPrNtUn9o",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "YlYCCLyXt3c"
+      "VideoID": "U7wPrNtUn9o"
     },
     {
       "Name": "George Gammon",
