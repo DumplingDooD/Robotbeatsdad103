@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T19:18:47.252745+00:00",
+  "last_updated": "2026-08-02T03:33:41.651412+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "If This Plays Out Like Either 2023, or 2022, or 2018, or 2014 Then...",
-      "Published": "2026-07-31",
-      "URL": "https://www.youtube.com/shorts/XiNkIzh1fmQ",
+      "Video Title": "Bitcoin: The Beauty of Mathematics (Part 72)",
+      "Published": "2026-08-02",
+      "URL": "https://www.youtube.com/watch?v=2o0qSlwjkv8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "XiNkIzh1fmQ"
+      "VideoID": "2o0qSlwjkv8"
     },
     {
       "Name": "Bitcoin Magazine",
