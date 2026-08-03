@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T09:57:58.931010+00:00",
+  "last_updated": "2026-08-03T14:54:12.659800+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Tom Lee Proves ETH Is BETTER Than Bitcoin",
-      "Published": "2026-08-02",
-      "URL": "https://www.youtube.com/watch?v=410Xf3lj-nA",
+      "Video Title": "Bitcoin's Next Big Move Depends On One Thing. FED PANIC",
+      "Published": "2026-08-03",
+      "URL": "https://www.youtube.com/watch?v=nyX-aHrHBp8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "410Xf3lj-nA"
+      "VideoID": "nyX-aHrHBp8"
     },
     {
       "Name": "Mark Moss",
@@ -54,9 +54,9 @@
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "JUST WHEN YOU'RE ABOUT TO QUIT!",
-      "Published": "2026-06-25",
-      "URL": "https://www.youtube.com/watch?v=F6ooPTOVJD0",
+      "Video Title": "Everyone Is Watching the Wrong Thing",
+      "Published": "2026-08-03",
+      "URL": "https://www.youtube.com/watch?v=ICg7aLVLf-M",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -67,13 +67,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "F6ooPTOVJD0"
+      "VideoID": "ICg7aLVLf-M"
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: The Beauty of Mathematics (Part 72)",
-      "Published": "2026-08-02",
-      "URL": "https://www.youtube.com/watch?v=2o0qSlwjkv8",
+      "Video Title": "Bitcoin: A Decision Will be Forced",
+      "Published": "2026-08-03",
+      "URL": "https://www.youtube.com/watch?v=WRftdLFrepU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "2o0qSlwjkv8"
+      "VideoID": "WRftdLFrepU"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Six Minutes Across Dublin: Drones Replacing Hospital Taxis",
-      "Published": "2026-07-31",
-      "URL": "https://www.youtube.com/shorts/jPWNX_GOFP0",
+      "Video Title": "Big Ideas 2026: AI Consumer Operating System",
+      "Published": "2026-08-03",
+      "URL": "https://www.youtube.com/watch?v=m5ZHlhh_JLQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "jPWNX_GOFP0"
+      "VideoID": "m5ZHlhh_JLQ"
     }
   ]
 }
