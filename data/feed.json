@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-03T19:46:29.010064+00:00",
+  "last_updated": "2026-08-04T03:18:28.590258+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Quit Rat Race Strategy💡+ Next Massive Move 🚀 & The Real AI Stack!",
-      "Published": "2026-08-02",
-      "URL": "https://www.youtube.com/watch?v=HtcM6XqHP0c",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "HtcM6XqHP0c"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Bitcoin's Next Big Move Depends On One Thing. FED PANIC",
-      "Published": "2026-08-03",
-      "URL": "https://www.youtube.com/watch?v=nyX-aHrHBp8",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,14 +33,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "nyX-aHrHBp8"
+      "VideoID": null
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "How the 1% Hold the Same Assets You Do, But Make 4x More",
-      "Published": "2026-07-30",
-      "URL": "https://www.youtube.com/watch?v=bu3vcO0YczA",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "bu3vcO0YczA"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Everyone Is Watching the Wrong Thing",
-      "Published": "2026-08-03",
-      "URL": "https://www.youtube.com/watch?v=ICg7aLVLf-M",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,7 +67,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ICg7aLVLf-M"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
@@ -88,10 +88,10 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Coinbase’s John D’Agostino: Why Bitcoin Doesn’t Need the Clarity Act to Win",
-      "Published": "2026-08-01",
-      "URL": "https://www.youtube.com/watch?v=U7wPrNtUn9o",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "U7wPrNtUn9o"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "WARNING: They Just Created A $10 Trillion Derivatives Timebomb",
-      "Published": "2026-07-23",
-      "URL": "https://www.youtube.com/watch?v=YbIKPH-rK8w",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "YbIKPH-rK8w"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Big Ideas 2026: AI Consumer Operating System",
-      "Published": "2026-08-03",
-      "URL": "https://www.youtube.com/watch?v=m5ZHlhh_JLQ",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "m5ZHlhh_JLQ"
+      "VideoID": null
     }
   ]
 }
