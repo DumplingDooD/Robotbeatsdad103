@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T14:30:19.457383+00:00",
+  "last_updated": "2026-08-04T19:45:04.125160+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "How the 1% Hold the Same Assets You Do, But Make 4x More",
-      "Published": "2026-07-30",
-      "URL": "https://www.youtube.com/watch?v=bu3vcO0YczA",
+      "Video Title": "The Rich Don't 'Avoid' Taxes. They Get the IRS to Fund Their Assets",
+      "Published": "2026-08-04",
+      "URL": "https://www.youtube.com/watch?v=MrWQpg7_SBI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "bu3vcO0YczA"
+      "VideoID": "MrWQpg7_SBI"
     },
     {
       "Name": "CTO Larsson",
