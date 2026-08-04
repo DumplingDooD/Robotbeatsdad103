@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T08:48:24.351691+00:00",
+  "last_updated": "2026-08-04T14:30:19.457383+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The Danger Signal Wall Street Is Ignoring",
-      "Published": "2026-08-03",
-      "URL": "https://www.youtube.com/watch?v=nyX-aHrHBp8",
+      "Video Title": "Bitcoin Just PROVED It Doesn't Need Saylor",
+      "Published": "2026-08-04",
+      "URL": "https://www.youtube.com/watch?v=jGJR2RG8aRQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "nyX-aHrHBp8"
+      "VideoID": "jGJR2RG8aRQ"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Big Ideas 2026: AI Consumer Operating System",
-      "Published": "2026-08-03",
-      "URL": "https://www.youtube.com/watch?v=m5ZHlhh_JLQ",
+      "Video Title": "10x Drone Delivery Growth",
+      "Published": "2026-08-04",
+      "URL": "https://www.youtube.com/shorts/ukf6ExkRT-w",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "m5ZHlhh_JLQ"
+      "VideoID": "ukf6ExkRT-w"
     }
   ]
 }
