@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T19:05:29.628839+00:00",
+  "last_updated": "2026-08-08T02:02:28.928141+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,7 +37,7 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Elon Musk Said Money Won't Matter by 2036",
+      "Video Title": "Elon Musk Just Said Money Won't Matter By 2036. Here's Who Keeps It",
       "Published": "2026-08-06",
       "URL": "https://www.youtube.com/watch?v=qMoj-njeuLA",
       "Summary": "Transcript unavailable.",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Where in the Cycle Are We?",
-      "Published": "2026-08-06",
-      "URL": "https://www.youtube.com/watch?v=CmGkfyot8qY",
+      "Video Title": "The First ITC Conference is Here! Tickets are LIVE. See you in Miami",
+      "Published": "2026-08-07",
+      "URL": "https://www.youtube.com/shorts/baL3c7JqrSk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "CmGkfyot8qY"
+      "VideoID": "baL3c7JqrSk"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Sneak Peek - In The Know With Cathie Wood",
-      "Published": "2026-08-07",
-      "URL": "https://www.youtube.com/watch?v=CHTcPnG1VzM",
+      "Video Title": "Why This \"Scary\" Jobs Report Might Be Good News | ITK With Cathie Wood",
+      "Published": "2026-08-08",
+      "URL": "https://www.youtube.com/watch?v=COmxq7bh-fM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "CHTcPnG1VzM"
+      "VideoID": "COmxq7bh-fM"
     }
   ]
 }
