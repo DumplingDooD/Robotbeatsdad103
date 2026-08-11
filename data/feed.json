@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T02:09:07.001069+00:00",
+  "last_updated": "2026-08-11T07:17:20.589386+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Tracking the Coldcard Hackers: Inside the $120M Bitcoin Theft with Alex Thorn",
-      "Published": "2026-08-07",
-      "URL": "https://www.youtube.com/watch?v=XlvsJblW4Sg",
+      "Video Title": "Every Vulnerable Coldcard Wallet WILL Be Drained",
+      "Published": "2026-08-11",
+      "URL": "https://www.youtube.com/shorts/6hAoFvu7eOc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "XlvsJblW4Sg"
+      "VideoID": "6hAoFvu7eOc"
     },
     {
       "Name": "George Gammon",
