@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T07:17:20.589386+00:00",
+  "last_updated": "2026-08-11T13:19:30.318413+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,7 +37,7 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Elon Musk Said Money Won't Matter in 10 Years.. Here's The Truth",
+      "Video Title": "Elon Said Money Will Die By 2036. The Fed Is Betting On It",
       "Published": "2026-08-06",
       "URL": "https://www.youtube.com/watch?v=qMoj-njeuLA",
       "Summary": "Transcript unavailable.",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Cathie Wood: \"I Know I've Been Saying This For A Number Of Years...\"",
-      "Published": "2026-08-10",
-      "URL": "https://www.youtube.com/shorts/m97EosB3H-Q",
+      "Video Title": "Bryan Johnson Predicts The Year He Stops Aging",
+      "Published": "2026-08-11",
+      "URL": "https://www.youtube.com/watch?v=XkbdTUl6caw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "m97EosB3H-Q"
+      "VideoID": "XkbdTUl6caw"
     }
   ]
 }
