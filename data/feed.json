@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T02:28:43.228096+00:00",
+  "last_updated": "2026-08-13T07:43:04.440533+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,10 +20,10 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
+      "Video Title": "The Vote That Could Break US Crypto",
+      "Published": "2026-08-12",
+      "URL": "https://www.youtube.com/watch?v=7rUiQ0vnQpI",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "7rUiQ0vnQpI"
     },
     {
       "Name": "Mark Moss",
@@ -71,10 +71,10 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
+      "Video Title": "Bitcoin: The Next 60 Days",
+      "Published": "2026-08-13",
+      "URL": "https://www.youtube.com/watch?v=6V6rlIV2Zek",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "6V6rlIV2Zek"
     },
     {
       "Name": "Bitcoin Magazine",
