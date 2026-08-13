@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T13:25:09.734586+00:00",
+  "last_updated": "2026-08-13T19:10:29.314718+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The Vote That Could Break US Crypto",
-      "Published": "2026-08-12",
-      "URL": "https://www.youtube.com/watch?v=7rUiQ0vnQpI",
+      "Video Title": "America Just WEAPONIZED The Yen",
+      "Published": "2026-08-13",
+      "URL": "https://www.youtube.com/watch?v=MZ4qpn-36Lg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,13 +33,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "7rUiQ0vnQpI"
+      "VideoID": "MZ4qpn-36Lg"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Coca-Cola Stays $45 Billion in Debt On Purpose. And It's Paying Off",
-      "Published": "2026-08-11",
-      "URL": "https://www.youtube.com/watch?v=DfxMRP9WyHQ",
+      "Video Title": "He Made $1 Billion Shorting The Yen. Now He's Trying To Save It",
+      "Published": "2026-08-13",
+      "URL": "https://www.youtube.com/watch?v=iwGtIcKejbc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "DfxMRP9WyHQ"
+      "VideoID": "iwGtIcKejbc"
     },
     {
       "Name": "CTO Larsson",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Japan Has An Inflation Problem",
-      "Published": "2026-08-12",
-      "URL": "https://www.youtube.com/shorts/aGa-ytFn87M",
+      "Video Title": "Meet The Team - Frank Downing",
+      "Published": "2026-08-13",
+      "URL": "https://www.youtube.com/shorts/jD7FyVaPUFI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "aGa-ytFn87M"
+      "VideoID": "jD7FyVaPUFI"
     }
   ]
 }
