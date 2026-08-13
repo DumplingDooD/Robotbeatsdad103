@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-12T19:09:51.561584+00:00",
+  "last_updated": "2026-08-13T02:28:43.228096+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "🚨Crypto Panic vs. On Chain, AI Eating Everything + Mem Supercycle 🧠💡",
-      "Published": "2026-08-11",
-      "URL": "https://www.youtube.com/watch?v=f9BnkdEslZE",
+      "Video Title": "Summer Doldrums vs. AI FOMO: Who’s Taking Off & Who’s Still Chopping 📊",
+      "Published": "2026-08-12",
+      "URL": "https://www.youtube.com/watch?v=DCTW8jpb28w",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "f9BnkdEslZE"
+      "VideoID": "DCTW8jpb28w"
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The CLARITY Act Isn’t Dead… (Yet)",
-      "Published": "2026-08-12",
-      "URL": "https://www.youtube.com/watch?v=7rUiQ0vnQpI",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,11 +33,11 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "7rUiQ0vnQpI"
+      "VideoID": null
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Coca-Cola's $45 Billion Debt is The Greatest Trade of The Century",
+      "Video Title": "Coca-Cola Stays $45 Billion in Debt On Purpose. And It's Paying Off",
       "Published": "2026-08-11",
       "URL": "https://www.youtube.com/watch?v=DfxMRP9WyHQ",
       "Summary": "Transcript unavailable.",
@@ -71,10 +71,10 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Come to the First ITC Conference Nov 20-22 in Miami",
-      "Published": "2026-08-11",
-      "URL": "https://www.youtube.com/shorts/96LmewBt0VM",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "96LmewBt0VM"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "The Merger Everyone's Talking About",
-      "Published": "2026-08-11",
-      "URL": "https://www.youtube.com/shorts/DEJ7JIkh57I",
+      "Video Title": "Japan Has An Inflation Problem",
+      "Published": "2026-08-12",
+      "URL": "https://www.youtube.com/shorts/aGa-ytFn87M",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "DEJ7JIkh57I"
+      "VideoID": "aGa-ytFn87M"
     }
   ]
 }
