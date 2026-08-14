@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T13:19:46.140882+00:00",
+  "last_updated": "2026-08-14T19:02:16.736797+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: The Next 60 Days",
-      "Published": "2026-08-13",
-      "URL": "https://www.youtube.com/watch?v=6V6rlIV2Zek",
+      "Video Title": "Bitcoin Bear Market-How Long Will It Last?",
+      "Published": "2026-08-14",
+      "URL": "https://www.youtube.com/shorts/2QfzkTOPtKQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "6V6rlIV2Zek"
+      "VideoID": "2QfzkTOPtKQ"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Tesla (TSLA): ARK's Stock Stories",
-      "Published": "2026-08-13",
-      "URL": "https://www.youtube.com/watch?v=hoi59k5zh1A",
+      "Video Title": "This Looks Very Inflationary, Doesn't It?",
+      "Published": "2026-08-14",
+      "URL": "https://www.youtube.com/shorts/fBUMEou9g8I",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "hoi59k5zh1A"
+      "VideoID": "fBUMEou9g8I"
     }
   ]
 }
