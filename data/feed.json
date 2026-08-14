@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-13T19:10:29.314718+00:00",
+  "last_updated": "2026-08-14T02:27:18.566074+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Summer Doldrums vs. AI FOMO: Who’s Taking Off & Who’s Still Chopping 📊",
-      "Published": "2026-08-12",
-      "URL": "https://www.youtube.com/watch?v=DCTW8jpb28w",
+      "Video Title": "🚀 SpaceX vs. Tesla Merger Math, PTs & Future AI & Robot Economy 🤖📈",
+      "Published": "2026-08-13",
+      "URL": "https://www.youtube.com/watch?v=L1lpmV7y0ZQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "DCTW8jpb28w"
+      "VideoID": "L1lpmV7y0ZQ"
     },
     {
       "Name": "Coin Bureau",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Meet The Team - Frank Downing",
+      "Video Title": "Tesla (TSLA): ARK's Stock Stories",
       "Published": "2026-08-13",
-      "URL": "https://www.youtube.com/shorts/jD7FyVaPUFI",
+      "URL": "https://www.youtube.com/watch?v=hoi59k5zh1A",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "jD7FyVaPUFI"
+      "VideoID": "hoi59k5zh1A"
     }
   ]
 }
