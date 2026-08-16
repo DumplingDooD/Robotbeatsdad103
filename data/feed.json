@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T06:50:05.521550+00:00",
+  "last_updated": "2026-08-16T12:51:03.955413+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Whale Activity Scores",
-      "Published": "2026-08-15",
-      "URL": "https://www.youtube.com/shorts/3fNCWOnJQOk",
+      "Video Title": "Bitcoin: The Winds of Winter",
+      "Published": "2026-08-16",
+      "URL": "https://www.youtube.com/watch?v=OXUeLGbMKyU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "3fNCWOnJQOk"
+      "VideoID": "OXUeLGbMKyU"
     },
     {
       "Name": "Bitcoin Magazine",
