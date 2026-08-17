@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T12:55:29.352752+00:00",
+  "last_updated": "2026-08-17T18:48:43.870662+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Wall Street Just Chose Ethereum OVER Bitcoin",
-      "Published": "2026-08-16",
-      "URL": "https://www.youtube.com/watch?v=9KAAyZ1pX64",
+      "Video Title": "The AI Bubble is About To Hit EVERYTHING",
+      "Published": "2026-08-17",
+      "URL": "https://www.youtube.com/watch?v=KJET0eprLSA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,11 +33,11 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "9KAAyZ1pX64"
+      "VideoID": "KJET0eprLSA"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The US Joined The $87 Billion Rescue Of The Yen. It Didn't Work.",
+      "Video Title": "He Made $1 Billion Shorting The Yen. Now He's Trying To Save It",
       "Published": "2026-08-13",
       "URL": "https://www.youtube.com/watch?v=iwGtIcKejbc",
       "Summary": "Transcript unavailable.",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Volatility Is Getting Incredibly Low",
-      "Published": "2026-08-16",
-      "URL": "https://www.youtube.com/shorts/06H6KY-xDnU",
+      "Video Title": "Surviving the Bear Market",
+      "Published": "2026-08-17",
+      "URL": "https://www.youtube.com/shorts/p5LwFC_2zO8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "06H6KY-xDnU"
+      "VideoID": "p5LwFC_2zO8"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Authorities May Know Who's Behind the Coldcard Hack",
-      "Published": "2026-08-11",
-      "URL": "https://www.youtube.com/shorts/qEmi1FK9kzo",
+      "Video Title": "LIVE: Strategy ($MSTR) Investor Q&A feat. Michael Saylor & Phong Le",
+      "Published": "2026-08-17",
+      "URL": "https://www.youtube.com/watch?v=BqffDecgD2c",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "qEmi1FK9kzo"
+      "VideoID": "BqffDecgD2c"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "This Looks Very Inflationary, Doesn't It?",
-      "Published": "2026-08-14",
-      "URL": "https://www.youtube.com/shorts/fBUMEou9g8I",
+      "Video Title": "Bitcoin And Stablecoins Will Coexist. Here's Why.",
+      "Published": "2026-08-17",
+      "URL": "https://www.youtube.com/shorts/eYIMha2dlhg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "fBUMEou9g8I"
+      "VideoID": "eYIMha2dlhg"
     }
   ]
 }
