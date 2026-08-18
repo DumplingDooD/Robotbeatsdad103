@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T12:57:21.516441+00:00",
+  "last_updated": "2026-08-18T18:47:28.513649+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The AI Bubble is About To Hit EVERYTHING",
-      "Published": "2026-08-17",
-      "URL": "https://www.youtube.com/watch?v=KJET0eprLSA",
+      "Video Title": "Europe's Economic Model Is BREAKING Down",
+      "Published": "2026-08-18",
+      "URL": "https://www.youtube.com/watch?v=lalaqiCy4RE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,13 +33,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "KJET0eprLSA"
+      "VideoID": "lalaqiCy4RE"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "He Made $1 Billion Shorting The Yen. Now He's Trying To Save It",
-      "Published": "2026-08-13",
-      "URL": "https://www.youtube.com/watch?v=iwGtIcKejbc",
+      "Video Title": "Hackers Stole $38 Million in Bitcoin in 25 Minutes, And It’s Getting Worse...",
+      "Published": "2026-08-18",
+      "URL": "https://www.youtube.com/watch?v=BEIBh91X_2c",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "iwGtIcKejbc"
+      "VideoID": "BEIBh91X_2c"
     },
     {
       "Name": "CTO Larsson",
