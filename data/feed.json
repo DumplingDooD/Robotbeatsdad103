@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T13:00:19.396912+00:00",
+  "last_updated": "2026-08-20T18:49:24.513333+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "189,000 Bitcoin Suddenly Moved. Here’s What It Exposed",
-      "Published": "2026-08-18",
-      "URL": "https://www.youtube.com/watch?v=BEIBh91X_2c",
+      "Video Title": "Wall Street Just Found $500 Billion to Extend the AI Boom By Years",
+      "Published": "2026-08-20",
+      "URL": "https://www.youtube.com/watch?v=H_zPEpSU2XY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "BEIBh91X_2c"
+      "VideoID": "H_zPEpSU2XY"
     },
     {
       "Name": "CTO Larsson",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Rallies to the Bear Market Resistance Band",
+      "Video Title": "NFA Live! Bitcoin Rallies Above $70k",
       "Published": "2026-08-20",
-      "URL": "https://www.youtube.com/watch?v=9avrSmPczP4",
+      "URL": "https://www.youtube.com/watch?v=6lnGZmAf61A",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "9avrSmPczP4"
+      "VideoID": "6lnGZmAf61A"
     },
     {
       "Name": "Bitcoin Magazine",
