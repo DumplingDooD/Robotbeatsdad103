@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T12:59:31.380103+00:00",
+  "last_updated": "2026-08-21T18:45:38.798871+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,7 +37,7 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Wall Street Just Found $500 Billion to Extend the AI Boom By Years",
+      "Video Title": "The AI Crash Just Got Delayed. Last Time, the Boom Ran 38 Years",
       "Published": "2026-08-20",
       "URL": "https://www.youtube.com/watch?v=H_zPEpSU2XY",
       "Summary": "Transcript unavailable.",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Dubious Speculation",
+      "Video Title": "Bitcoin's 2019 vs 2026 Rally",
       "Published": "2026-08-21",
-      "URL": "https://www.youtube.com/watch?v=mnCn7NzuzKA",
+      "URL": "https://www.youtube.com/shorts/XCgBUCZ2K04",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "mnCn7NzuzKA"
+      "VideoID": "XCgBUCZ2K04"
     },
     {
       "Name": "Bitcoin Magazine",
