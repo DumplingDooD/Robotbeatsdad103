@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T01:44:41.688525+00:00",
+  "last_updated": "2026-08-24T07:09:49.241041+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin's 2019 vs 2026 Rally",
-      "Published": "2026-08-21",
-      "URL": "https://www.youtube.com/shorts/XCgBUCZ2K04",
+      "Video Title": "Ethereum: Dubious Speculation",
+      "Published": "2026-08-24",
+      "URL": "https://www.youtube.com/watch?v=w1lRJhw37h4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "XCgBUCZ2K04"
+      "VideoID": "w1lRJhw37h4"
     },
     {
       "Name": "Bitcoin Magazine",
