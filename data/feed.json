@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T13:01:34.262616+00:00",
+  "last_updated": "2026-08-24T18:49:26.578548+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Ethereum: Dubious Speculation",
+      "Video Title": "USDT Dominance",
       "Published": "2026-08-24",
-      "URL": "https://www.youtube.com/watch?v=w1lRJhw37h4",
+      "URL": "https://www.youtube.com/shorts/3bycttxEr4E",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "w1lRJhw37h4"
+      "VideoID": "3bycttxEr4E"
     },
     {
       "Name": "Bitcoin Magazine",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "At An All Time Low",
-      "Published": "2026-08-21",
-      "URL": "https://www.youtube.com/shorts/Rff2A8PWUUA",
+      "Video Title": "Meet The Team - Matt Milazzo",
+      "Published": "2026-08-24",
+      "URL": "https://www.youtube.com/shorts/Ftcobz_i3XE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Rff2A8PWUUA"
+      "VideoID": "Ftcobz_i3XE"
     }
   ]
 }
