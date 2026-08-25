@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T12:58:06.067569+00:00",
+  "last_updated": "2026-08-25T18:47:48.841773+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Wall Street Just Rescued the AI Boom (And Delayed The Crash By Years)",
-      "Published": "2026-08-20",
-      "URL": "https://www.youtube.com/watch?v=H_zPEpSU2XY",
+      "Video Title": "America Just Turned Crypto Into a Weapon for the Dollar",
+      "Published": "2026-08-25",
+      "URL": "https://www.youtube.com/watch?v=G_H6BUeodeE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "H_zPEpSU2XY"
+      "VideoID": "G_H6BUeodeE"
     },
     {
       "Name": "CTO Larsson",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Meet The Team - Matt Milazzo",
-      "Published": "2026-08-24",
-      "URL": "https://www.youtube.com/shorts/Ftcobz_i3XE",
+      "Video Title": "Cathie Wood: “I Wish I Had This Kind Of Tool When I Started ARK In 2014\"",
+      "Published": "2026-08-25",
+      "URL": "https://www.youtube.com/shorts/3R9r3Kn_2UY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Ftcobz_i3XE"
+      "VideoID": "3R9r3Kn_2UY"
     }
   ]
 }
