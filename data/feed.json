@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-26T19:54:53.769089+00:00",
+  "last_updated": "2026-08-27T08:50:22.791920+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Bitcoin Full Bull? $600BN Created in 8 Days + Nvidia’s 30x Power Cheat 👀🚀",
-      "Published": "2026-08-25",
-      "URL": "https://www.youtube.com/watch?v=dUB5sY_1zCI",
+      "Video Title": "TA Alpha: Kill Zones Incoming — Patience Then Greed",
+      "Published": "2026-08-26",
+      "URL": "https://www.youtube.com/watch?v=A2du55PF9nU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "dUB5sY_1zCI"
+      "VideoID": "A2du55PF9nU"
     },
     {
       "Name": "Coin Bureau",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin Asia 2026 | Day 2 Livestream",
+      "Video Title": "Bitcoin Asia 2026 | Day 1 Livestream",
       "Published": "2026-08-21",
-      "URL": "https://www.youtube.com/watch?v=yRzt65QxW0E",
+      "URL": "https://www.youtube.com/watch?v=fBTjfHBAVBk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,13 +101,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "yRzt65QxW0E"
+      "VideoID": "fBTjfHBAVBk"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "BREAKING: They Just Admitted The Conspiracy Theories Are True",
-      "Published": "2026-08-22",
-      "URL": "https://www.youtube.com/watch?v=enxD5EPAFCE",
+      "Video Title": "The Entire House of Cards Is About To Fall (US Treasury Is Terrified)",
+      "Published": "2026-08-27",
+      "URL": "https://www.youtube.com/watch?v=mXi5jB-kPJE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -118,13 +118,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "enxD5EPAFCE"
+      "VideoID": "mXi5jB-kPJE"
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "CRISPR Therapeutics (CRSP): ARK's Stock Stories",
-      "Published": "2026-08-25",
-      "URL": "https://www.youtube.com/watch?v=4UYDNognSsE",
+      "Video Title": "Moderna's Cancer Vaccine May Cut Deaths In Half | The Brainstorm 146",
+      "Published": "2026-08-26",
+      "URL": "https://www.youtube.com/watch?v=vT2TR4W93oI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "4UYDNognSsE"
+      "VideoID": "vT2TR4W93oI"
     }
   ]
 }
