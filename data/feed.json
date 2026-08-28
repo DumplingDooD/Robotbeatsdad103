@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T22:07:55.150760+00:00",
+  "last_updated": "2026-08-28T10:58:26.853304+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,9 +37,9 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The U.S. Dollar Just Got a New Weapon",
-      "Published": "2026-08-25",
-      "URL": "https://www.youtube.com/watch?v=G_H6BUeodeE",
+      "Video Title": "1 Shfift and you're whole life get cheaper",
+      "Published": "2026-08-28",
+      "URL": "https://www.youtube.com/shorts/rf63GmsuXpg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "G_H6BUeodeE"
+      "VideoID": "rf63GmsuXpg"
     },
     {
       "Name": "CTO Larsson",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin and the 50 Week Moving Average",
-      "Published": "2026-08-27",
-      "URL": "https://www.youtube.com/watch?v=X2ztVVyfgQU",
+      "Video Title": "Bitcoin Rallies to $80K | Kevin Warsh Speaking at Jackson Hole",
+      "Published": "2026-08-28",
+      "URL": "https://www.youtube.com/watch?v=UJlilUexICw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "X2ztVVyfgQU"
+      "VideoID": "UJlilUexICw"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin Asia 2026 | Day 1 Livestream",
-      "Published": "2026-08-27",
-      "URL": "https://www.youtube.com/watch?v=fBTjfHBAVBk",
+      "Video Title": "Bitcoin Asia 2026 | Day 2 Livestream",
+      "Published": "2026-08-28",
+      "URL": "https://www.youtube.com/watch?v=yRzt65QxW0E",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "fBTjfHBAVBk"
+      "VideoID": "yRzt65QxW0E"
     },
     {
       "Name": "George Gammon",
