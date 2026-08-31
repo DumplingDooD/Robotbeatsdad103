@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T20:52:50.691032+00:00",
+  "last_updated": "2026-08-31T05:01:05.275284+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Stock Market Corrections-When This Usually Happens",
-      "Published": "2026-08-28",
-      "URL": "https://www.youtube.com/shorts/FM6ecJnMWiM",
+      "Video Title": "Bitcoin Stalls at the 50 Week Moving Average",
+      "Published": "2026-08-30",
+      "URL": "https://www.youtube.com/watch?v=xCF8xZQcVfc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "FM6ecJnMWiM"
+      "VideoID": "xCF8xZQcVfc"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "How Bitcoin Unlocks Capital Throughout the World | Bitcoin Asia 2026",
-      "Published": "2026-08-30",
-      "URL": "https://www.youtube.com/watch?v=DGM3N_806IU",
+      "Video Title": "Measuring Bitcoin Against Global Wealth: The Bitcoin Black Hole | Bitcoin Asia 2026",
+      "Published": "2026-08-31",
+      "URL": "https://www.youtube.com/watch?v=wuq6uW3kM5I",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "DGM3N_806IU"
+      "VideoID": "wuq6uW3kM5I"
     },
     {
       "Name": "George Gammon",
