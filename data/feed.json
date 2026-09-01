@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-31T22:42:57.027524+00:00",
+  "last_updated": "2026-09-01T04:39:17.333712+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "BTC Stable, New Liq Level, MSTR stacks at last, Others also + STRC Recovers 📈🔥",
-      "Published": "2026-08-31",
-      "URL": "https://www.youtube.com/watch?v=PWqNGcJ68LU",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "PWqNGcJ68LU"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
@@ -37,10 +37,10 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "U.S. Just Started Fighting Its Own Bond Market",
-      "Published": "2026-08-28",
-      "URL": "https://www.youtube.com/watch?v=FNborHb44Pk",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "FNborHb44Pk"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "TREND REVERSAL?",
-      "Published": "2026-08-31",
-      "URL": "https://www.youtube.com/watch?v=t_Fc3vlrjOg",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "t_Fc3vlrjOg"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Stalls at the 50 Week Moving Average",
-      "Published": "2026-08-30",
-      "URL": "https://www.youtube.com/watch?v=xCF8xZQcVfc",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "xCF8xZQcVfc"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Beyond Self Custody: Building Your Sovereignty Stack | Bitcoin Asia 2026",
-      "Published": "2026-08-31",
-      "URL": "https://www.youtube.com/watch?v=mnkJ8jEFrME",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "mnkJ8jEFrME"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Nvidia Might Not Survive This...",
-      "Published": "2026-08-29",
-      "URL": "https://www.youtube.com/watch?v=nRVOLsrpapc",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "nRVOLsrpapc"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "We Ordered A Zipline Drone Delivery. Here's Our Thoughts",
-      "Published": "2026-08-31",
-      "URL": "https://www.youtube.com/watch?v=jvLjh5aHYpY",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "jvLjh5aHYpY"
+      "VideoID": null
     }
   ]
 }
