@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T11:02:37.736199+00:00",
+  "last_updated": "2026-09-02T16:23:51.887718+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin & AI  The Future of Development & Cyber Security",
-      "Published": "2026-09-01",
-      "URL": "https://www.youtube.com/shorts/ul4EGqloXIc",
+      "Video Title": "Your Bank Won't Show You the Math. Bitcoin Will.",
+      "Published": "2026-09-02",
+      "URL": "https://www.youtube.com/shorts/QC0uvZ5_xKs",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ul4EGqloXIc"
+      "VideoID": "QC0uvZ5_xKs"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "AI Is Outgrowing Our Own Forecasts | Big Ideas 2026 Mid-Year Review",
-      "Published": "2026-09-01",
-      "URL": "https://www.youtube.com/watch?v=99F0OkPxj4Q",
+      "Video Title": "The First Thing You Should Ask An AI Agent To Do",
+      "Published": "2026-09-02",
+      "URL": "https://www.youtube.com/shorts/BcJWxuHcQ5k",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "99F0OkPxj4Q"
+      "VideoID": "BcJWxuHcQ5k"
     }
   ]
 }
