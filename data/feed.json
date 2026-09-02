@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-01T20:54:29.785844+00:00",
+  "last_updated": "2026-09-02T04:01:10.444424+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "BEAR MARKET OVER? 🚀 ETF Buying Frenzy, SOL vs ETH & Elon's AI Warning 🔥",
-      "Published": "2026-09-01",
-      "URL": "https://www.youtube.com/watch?v=K4UwuOJC1us",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "K4UwuOJC1us"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
@@ -37,10 +37,10 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "If You Don't Understand Debt, You Don't Understand Wealth",
-      "Published": "2026-09-01",
-      "URL": "https://www.youtube.com/watch?v=5oer61Xyi4c",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "5oer61Xyi4c"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "TREND REVERSAL?",
-      "Published": "2026-08-31",
-      "URL": "https://www.youtube.com/watch?v=t_Fc3vlrjOg",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "t_Fc3vlrjOg"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "I Think That Gold Will..",
-      "Published": "2026-09-01",
-      "URL": "https://www.youtube.com/shorts/nQAa0SpEBi0",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "nQAa0SpEBi0"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The Bitcoin Treasury Reckoning: From Financial Engineering to Real Businesses | Bitcoin Asia 2026",
-      "Published": "2026-09-01",
-      "URL": "https://www.youtube.com/watch?v=RBiWS5NWSoY",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "RBiWS5NWSoY"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Nvidia Might Not Survive This...",
-      "Published": "2026-08-29",
-      "URL": "https://www.youtube.com/watch?v=nRVOLsrpapc",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "nRVOLsrpapc"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "AI Is Outgrowing Our Own Forecasts | Big Ideas 2026 Mid-Year Review",
-      "Published": "2026-09-01",
-      "URL": "https://www.youtube.com/watch?v=99F0OkPxj4Q",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "99F0OkPxj4Q"
+      "VideoID": null
     }
   ]
 }
