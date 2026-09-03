@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T11:00:45.744065+00:00",
+  "last_updated": "2026-09-03T16:14:18.123245+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Is Robinhood BEATING Ethereum?",
-      "Published": "2026-09-02",
-      "URL": "https://www.youtube.com/watch?v=0-4jN1C2B5M",
+      "Video Title": "How Bitcoin Went From Nerd Money To A GLOBAL Movement",
+      "Published": "2026-09-03",
+      "URL": "https://www.youtube.com/watch?v=18Za5qNnWoc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,13 +33,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "0-4jN1C2B5M"
+      "VideoID": "18Za5qNnWoc"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Why The Rich Borrow Money They Don't Need",
-      "Published": "2026-09-01",
-      "URL": "https://www.youtube.com/watch?v=5oer61Xyi4c",
+      "Video Title": "This Investing Legend Just Moved $125 Million From AI to Bitcoin",
+      "Published": "2026-09-03",
+      "URL": "https://www.youtube.com/watch?v=sTKeE7tp7TE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "5oer61Xyi4c"
+      "VideoID": "sTKeE7tp7TE"
     },
     {
       "Name": "CTO Larsson",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Elon Musk's $1 Trillion Chip Factory | The Brainstorm 147",
-      "Published": "2026-09-02",
-      "URL": "https://www.youtube.com/watch?v=_3cWDhFRm8M",
+      "Video Title": "Why Some Of America’s Biggest Brands Are Going Driverless",
+      "Published": "2026-09-03",
+      "URL": "https://www.youtube.com/watch?v=20l7Uwkawug",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "_3cWDhFRm8M"
+      "VideoID": "20l7Uwkawug"
     }
   ]
 }
