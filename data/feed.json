@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-03T16:14:18.123245+00:00",
+  "last_updated": "2026-09-03T20:51:53.127862+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Don't Trade September Until You See THESE Charts 📉🔥",
-      "Published": "2026-09-02",
-      "URL": "https://www.youtube.com/watch?v=x_db0MtP4lw",
+      "Video Title": "IA13: Which Memory Stock To Buy? 🧠 SK Hynix vs Samsung vs Micron",
+      "Published": "2026-09-03",
+      "URL": "https://www.youtube.com/watch?v=OUYUwtAbl7g",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "x_db0MtP4lw"
+      "VideoID": "OUYUwtAbl7g"
     },
     {
       "Name": "Coin Bureau",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Your Bank Won't Show You the Math. Bitcoin Will.",
-      "Published": "2026-09-02",
-      "URL": "https://www.youtube.com/shorts/QC0uvZ5_xKs",
+      "Video Title": "Bitcoin Self-Custody Without Explaining Lightning Liquidity to Anyone",
+      "Published": "2026-09-03",
+      "URL": "https://www.youtube.com/watch?v=CES4yunIIAc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "QC0uvZ5_xKs"
+      "VideoID": "CES4yunIIAc"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Why Some Of America’s Biggest Brands Are Going Driverless",
+      "Video Title": "We're Running Out Of Truck Drivers",
       "Published": "2026-09-03",
-      "URL": "https://www.youtube.com/watch?v=20l7Uwkawug",
+      "URL": "https://www.youtube.com/shorts/BRFmGatyGfg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "20l7Uwkawug"
+      "VideoID": "BRFmGatyGfg"
     }
   ]
 }
