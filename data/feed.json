@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T11:01:02.705744+00:00",
+  "last_updated": "2026-09-04T16:09:16.247892+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: The Liquidity Paradox",
-      "Published": "2026-09-02",
-      "URL": "https://www.youtube.com/watch?v=nDp00KRoosU",
+      "Video Title": "Labor Market Remains Hot",
+      "Published": "2026-09-04",
+      "URL": "https://www.youtube.com/watch?v=xFxtbyNM3RI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,7 +84,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "nDp00KRoosU"
+      "VideoID": "xFxtbyNM3RI"
     },
     {
       "Name": "Bitcoin Magazine",
