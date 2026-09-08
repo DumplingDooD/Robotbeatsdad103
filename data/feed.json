@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T11:01:24.481268+00:00",
+  "last_updated": "2026-09-08T16:26:37.832095+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Zcash Ran 2,000% But THIS Is Next",
-      "Published": "2026-09-06",
-      "URL": "https://www.youtube.com/watch?v=IoNozEcWRDA",
+      "Video Title": "Google Just WON The AI Race. That's The Problem...",
+      "Published": "2026-09-08",
+      "URL": "https://www.youtube.com/watch?v=rwziiwywzP8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "IoNozEcWRDA"
+      "VideoID": "rwziiwywzP8"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin Self-Custody Without Explaining Lightning Liquidity to Anyone",
-      "Published": "2026-09-03",
-      "URL": "https://www.youtube.com/watch?v=CES4yunIIAc",
+      "Video Title": "The First Quantum Secure Mainnet Bitcoin Transaction | Bitcoin Asia 2026",
+      "Published": "2026-09-08",
+      "URL": "https://www.youtube.com/watch?v=0lnLMcdgDP8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "CES4yunIIAc"
+      "VideoID": "0lnLMcdgDP8"
     },
     {
       "Name": "George Gammon",
