@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T16:12:56.388853+00:00",
+  "last_updated": "2026-09-10T20:43:26.133151+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Four Reasons ARK's Still Bullish On Bitcoin",
-      "Published": "2026-09-09",
-      "URL": "https://www.youtube.com/watch?v=DMjBsmajUPA",
+      "Video Title": "The Forecasts Were Too Low",
+      "Published": "2026-09-10",
+      "URL": "https://www.youtube.com/shorts/9rS_naGoOX4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "DMjBsmajUPA"
+      "VideoID": "9rS_naGoOX4"
     }
   ]
 }
