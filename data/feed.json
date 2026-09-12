@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-11T16:16:46.926863+00:00",
+  "last_updated": "2026-09-12T04:09:37.494670+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "🌍 Retire on Bitcoin by 2032: Global Wealth Matrix & How Much You Need 🚀",
-      "Published": "2026-09-10",
-      "URL": "https://www.youtube.com/watch?v=c0X9585-KDI",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,13 +16,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "c0X9585-KDI"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Anthropic Researcher Just Quit And Says AI Could Kill Us!",
-      "Published": "2026-09-10",
-      "URL": "https://www.youtube.com/shorts/y9Y76dAmdJ8",
+      "Video Title": "Why did Vitalik Buterin invest in Interfold?",
+      "Published": "2026-09-11",
+      "URL": "https://www.youtube.com/shorts/5hwT2MpwP-w",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,14 +33,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "y9Y76dAmdJ8"
+      "VideoID": "5hwT2MpwP-w"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Bitcoin's Mythical Supercycle Is Finally Starting",
-      "Published": "2026-09-10",
-      "URL": "https://www.youtube.com/watch?v=8-7wbiBnQY8",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "8-7wbiBnQY8"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "TODAY IS THE DAY",
-      "Published": "2026-09-07",
-      "URL": "https://www.youtube.com/watch?v=uJ9Da5b4_9Q",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "uJ9Da5b4_9Q"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "If You're An Investor You Should Know The Bull Case & The Bear Case",
-      "Published": "2026-09-10",
-      "URL": "https://www.youtube.com/shorts/iHn5rg-aMvk",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "iHn5rg-aMvk"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin, Macro, Clarity Act | BMTV Sep. 14, 2026",
-      "Published": "2026-09-10",
-      "URL": "https://www.youtube.com/watch?v=0FZBdtoiYf8",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "0FZBdtoiYf8"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Do This...Before It's Too Late",
-      "Published": "2026-09-10",
-      "URL": "https://www.youtube.com/watch?v=t3UNqs4Hjks",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "t3UNqs4Hjks"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "The Forecasts Were Too Low",
-      "Published": "2026-09-10",
-      "URL": "https://www.youtube.com/shorts/9rS_naGoOX4",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "9rS_naGoOX4"
+      "VideoID": null
     }
   ]
 }
