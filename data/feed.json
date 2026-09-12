@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T10:29:28.256778+00:00",
+  "last_updated": "2026-09-12T15:23:07.893284+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Why did Vitalik Buterin invest in Interfold?",
-      "Published": "2026-09-11",
-      "URL": "https://www.youtube.com/shorts/5hwT2MpwP-w",
+      "Video Title": "The US Debt Bomb Is About To HIT Crypto!",
+      "Published": "2026-09-12",
+      "URL": "https://www.youtube.com/watch?v=dxNwxZN3lhM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "5hwT2MpwP-w"
+      "VideoID": "dxNwxZN3lhM"
     },
     {
       "Name": "Mark Moss",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Tesla Cybercab Is Here. Waymo Should Be Worried. | The Brainstorm 148",
-      "Published": "2026-09-11",
-      "URL": "https://www.youtube.com/watch?v=QZG51sS-p0E",
+      "Video Title": "Tesla Just Doubled Its Unsupervised Miles In Six Weeks",
+      "Published": "2026-09-12",
+      "URL": "https://www.youtube.com/watch?v=5hhT7Lg1Wt0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "QZG51sS-p0E"
+      "VideoID": "5hhT7Lg1Wt0"
     }
   ]
 }
