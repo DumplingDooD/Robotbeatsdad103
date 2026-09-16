@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T11:16:51.032864+00:00",
+  "last_updated": "2026-09-16T16:37:19.822496+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Will the Clarity Act trigger a Bitcoin crash this week?",
-      "Published": "2026-09-15",
-      "URL": "https://www.youtube.com/shorts/E_HgjHd4Fng",
+      "Video Title": "The Clarity Act is DEAD",
+      "Published": "2026-09-16",
+      "URL": "https://www.youtube.com/watch?v=CwrG4fV4dmw",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "E_HgjHd4Fng"
+      "VideoID": "CwrG4fV4dmw"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Chart of the Day: Why Warsh Can't Control Long-Term Rates",
-      "Published": "2026-09-15",
-      "URL": "https://www.youtube.com/watch?v=VXtxAQGIFIM",
+      "Video Title": "Fed Rates, Risk Assets, Digital Infrastructure | BMTV Sep. 17, 2026",
+      "Published": "2026-09-16",
+      "URL": "https://www.youtube.com/watch?v=OjlodF9XE68",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "VXtxAQGIFIM"
+      "VideoID": "OjlodF9XE68"
     },
     {
       "Name": "George Gammon",
