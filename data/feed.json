@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-17T16:43:37.518441+00:00",
+  "last_updated": "2026-09-17T21:11:58.655439+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "TA Masterclass: AI Don’t Care: Q4 Setup Looks Explosive",
-      "Published": "2026-09-16",
-      "URL": "https://www.youtube.com/watch?v=FljjWz7vN6w",
+      "Video Title": "How To Catch WINNERS EARLY (Before The Crowd)",
+      "Published": "2026-09-17",
+      "URL": "https://www.youtube.com/watch?v=AvyUKzNcdZc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -16,13 +16,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "FljjWz7vN6w"
+      "VideoID": "AvyUKzNcdZc"
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Market Update - September 17, 2026",
+      "Video Title": "Is your money actually safe in the bank right now?",
       "Published": "2026-09-17",
-      "URL": "https://www.youtube.com/shorts/CkkWM6mKTt8",
+      "URL": "https://www.youtube.com/shorts/opUxLFVoUfA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "CkkWM6mKTt8"
+      "VideoID": "opUxLFVoUfA"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Institutional Adoption, Clarity Post-Mortem, Macro Investing | BMTV Sep. 18, 2026",
+      "Video Title": "Why Bitcoin Goes to $11M by 2036 w/ Strive's Joe Burnett",
       "Published": "2026-09-17",
-      "URL": "https://www.youtube.com/watch?v=_k6sm2FgEgY",
+      "URL": "https://www.youtube.com/shorts/SzHFJE1tjjg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "_k6sm2FgEgY"
+      "VideoID": "SzHFJE1tjjg"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "AI Just Broke A Bitcoin Wallet",
+      "Video Title": "Cathie Wood Says This Estimate Is Conservative",
       "Published": "2026-09-17",
-      "URL": "https://www.youtube.com/watch?v=EDkrFdihxTY",
+      "URL": "https://www.youtube.com/shorts/NcWxkdRb5Jg",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "EDkrFdihxTY"
+      "VideoID": "NcWxkdRb5Jg"
     }
   ]
 }
