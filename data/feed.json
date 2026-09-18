@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T10:59:04.534205+00:00",
+  "last_updated": "2026-09-18T16:13:27.893945+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "$500K Bitcoin by 2030 is The Conservative Estimate",
-      "Published": "2026-09-17",
-      "URL": "https://www.youtube.com/shorts/a3onsWlIxTk",
+      "Video Title": "Institutional Adoption, MSTR, BTC Market Outlook | BMTV Sep. 18, 2026",
+      "Published": "2026-09-18",
+      "URL": "https://www.youtube.com/watch?v=_k6sm2FgEgY",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "a3onsWlIxTk"
+      "VideoID": "_k6sm2FgEgY"
     },
     {
       "Name": "George Gammon",
