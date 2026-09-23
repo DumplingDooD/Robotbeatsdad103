@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T11:15:52.309785+00:00",
+  "last_updated": "2026-09-23T16:38:07.979371+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "How Robinhood’s AMC Token Created a 9-Figure Meme",
-      "Published": "2026-09-22",
-      "URL": "https://www.youtube.com/shorts/VWpbNDr50GU",
+      "Video Title": "Trading Stocks 24/7 WITHOUT a Broker",
+      "Published": "2026-09-23",
+      "URL": "https://www.youtube.com/watch?v=om38rjz4jw8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "VWpbNDr50GU"
+      "VideoID": "om38rjz4jw8"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Rising Rates Won't Kill This Bitcoin Bull Market",
+      "Video Title": "Global Macro, AI Market Impacts, Bitcoin VC | BMTV Sep. 24, 2026",
       "Published": "2026-09-23",
-      "URL": "https://www.youtube.com/shorts/50FT2VrhKSU",
+      "URL": "https://www.youtube.com/watch?v=QLIhIo_J4CU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "50FT2VrhKSU"
+      "VideoID": "QLIhIo_J4CU"
     },
     {
       "Name": "George Gammon",
