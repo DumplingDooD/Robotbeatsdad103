@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-02T05:10:34.733554+00:00",
+  "last_updated": "2026-10-02T12:17:31.728970+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
+      "Video Title": "AI Agents Need CRYPTO: The Question is who will AGENTS CHOOSE",
+      "Published": "2026-10-01",
+      "URL": "https://www.youtube.com/watch?v=T81S75Wbcek",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "T81S75Wbcek"
     },
     {
       "Name": "Coin Bureau",
@@ -37,10 +37,10 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
+      "Video Title": "Washington Completely Lost Control of the Crypto Timeline",
+      "Published": "2026-10-01",
+      "URL": "https://www.youtube.com/watch?v=bvzOlrbndOw",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "bvzOlrbndOw"
     },
     {
       "Name": "CTO Larsson",
@@ -71,10 +71,10 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
+      "Video Title": "Bitcoin: The Beauty of Mathematics (Part 73)",
+      "Published": "2026-10-02",
+      "URL": "https://www.youtube.com/watch?v=vMz4H9OK_fs",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "vMz4H9OK_fs"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
+      "Video Title": "Bitcoin Bull Market, Global Liquidity, ETF Flows | BMTV Oct. 01, 2026",
+      "Published": "2026-10-02",
+      "URL": "https://www.youtube.com/watch?v=q2-zVuzCaBU",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "q2-zVuzCaBU"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
+      "Video Title": "Systemic Risk Is EXPLODING In Financial Markets...Here's Why",
+      "Published": "2026-10-01",
+      "URL": "https://www.youtube.com/watch?v=VS1bMYc3pag",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,11 +118,11 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "VS1bMYc3pag"
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Building A Nuclear Plant That Can’t Melt Down",
+      "Video Title": "Did He Reinvent Nuclear Power?",
       "Published": "2026-10-01",
       "URL": "https://www.youtube.com/watch?v=AvK0FwJLJPg",
       "Summary": "Transcript unavailable.",
