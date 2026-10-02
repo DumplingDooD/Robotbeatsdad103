@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-01T22:33:33.968547+00:00",
+  "last_updated": "2026-10-02T05:10:34.733554+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "AI Agents Need CRYPTO: The Question is who will AGENTS CHOOSE",
-      "Published": "2026-10-01",
-      "URL": "https://www.youtube.com/watch?v=T81S75Wbcek",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "T81S75Wbcek"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
@@ -37,10 +37,10 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The Crypto Bill Failed, Wall Street Is Building It Anyway (And Faster)",
-      "Published": "2026-10-01",
-      "URL": "https://www.youtube.com/watch?v=bvzOlrbndOw",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "bvzOlrbndOw"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
@@ -71,10 +71,10 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Gold Price Analysis",
-      "Published": "2026-10-01",
-      "URL": "https://www.youtube.com/shorts/lDp-3E66kBI",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "lDp-3E66kBI"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Frank Holmes: They Will Print $100 Trillion - Why to Buy Bitcoin & Gold",
-      "Published": "2026-10-01",
-      "URL": "https://www.youtube.com/watch?v=kjnYMqfDnzc",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "kjnYMqfDnzc"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Systemic Risk Is EXPLODING In Financial Markets...Here's Why",
-      "Published": "2026-10-01",
-      "URL": "https://www.youtube.com/watch?v=VS1bMYc3pag",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,7 +118,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "VS1bMYc3pag"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
