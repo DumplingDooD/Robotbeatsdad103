@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-02T22:02:56.693847+00:00",
+  "last_updated": "2026-10-03T04:52:46.980167+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "While You Slept, SpaceX Did THIS 🚀  & Latest Price Targets",
-      "Published": "2026-10-02",
-      "URL": "https://www.youtube.com/watch?v=PhrExLUDiiQ",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "PhrExLUDiiQ"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "WHAT HAPPENS IF BITCOIN BREAKS 80K",
-      "Published": "2026-10-02",
-      "URL": "https://www.youtube.com/shorts/AoBNYhOpe3g",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,14 +33,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "AoBNYhOpe3g"
+      "VideoID": null
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The Crypto Bill Failed, Wall Street Is Building It Anyway (And Faster)",
-      "Published": "2026-10-01",
-      "URL": "https://www.youtube.com/watch?v=bvzOlrbndOw",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "bvzOlrbndOw"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "FINALLY?",
-      "Published": "2026-09-21",
-      "URL": "https://www.youtube.com/watch?v=ZmKLnnHi9cI",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ZmKLnnHi9cI"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Payrolls Come in Weak, Unemployment Ticks Higher",
-      "Published": "2026-10-02",
-      "URL": "https://www.youtube.com/watch?v=kDJcse482Eo",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "kDJcse482Eo"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Jim Rickards: Stabelcoins \"Dangerous\" for Bond Market - $10,000 Gold Outlook",
-      "Published": "2026-10-02",
-      "URL": "https://www.youtube.com/watch?v=_m7bO9fNjgY",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "_m7bO9fNjgY"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Systemic Risk Is EXPLODING In Financial Markets...Here's Why",
-      "Published": "2026-10-01",
-      "URL": "https://www.youtube.com/watch?v=VS1bMYc3pag",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "VS1bMYc3pag"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Sneak Peek - In The Know With Cathie Wood",
-      "Published": "2026-10-02",
-      "URL": "https://www.youtube.com/watch?v=b6pJHfu5wz8",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "b6pJHfu5wz8"
+      "VideoID": null
     }
   ]
 }
