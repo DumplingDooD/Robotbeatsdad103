@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-12T15:04:19.348524+00:00",
+  "last_updated": "2026-10-13T00:27:35.048440+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "🚨Crypto Proxy & Wrapper Dangers📉What Stage Of IA13 Bubble Are We?",
-      "Published": "2026-10-11",
-      "URL": "https://www.youtube.com/watch?v=JFF71e0pJTk",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,13 +16,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "JFF71e0pJTk"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Why Chinese AI is Hoarding Billions?",
-      "Published": "2026-10-11",
-      "URL": "https://www.youtube.com/shorts/aLqEUgStBpE",
+      "Video Title": "Can crypto fix AI's power problem?",
+      "Published": "2026-10-12",
+      "URL": "https://www.youtube.com/shorts/B1bXnk5-LgU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,14 +33,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "aLqEUgStBpE"
+      "VideoID": "B1bXnk5-LgU"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The Billionaire Who Predicted the Dot-Com Crash Says Bitcoin Goes to Zero",
-      "Published": "2026-10-08",
-      "URL": "https://www.youtube.com/watch?v=VnmIYWCGy2g",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "VnmIYWCGy2g"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "FINALLY?",
-      "Published": "2026-09-21",
-      "URL": "https://www.youtube.com/watch?v=ZmKLnnHi9cI",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "ZmKLnnHi9cI"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Is It Smart To Completely Ignore This?",
-      "Published": "2026-10-09",
-      "URL": "https://www.youtube.com/shorts/F5REX5QjuxA",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "F5REX5QjuxA"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Sovereign BTC Adoption, Oil Market, Inflation Outlook | BMTV Oct. 12, 2026",
-      "Published": "2026-10-09",
-      "URL": "https://www.youtube.com/watch?v=j2n6azUcaS4",
+      "Video Title": "The Dollar Has Lost 30% of Its Value Since 2020",
+      "Published": "2026-10-12",
+      "URL": "https://www.youtube.com/shorts/7V6O3qP4oyI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "j2n6azUcaS4"
+      "VideoID": "7V6O3qP4oyI"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "The Global Debt Crisis Is Just A Side Show...This Is The Main Event",
-      "Published": "2026-10-10",
-      "URL": "https://www.youtube.com/watch?v=5MrYm4X0a6s",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "5MrYm4X0a6s"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Starship’s Next Test Just Got More Interesting",
-      "Published": "2026-10-08",
-      "URL": "https://www.youtube.com/watch?v=nPgoHZpWLPY",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "nPgoHZpWLPY"
+      "VideoID": null
     }
   ]
 }
