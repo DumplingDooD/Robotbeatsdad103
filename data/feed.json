@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-13T00:27:35.048440+00:00",
+  "last_updated": "2026-10-13T13:58:26.838284+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
+      "Video Title": "Down 34% From ATH 🩸But Up 45% off Bottom: Q4 About To Flip? 🚀",
+      "Published": "2026-10-12",
+      "URL": "https://www.youtube.com/watch?v=MJvatTIjBO0",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,13 +16,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "MJvatTIjBO0"
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Can crypto fix AI's power problem?",
-      "Published": "2026-10-12",
-      "URL": "https://www.youtube.com/shorts/B1bXnk5-LgU",
+      "Video Title": "MARKET UPDATE - OCTOBER 13, 2026",
+      "Published": "2026-10-13",
+      "URL": "https://www.youtube.com/shorts/1ZKr2jh61CU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,64 +33,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "B1bXnk5-LgU"
+      "VideoID": "1ZKr2jh61CU"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
-      "Sentiment": "🟣 Unknown",
-      "KeyPoints": [],
-      "Entities": {
-        "tickers": [],
-        "macro": [],
-        "actions": [],
-        "levels": []
-      },
-      "TranscriptNote": "",
-      "VideoID": null
-    },
-    {
-      "Name": "CTO Larsson",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
-      "Sentiment": "🟣 Unknown",
-      "KeyPoints": [],
-      "Entities": {
-        "tickers": [],
-        "macro": [],
-        "actions": [],
-        "levels": []
-      },
-      "TranscriptNote": "",
-      "VideoID": null
-    },
-    {
-      "Name": "Benjamin Cowen",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
-      "Sentiment": "🟣 Unknown",
-      "KeyPoints": [],
-      "Entities": {
-        "tickers": [],
-        "macro": [],
-        "actions": [],
-        "levels": []
-      },
-      "TranscriptNote": "",
-      "VideoID": null
-    },
-    {
-      "Name": "Bitcoin Magazine",
-      "Video Title": "The Dollar Has Lost 30% of Its Value Since 2020",
-      "Published": "2026-10-12",
-      "URL": "https://www.youtube.com/shorts/7V6O3qP4oyI",
+      "Video Title": "The Billionaire Who Predicted the Dot-Com Crash Says Bitcoin Goes to Zero",
+      "Published": "2026-10-08",
+      "URL": "https://www.youtube.com/watch?v=VnmIYWCGy2g",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,14 +50,65 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "7V6O3qP4oyI"
+      "VideoID": "VnmIYWCGy2g"
+    },
+    {
+      "Name": "CTO Larsson",
+      "Video Title": "FINALLY?",
+      "Published": "2026-09-21",
+      "URL": "https://www.youtube.com/watch?v=ZmKLnnHi9cI",
+      "Summary": "Transcript unavailable.",
+      "Sentiment": "🟣 Unknown",
+      "KeyPoints": [],
+      "Entities": {
+        "tickers": [],
+        "macro": [],
+        "actions": [],
+        "levels": []
+      },
+      "TranscriptNote": "",
+      "VideoID": "ZmKLnnHi9cI"
+    },
+    {
+      "Name": "Benjamin Cowen",
+      "Video Title": "Bitcoin Dominance",
+      "Published": "2026-10-12",
+      "URL": "https://www.youtube.com/watch?v=-eKtrrN5P48",
+      "Summary": "Transcript unavailable.",
+      "Sentiment": "🟣 Unknown",
+      "KeyPoints": [],
+      "Entities": {
+        "tickers": [],
+        "macro": [],
+        "actions": [],
+        "levels": []
+      },
+      "TranscriptNote": "",
+      "VideoID": "-eKtrrN5P48"
+    },
+    {
+      "Name": "Bitcoin Magazine",
+      "Video Title": "Global Macro, Bitcoin Mining vs AI, Mid-Terms Outlook | BMTV Oct. 13, 2026",
+      "Published": "2026-10-12",
+      "URL": "https://www.youtube.com/watch?v=acRr8jRu3Tk",
+      "Summary": "Transcript unavailable.",
+      "Sentiment": "🟣 Unknown",
+      "KeyPoints": [],
+      "Entities": {
+        "tickers": [],
+        "macro": [],
+        "actions": [],
+        "levels": []
+      },
+      "TranscriptNote": "",
+      "VideoID": "acRr8jRu3Tk"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
+      "Video Title": "The Global Debt Crisis Is Just A Side Show...This Is The Main Event",
+      "Published": "2026-10-10",
+      "URL": "https://www.youtube.com/watch?v=5MrYm4X0a6s",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "5MrYm4X0a6s"
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
+      "Video Title": "Starship’s Next Test Just Got More Interesting",
+      "Published": "2026-10-08",
+      "URL": "https://www.youtube.com/watch?v=nPgoHZpWLPY",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "nPgoHZpWLPY"
     }
   ]
 }
