@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T22:30:41.379489+00:00",
+  "last_updated": "2026-10-14T04:28:10.098927+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,10 +88,10 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Higher Price, Weaker Momentum: Bitcoin’s Warning Sign",
-      "Published": "2026-10-13",
-      "URL": "https://www.youtube.com/shorts/zHtqGBszVOo",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "zHtqGBszVOo"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
