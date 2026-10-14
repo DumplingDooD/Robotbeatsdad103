@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T11:35:12.086739+00:00",
+  "last_updated": "2026-10-14T16:57:30.170178+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "What Is Blockchain?",
-      "Published": "2026-10-13",
-      "URL": "https://www.youtube.com/shorts/mzdOqIeHjS0",
+      "Video Title": "Bitcoin Just WRECKED Bulls & Bears",
+      "Published": "2026-10-14",
+      "URL": "https://www.youtube.com/watch?v=X7pEDGPmH2Y",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "mzdOqIeHjS0"
+      "VideoID": "X7pEDGPmH2Y"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "In The Short Term I Think Bitcoin Dominance Is Likely To",
-      "Published": "2026-10-13",
-      "URL": "https://www.youtube.com/shorts/YCp21bPiDDw",
+      "Video Title": "Inflation Comes in Hot",
+      "Published": "2026-10-14",
+      "URL": "https://www.youtube.com/watch?v=qWXGEl-ojx4",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "YCp21bPiDDw"
+      "VideoID": "qWXGEl-ojx4"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Global Macro, Bitcoin Mining vs AI, Mid-Terms Outlook | BMTV Oct. 13, 2026",
+      "Video Title": "Troy Cross: Number Go Up - The Solution to Bitcoin's Marketing Problem?",
       "Published": "2026-10-14",
-      "URL": "https://www.youtube.com/watch?v=acRr8jRu3Tk",
+      "URL": "https://www.youtube.com/watch?v=ekI-Uiek6cM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "acRr8jRu3Tk"
+      "VideoID": "ekI-Uiek6cM"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "How Have ARK’s Cryptocurrency Predictions Held Up?",
-      "Published": "2026-10-13",
-      "URL": "https://www.youtube.com/watch?v=r0Nrvu256bU",
+      "Video Title": "Cathie Wood: “We Do Think The Turn Is In Here For Bitcoin\"",
+      "Published": "2026-10-14",
+      "URL": "https://www.youtube.com/shorts/Fwsl-NjjeFc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "r0Nrvu256bU"
+      "VideoID": "Fwsl-NjjeFc"
     }
   ]
 }
