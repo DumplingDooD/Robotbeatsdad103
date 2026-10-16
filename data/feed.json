@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T11:08:10.149396+00:00",
+  "last_updated": "2026-10-16T16:27:02.812847+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "NFA Live! Bitcoin, Rates, SPX",
-      "Published": "2026-10-15",
-      "URL": "https://www.youtube.com/watch?v=U6sxotkGqPw",
+      "Video Title": "Bitcoin Extreme Uncertainty",
+      "Published": "2026-10-16",
+      "URL": "https://www.youtube.com/watch?v=H_JhpNaRPl8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "U6sxotkGqPw"
+      "VideoID": "H_JhpNaRPl8"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin Institutional Adoption & Q4 Market Outlook | BMTV Oct. 15, 2026",
+      "Video Title": "Mark Moss: Why Weak Hands Always Lose With Bitcoin",
       "Published": "2026-10-16",
-      "URL": "https://www.youtube.com/watch?v=y25NBluOOTo",
+      "URL": "https://www.youtube.com/shorts/wMFEEAokhZM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "y25NBluOOTo"
+      "VideoID": "wMFEEAokhZM"
     },
     {
       "Name": "George Gammon",
