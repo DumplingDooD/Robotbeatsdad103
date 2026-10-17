@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T10:27:39.334661+00:00",
+  "last_updated": "2026-10-17T15:21:20.235195+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "HOW DID A 17 MILEPIPE WRECK AI?",
-      "Published": "2026-10-16",
-      "URL": "https://www.youtube.com/shorts/MxhQ2RnE2KA",
+      "Video Title": "How Crypto Wallets ACTUALLY Work",
+      "Published": "2026-10-17",
+      "URL": "https://www.youtube.com/watch?v=OfdPQ_hdEPA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "MxhQ2RnE2KA"
+      "VideoID": "OfdPQ_hdEPA"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "AI Credit Outlook, Global Macro, MSTR Analysis | BMTV Oct. 16, 2026",
+      "Video Title": "Natalie Brunell: Why You’re Forced to Buy Assets Instead of Saving",
       "Published": "2026-10-17",
-      "URL": "https://www.youtube.com/watch?v=fOXAwrHecdY",
+      "URL": "https://www.youtube.com/shorts/F9puM7YXqZo",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "fOXAwrHecdY"
+      "VideoID": "F9puM7YXqZo"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Elon Paid $8 Billion For Potentially Dead Airwaves | The Brainstorm 153",
-      "Published": "2026-10-14",
-      "URL": "https://www.youtube.com/watch?v=S-bIg3nno8U",
+      "Video Title": "Live From Tesla’s Roadster Event",
+      "Published": "2026-10-17",
+      "URL": "https://www.youtube.com/shorts/5p6uqZoMVFk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "S-bIg3nno8U"
+      "VideoID": "5p6uqZoMVFk"
     }
   ]
 }
