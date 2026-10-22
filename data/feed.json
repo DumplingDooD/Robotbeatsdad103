@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T16:59:16.291024+00:00",
+  "last_updated": "2026-10-22T21:24:32.705000+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "The Downfall of Richard Heart's Pulsechain",
+      "Video Title": "WILL YOUR CRYPTO WALLET SURVIVE AI??",
       "Published": "2026-10-22",
-      "URL": "https://www.youtube.com/watch?v=V_4MHh9XcG0",
+      "URL": "https://www.youtube.com/shorts/e2PWiXI-Eok",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,13 +33,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "V_4MHh9XcG0"
+      "VideoID": "e2PWiXI-Eok"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The Billionaire Who Predicted the Dot-Com Crash Says Bitcoin Goes to Zero",
-      "Published": "2026-10-08",
-      "URL": "https://www.youtube.com/watch?v=VnmIYWCGy2g",
+      "Video Title": "The Billionaire Tax Will Cost California More Than It Raises.",
+      "Published": "2026-10-22",
+      "URL": "https://www.youtube.com/watch?v=6S4_xvTDOJk",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "VnmIYWCGy2g"
+      "VideoID": "6S4_xvTDOJk"
     },
     {
       "Name": "CTO Larsson",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "BTC Market Outlook, Macro & Derivatives, Adam Back on Bitcoin | BMTV Oct. 23, 2026",
+      "Video Title": "Parker Lewis: Bitcoin Will Settle 100% of Global Payments",
       "Published": "2026-10-22",
-      "URL": "https://www.youtube.com/watch?v=Vaj4F8_aTZQ",
+      "URL": "https://www.youtube.com/watch?v=2fwLwpDPdtU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Vaj4F8_aTZQ"
+      "VideoID": "2fwLwpDPdtU"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Are Today's Rates Normal? Here's What Cathie Wood Thinks.",
+      "Video Title": "SpaceX And Tesla Earnings: Recap And What's Next",
       "Published": "2026-10-22",
-      "URL": "https://www.youtube.com/shorts/HjBp4ERvwlg",
+      "URL": "https://www.youtube.com/watch?v=ae_BTrgrGEE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "HjBp4ERvwlg"
+      "VideoID": "ae_BTrgrGEE"
     }
   ]
 }
