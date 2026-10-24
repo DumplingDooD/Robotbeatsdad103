@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T15:44:20.877288+00:00",
+  "last_updated": "2026-10-24T20:33:08.083569+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "BTC Market Outlook, Macro & Derivatives | BMTV Oct. 23, 2026",
+      "Video Title": "Blockstream Executive Peter Bain: Institutional Clients Say BItcoin \"Poised for a Big Bull Run\"",
       "Published": "2026-10-24",
-      "URL": "https://www.youtube.com/watch?v=Vaj4F8_aTZQ",
+      "URL": "https://www.youtube.com/watch?v=W7l_EBQrVzA",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Vaj4F8_aTZQ"
+      "VideoID": "W7l_EBQrVzA"
     },
     {
       "Name": "George Gammon",
