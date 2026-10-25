@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T11:06:57.855775+00:00",
+  "last_updated": "2026-10-25T15:55:10.507446+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "What Is a Smart Contract?",
-      "Published": "2026-10-24",
-      "URL": "https://www.youtube.com/watch?v=l21SOJR5Mbk",
+      "Video Title": "What Happens If The Democrats Win The Midterms?",
+      "Published": "2026-10-25",
+      "URL": "https://www.youtube.com/watch?v=K8P_wl89BXQ",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "l21SOJR5Mbk"
+      "VideoID": "K8P_wl89BXQ"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Blockstream Executive Peter Bain: Institutional Clients Say BItcoin \"Poised for a Big Bull Run\"",
-      "Published": "2026-10-24",
-      "URL": "https://www.youtube.com/watch?v=W7l_EBQrVzA",
+      "Video Title": "Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate",
+      "Published": "2026-10-25",
+      "URL": "https://www.youtube.com/watch?v=Y5GXvtcrw2s",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "W7l_EBQrVzA"
+      "VideoID": "Y5GXvtcrw2s"
     },
     {
       "Name": "George Gammon",
