@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T11:56:00.165981+00:00",
+  "last_updated": "2026-10-27T17:51:17.413892+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "What Changes If Democrats Take Control of the House?",
-      "Published": "2026-10-26",
-      "URL": "https://www.youtube.com/shorts/fvybXmnkGWo",
+      "Video Title": "Anthropic's $2 Trillion IPO is a TRAP (few see it)",
+      "Published": "2026-10-27",
+      "URL": "https://www.youtube.com/watch?v=5MXHSeYiZ6g",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "fvybXmnkGWo"
+      "VideoID": "5MXHSeYiZ6g"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Institutional Demand, BTC Treasury Strategy, Bitcoin Q4 Outlook | BMTV Oct. 26, 2026",
+      "Video Title": "Michael Sullivan: Bitcoin Price \"Climbing the Wall of Worry\" - Early Signs of Bull Market",
       "Published": "2026-10-27",
-      "URL": "https://www.youtube.com/watch?v=jljAncrD6jU",
+      "URL": "https://www.youtube.com/watch?v=CFF3Ps0K6xI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "jljAncrD6jU"
+      "VideoID": "CFF3Ps0K6xI"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Cathie Wood: 125 Years Of Growth May Now Shift",
+      "Video Title": "Cathie Wood: Oil Demand May Be Peaking",
       "Published": "2026-10-27",
-      "URL": "https://www.youtube.com/shorts/LPF97DcfsMA",
+      "URL": "https://www.youtube.com/shorts/3B5wYj2uoqc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "LPF97DcfsMA"
+      "VideoID": "3B5wYj2uoqc"
     }
   ]
 }
