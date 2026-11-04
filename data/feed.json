@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-04T14:11:20.903368+00:00",
+  "last_updated": "2026-11-04T23:28:38.472713+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "How Cooked Are We? 👀 BTC Post Midterm Price + the Last Growth Engine⚡",
-      "Published": "2026-11-03",
-      "URL": "https://www.youtube.com/watch?v=yAYMle6FWvc",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,14 +16,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "yAYMle6FWvc"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "How The Midterm Elections Could Reshape Crypto",
-      "Published": "2026-11-04",
-      "URL": "https://www.youtube.com/shorts/5ECkfcnaGKU",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -33,14 +33,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "5ECkfcnaGKU"
+      "VideoID": null
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "I Studied 19 Midterms. This Always Happens Next.",
-      "Published": "2026-11-02",
-      "URL": "https://www.youtube.com/watch?v=UqNasOITKfk",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "UqNasOITKfk"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "The AI Gold Rush Has a Catch",
-      "Published": "2026-11-03",
-      "URL": "https://www.youtube.com/watch?v=knEFdwypSS0",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "knEFdwypSS0"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "The United States Midterms and Markets",
-      "Published": "2026-11-03",
-      "URL": "https://www.youtube.com/watch?v=krNe11F52PI",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "krNe11F52PI"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin and Election Day 2026 | BMTV Nov. 3, 2026",
-      "Published": "2026-11-04",
-      "URL": "https://www.youtube.com/watch?v=MJzWDJf4thg",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "MJzWDJf4thg"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "I Just Discovered The Black Swan That Will Trigger The Crash",
-      "Published": "2026-11-03",
-      "URL": "https://www.youtube.com/watch?v=bSWHk6tcBQs",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "bSWHk6tcBQs"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Flying Taxis Are Here:  ARK x Joby",
-      "Published": "2026-11-03",
-      "URL": "https://www.youtube.com/watch?v=W17X6dOskDw",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "W17X6dOskDw"
+      "VideoID": null
     }
   ]
 }
