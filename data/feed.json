@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T15:27:05.710260+00:00",
+  "last_updated": "2026-11-17T01:47:45.924562+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Why didn't Bitcoin hit a crazy all-time high this year?",
-      "Published": "2026-11-15",
-      "URL": "https://www.youtube.com/shorts/yawHhhUA0Hk",
+      "Video Title": "64,000 Bitcoin Miners Hijacked by Uncensored AI Hackers",
+      "Published": "2026-11-16",
+      "URL": "https://www.youtube.com/shorts/2KMWoCwAnxM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "yawHhhUA0Hk"
+      "VideoID": "2KMWoCwAnxM"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin Hits \"Extreme Fear\" at $65K as Fed Hike Odds Climb | BMTV Nov. 16, 2026",
-      "Published": "2026-11-13",
-      "URL": "https://www.youtube.com/watch?v=KRvh4AcSofA",
+      "Video Title": "Why Holding the June Low May Not Mean Bitcoin's Bottom Is In",
+      "Published": "2026-11-17",
+      "URL": "https://www.youtube.com/shorts/61L_ONOWEu0",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "KRvh4AcSofA"
+      "VideoID": "61L_ONOWEu0"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Partial Rocket Reuse Was Only The Start",
-      "Published": "2026-11-13",
-      "URL": "https://www.youtube.com/shorts/R5t4rm1h1QE",
+      "Video Title": "Cathie Wood: \"We've Been Here Before\"",
+      "Published": "2026-11-16",
+      "URL": "https://www.youtube.com/shorts/8_f2kmeag8g",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "R5t4rm1h1QE"
+      "VideoID": "8_f2kmeag8g"
     }
   ]
 }
