@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T00:50:32.354788+00:00",
+  "last_updated": "2026-11-18T15:28:06.102660+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "How Wall Street Is Choosing Crypto's WINNERS",
-      "Published": "2026-11-17",
-      "URL": "https://www.youtube.com/watch?v=9k47sQ0CT18",
+      "Video Title": "Did Anthropic Cause Bitcoin's CRASH?",
+      "Published": "2026-11-18",
+      "URL": "https://www.youtube.com/watch?v=zlfcCJ1GIzU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "9k47sQ0CT18"
+      "VideoID": "zlfcCJ1GIzU"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "The Clock Is Running Out on the Bitcoin Bear Case",
-      "Published": "2026-11-18",
-      "URL": "https://www.youtube.com/shorts/rludCCSwxVo",
+      "Video Title": "Wall Street's 13F Bitcoin Bets, BTC Selloff & The Bitcoin Standard | BMTV Nov. 18, 2026",
+      "Published": "2026-11-17",
+      "URL": "https://www.youtube.com/watch?v=jYOlWgmNIPU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "rludCCSwxVo"
+      "VideoID": "jYOlWgmNIPU"
     },
     {
       "Name": "George Gammon",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Meet The Team - Raye Hadi",
-      "Published": "2026-11-17",
-      "URL": "https://www.youtube.com/shorts/CVmbCw5wEtI",
+      "Video Title": "Tasha Keeney: Why The Starship Ship Catch Matters",
+      "Published": "2026-11-18",
+      "URL": "https://www.youtube.com/watch?v=wkZzDWkT1T8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "CVmbCw5wEtI"
+      "VideoID": "wkZzDWkT1T8"
     }
   ]
 }
