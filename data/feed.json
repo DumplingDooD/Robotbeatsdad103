@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T00:08:24.128953+00:00",
+  "last_updated": "2026-11-19T15:33:54.475989+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Jensen Huang Wants Back In. Why Is NVIDIA Saying No?",
-      "Published": "2026-11-18",
-      "URL": "https://www.youtube.com/shorts/L_AUxnMLvrQ",
+      "Video Title": "How a 19 Year Old Built Ethereum",
+      "Published": "2026-11-19",
+      "URL": "https://www.youtube.com/watch?v=38Cxn9WpttM",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "L_AUxnMLvrQ"
+      "VideoID": "38Cxn9WpttM"
     },
     {
       "Name": "Mark Moss",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: The Bull's Dilemma",
-      "Published": "2026-11-18",
-      "URL": "https://www.youtube.com/watch?v=HNuV6mayKmk",
+      "Video Title": "The Anthropic IPO",
+      "Published": "2026-11-19",
+      "URL": "https://www.youtube.com/watch?v=ixMSi_KX89s",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "HNuV6mayKmk"
+      "VideoID": "ixMSi_KX89s"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin: It’s So Over",
-      "Published": "2026-11-18",
-      "URL": "https://www.youtube.com/watch?v=sFN2dXEVQW0",
+      "Video Title": "Anthropic IPO: Bitcoin vs. The AI Trade | BMTV Nov. 19, 2026",
+      "Published": "2026-11-19",
+      "URL": "https://www.youtube.com/watch?v=SSgYhQaYzoI",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,11 +101,11 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "sFN2dXEVQW0"
+      "VideoID": "SSgYhQaYzoI"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "A Stock Market RESET Just Started (Here's Why)",
+      "Video Title": "The Stock Market May Not Survive What Just Happened...Here's Why",
       "Published": "2026-11-19",
       "URL": "https://www.youtube.com/watch?v=lxB-3XyBQjQ",
       "Summary": "Transcript unavailable.",
@@ -122,9 +122,9 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Inside The Starship Flight 15 Catch With Tasha Keeney",
-      "Published": "2026-11-18",
-      "URL": "https://www.youtube.com/watch?v=wkZzDWkT1T8",
+      "Video Title": "The AI Shakeup Has A Message | The Brainstorm 158",
+      "Published": "2026-11-19",
+      "URL": "https://www.youtube.com/watch?v=hQccIpZp998",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "wkZzDWkT1T8"
+      "VideoID": "hQccIpZp998"
     }
   ]
 }
