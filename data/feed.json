@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T23:53:30.220888+00:00",
+  "last_updated": "2026-11-21T06:41:47.032272+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin Drops Below $60k",
-      "Published": "2026-11-20",
-      "URL": "https://www.youtube.com/watch?v=6EpZVnKKrOE",
+      "Video Title": "Bitcoin: The Lower Low",
+      "Published": "2026-11-21",
+      "URL": "https://www.youtube.com/watch?v=ZNy4XdW59dc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "6EpZVnKKrOE"
+      "VideoID": "ZNy4XdW59dc"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin Is Trading Like a Risk Asset, But \"The Long Term Argument Hasn't Changed\"",
-      "Published": "2026-11-20",
-      "URL": "https://www.youtube.com/shorts/Ip6MtmwXEkU",
+      "Video Title": "Bitcoin Breaks $60k - Where is the Bear Market Bottom? | BMTV Nov. 20, 2026",
+      "Published": "2026-11-21",
+      "URL": "https://www.youtube.com/watch?v=KqAxuchrc4Q",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Ip6MtmwXEkU"
+      "VideoID": "KqAxuchrc4Q"
     },
     {
       "Name": "George Gammon",
