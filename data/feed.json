@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T07:02:10.623448+00:00",
+  "last_updated": "2026-11-23T23:42:01.014403+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Pump.fun KILLED Crypto",
-      "Published": "2026-11-22",
-      "URL": "https://www.youtube.com/watch?v=eNZIXXz7xy8",
+      "Video Title": "Who Caused Bitcoin's $17,000 Flash Crash?",
+      "Published": "2026-11-23",
+      "URL": "https://www.youtube.com/shorts/ZC6oMrR7zJE",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "eNZIXXz7xy8"
+      "VideoID": "ZC6oMrR7zJE"
     },
     {
       "Name": "Mark Moss",
@@ -88,9 +88,9 @@
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "ByteTree CEO: This $170 Trillion Industry Is \"The Most Important Thing for Bitcoin\"",
-      "Published": "2026-11-22",
-      "URL": "https://www.youtube.com/watch?v=DGMfkLRqqUU",
+      "Video Title": "Grant Cardone: Most People Have Their Attention on the Wrong Real Estate",
+      "Published": "2026-11-23",
+      "URL": "https://www.youtube.com/shorts/8tFHjRokt2M",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "DGMfkLRqqUU"
+      "VideoID": "8tFHjRokt2M"
     },
     {
       "Name": "George Gammon",
