@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T07:59:29.199373+00:00",
+  "last_updated": "2026-11-25T21:29:34.543937+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "Why 42 MACRO Thinks Bitcoin Could Still Crash to $38,400",
-      "Published": "2026-11-24",
-      "URL": "https://www.youtube.com/shorts/iQoaNL2CqWw",
+      "Video Title": "Coldcard's Bitcoin Wallet Flaw Went Undetected for Years",
+      "Published": "2026-11-25",
+      "URL": "https://www.youtube.com/shorts/lqP8E2Be45s",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,13 +33,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "iQoaNL2CqWw"
+      "VideoID": "lqP8E2Be45s"
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "Is Your Portfolio Too Exposed? The Truth About the New Congress",
-      "Published": "2026-11-12",
-      "URL": "https://www.youtube.com/watch?v=_c4fb8w4Vb8",
+      "Video Title": "Stocks, Gold and Bitcoin All Crashed at Once. Here’s What’s Next",
+      "Published": "2026-11-25",
+      "URL": "https://www.youtube.com/watch?v=1U91f7ttsdc",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -50,7 +50,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "_c4fb8w4Vb8"
+      "VideoID": "1U91f7ttsdc"
     },
     {
       "Name": "CTO Larsson",
@@ -71,9 +71,9 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: The Weight of History",
-      "Published": "2026-11-24",
-      "URL": "https://www.youtube.com/watch?v=L62dFZxfjEk",
+      "Video Title": "Bitcoin and the Realized Price",
+      "Published": "2026-11-25",
+      "URL": "https://www.youtube.com/watch?v=mPDwkBYWJo8",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -84,13 +84,13 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "L62dFZxfjEk"
+      "VideoID": "mPDwkBYWJo8"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Bitcoin Faces Potential First 5-Year Downturn - What Comes Next? | BMTV Nov. 24, 2026",
+      "Video Title": "Is The World Ready for Hyperbitcoinization?",
       "Published": "2026-11-25",
-      "URL": "https://www.youtube.com/watch?v=BdkvJBSPmB0",
+      "URL": "https://www.youtube.com/shorts/r9RLC6VK6is",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "BdkvJBSPmB0"
+      "VideoID": "r9RLC6VK6is"
     },
     {
       "Name": "George Gammon",
