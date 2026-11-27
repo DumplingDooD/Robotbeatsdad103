@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T21:16:54.532173+00:00",
+  "last_updated": "2026-11-27T07:51:05.291234+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -37,10 +37,10 @@
     },
     {
       "Name": "Mark Moss",
-      "Video Title": "The 1623 Thanksgiving Shift That Built America (And Why We're Breaking It)",
-      "Published": "2026-11-26",
-      "URL": "https://www.youtube.com/watch?v=h7NWEJunyPs",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9ZM3N0ybRtp44-WLqsW3iQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -50,14 +50,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "h7NWEJunyPs"
+      "VideoID": null
     },
     {
       "Name": "CTO Larsson",
-      "Video Title": "Bitcoin: Everyone Is Watching the Wrong Thing",
-      "Published": "2026-11-24",
-      "URL": "https://www.youtube.com/watch?v=L-Xn5Ro0JlM",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCFU-BE5HRJoudqIz1VDKlhQ",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -67,14 +67,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "L-Xn5Ro0JlM"
+      "VideoID": null
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "A Bitcoin Thanksgiving",
-      "Published": "2026-11-26",
-      "URL": "https://www.youtube.com/watch?v=q0KSyXCVBr8",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "q0KSyXCVBr8"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Grant Cardone: Bitcoin Will Outperform Real Estate",
-      "Published": "2026-11-26",
-      "URL": "https://www.youtube.com/shorts/iZzQsEplfcs",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "iZzQsEplfcs"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
-      "Video Title": "The Stock Market May Not Survive What Just Happened...Here's Why",
-      "Published": "2026-11-19",
-      "URL": "https://www.youtube.com/watch?v=lxB-3XyBQjQ",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "lxB-3XyBQjQ"
+      "VideoID": null
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "One Of Tech’s Worst Drawdowns Since 2003. Is The Bottom In? | The Brainstorm 159",
-      "Published": "2026-11-25",
-      "URL": "https://www.youtube.com/watch?v=TlQCGSkigmw",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "TlQCGSkigmw"
+      "VideoID": null
     }
   ]
 }
