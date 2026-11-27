@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T07:51:05.291234+00:00",
+  "last_updated": "2026-11-27T20:58:38.103792+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
@@ -20,9 +20,9 @@
     },
     {
       "Name": "Coin Bureau",
-      "Video Title": "SpaceX Wants AI Data Centers In Space!",
-      "Published": "2026-11-26",
-      "URL": "https://www.youtube.com/shorts/P4r6TT2dAuE",
+      "Video Title": "Is AI Making Crypto Less Safe?",
+      "Published": "2026-11-27",
+      "URL": "https://www.youtube.com/shorts/x9RFSmI74mU",
       "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
@@ -33,7 +33,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "P4r6TT2dAuE"
+      "VideoID": "x9RFSmI74mU"
     },
     {
       "Name": "Mark Moss",
@@ -71,10 +71,10 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
+      "Video Title": "Bitcoin: Dubious Speculation",
+      "Published": "2026-11-27",
+      "URL": "https://www.youtube.com/watch?v=Ta3ZE0k3XgA",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "Ta3ZE0k3XgA"
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
+      "Video Title": "Peter St. Onge: “Massively Bullish” for Bitcoin if Fed Abandons 2% Inflation Target",
+      "Published": "2026-11-27",
+      "URL": "https://www.youtube.com/watch?v=m1MlydKvsJI",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,14 +101,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "m1MlydKvsJI"
     },
     {
       "Name": "George Gammon",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpvyOqtEc86X8w8_Se0t4-w",
+      "Video Title": "What Just Happened Is Much Worse Than A Stock Market Crash",
+      "Published": "2026-11-27",
+      "URL": "https://www.youtube.com/watch?v=NLnfIYO5Clo",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -118,14 +118,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "NLnfIYO5Clo"
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "Unavailable",
-      "Published": "",
-      "URL": "",
-      "Summary": "Error: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
+      "Video Title": "One Of Tech’s Worst Drawdowns Since 2003. Is The Bottom In? | The Brainstorm 159",
+      "Published": "2026-11-25",
+      "URL": "https://www.youtube.com/watch?v=TlQCGSkigmw",
+      "Summary": "Transcript unavailable.",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": null
+      "VideoID": "TlQCGSkigmw"
     }
   ]
 }
