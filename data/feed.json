@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-27T20:58:38.103792+00:00",
+  "last_updated": "2026-11-28T07:20:14.407577+00:00",
   "rows": [
     {
       "Name": "InvestAnswers",
-      "Video Title": "🚀 Smart Money Piling Into ONE Stock! AI Compute Explosion & Brian’s Predictions",
-      "Published": "2026-11-26",
-      "URL": "https://www.youtube.com/watch?v=p5r6elDNwXg",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UClgJyzwGs-GyaNxUHcLZrkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -16,7 +16,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "p5r6elDNwXg"
+      "VideoID": null
     },
     {
       "Name": "Coin Bureau",
@@ -71,10 +71,10 @@
     },
     {
       "Name": "Benjamin Cowen",
-      "Video Title": "Bitcoin: Dubious Speculation",
-      "Published": "2026-11-27",
-      "URL": "https://www.youtube.com/watch?v=Ta3ZE0k3XgA",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCRvqjQPSeaWn-uEx-w0XOIg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -84,14 +84,14 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "Ta3ZE0k3XgA"
+      "VideoID": null
     },
     {
       "Name": "Bitcoin Magazine",
-      "Video Title": "Peter St. Onge: “Massively Bullish” for Bitcoin if Fed Abandons 2% Inflation Target",
-      "Published": "2026-11-27",
-      "URL": "https://www.youtube.com/watch?v=m1MlydKvsJI",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtOV5M-T3GcsJAq8QKaf0lg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -101,7 +101,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "m1MlydKvsJI"
+      "VideoID": null
     },
     {
       "Name": "George Gammon",
@@ -122,10 +122,10 @@
     },
     {
       "Name": "ArkInvest",
-      "Video Title": "One Of Tech’s Worst Drawdowns Since 2003. Is The Bottom In? | The Brainstorm 159",
-      "Published": "2026-11-25",
-      "URL": "https://www.youtube.com/watch?v=TlQCGSkigmw",
-      "Summary": "Transcript unavailable.",
+      "Video Title": "Unavailable",
+      "Published": "",
+      "URL": "",
+      "Summary": "Error: 503 Server Error: Service Unavailable for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCK-zlnUfoDHzUwXcbddtnkg",
       "Sentiment": "🟣 Unknown",
       "KeyPoints": [],
       "Entities": {
@@ -135,7 +135,7 @@
         "levels": []
       },
       "TranscriptNote": "",
-      "VideoID": "TlQCGSkigmw"
+      "VideoID": null
     }
   ]
 }
